@@ -1,0 +1,1001 @@
+;listing_id;name;type;city;neighborhood;latitude;longitude;person_capacity;beds;bedrooms;bathrooms;is_rebookable;is_new_listing;is_fully_refundable;is_host_highly_rated;is_business_travel_ready;pricing_weekly_factor;pricing_monthly_factor
+0;28581061;La maison Clery;private_room;Paris;2e arrondissement;48.8692921869;2.3483348524;1;1;1;2;False;True;True;False;False;1;1
+1;661961;studio PARIS PLACE EDITH PIAF 75020;entire_home;Paris;;48.8672844474;2.4032548642;2;1;1;1;False;False;True;True;False;0.88;0.69
+2;1261705;chambre privée à louer @ paris oberkampf;private_room;Paris;;48.8678944172;2.3758967114;1;1;1;1;False;False;True;True;False;1;1
+3;1318834;Appartement au coeur du Marais;entire_home;Paris;République;48.8703699867;2.35851034;3;2;2;1;False;False;True;False;False;0.82;0.48
+4;1677091;Lovely & Quiet flat;entire_home;Paris;Buttes-Chaumont - Belleville;48.8741486149;2.373699571;2;1;1;1;False;False;True;True;False;0.95;0.9
+5;2157481;CENTRAL ET BIEN CONÇU,50m2+terrasse;entire_home;Paris;10e arrondissement;48.8758626621;2.3726647042;4;2;1;1;False;False;True;False;False;1;1
+6;1140610;Petit atelier canal st Martin;entire_home;Paris;République;48.869362;2.368722;3;1;1;1;False;False;True;False;False;0.86;0.66
+7;5662637;Sophisticated & Sunny Opulent 1BR *Opéra *4 Guests;entire_home;Paris;Opéra - Grands Boulevards;48.8727810623;2.3515491161;2;2;1;1;False;False;True;True;False;0.92;0.85
+8;5981388;Paris 16 - Elysées-Kléber-Trocadero /;entire_home;Paris;Passy;48.8689524256;2.2893333932;6;5;2;2;False;False;True;True;False;0.9;0.75
+9;149534;GREAT WARM FULL APT LE HAUT MARAIS;entire_home;Paris;;48.8663599642;2.3618441733;4;2;1;1;False;False;True;True;False;1;0.4
+10;7936602;UNIQUE ARCHITECT DESIGNED HOUSE;entire_home;Paris;Châtelet - Les Halles - Beaubourg;48.8641158013;2.34798053;4;2;2;1.5;False;False;True;False;False;0.83;1
+11;9468773;La Maison d'Anne suite 2 chambres;entire_home;Paris;Saint-Michel;48.8513389956;2.3501753677;5;4;2;1;False;False;True;True;False;0.92;1
+12;56093; Beau duplex dans le Marais ;entire_home;Paris;3e arrondissement;48.867284473;2.3584308861;4;2;1;1;False;False;True;True;False;0.88;1
+13;57207;Belle Chambre pour court;private_room;Paris;Vaugirard;48.8461836431;2.304454636;2;1;1;1;False;False;True;False;False;0.87;1
+14;14386985;Chambre avec salle de douche privative;private_room;Paris;Châtelet - Les Halles - Beaubourg;48.8619596695;2.3483874635;2;1;1;1;False;False;True;True;False;1;1
+15;15366928;stunning studio Charles Laffitte;entire_home;Neuilly-sur-Seine;16e arrondissement;48.8799658463;2.2744986479;2;1;1;1;False;False;True;True;False;1;0.85
+16;15881321;2 Bedroom Parisian Apartment Close to Eiffel Tower;entire_home;Paris;Tour Eiffel - Champ de Mars;48.8546902827;2.2983916208;6;3;2;1;False;False;True;True;False;1;1
+17;1896398;chambre à louer pour 1 ou 2;private_room;Paris;Père Lachaise - Ménilmontant;48.8611933018;2.4053367725;2;2;1;1;False;False;True;False;False;1;1
+18;17956827;PARIS PANTHEON QUARTIER LATIN;private_room;Paris;Montparnasse;48.8461892666;2.3243340887;3;3;1;1;False;False;True;False;False;1;1
+19;114543;Charming 1bdr 55m² - Eiffel Tower;entire_home;Paris;;48.8495295698;2.2902192042;2;1;1;1;False;False;True;True;False;0.9;0.9
+20;22199515;Spacious 2 BR Near Eiffel Tower and St Germain;entire_home;Paris;Invalides - Ecole Militaire;48.8575088798;2.3226100819;3;2;2;1.5;False;False;True;True;False;1;1
+21;22568676;Centre Rex Opéra;entire_home;Paris;Opéra - Grands Boulevards;48.8723166778;2.3487955035;4;3;2;1;False;False;True;True;False;0.9;1
+22;23179840;LIEU UNIQUE DANS PARIS;entire_home;Paris;Buttes-Chaumont - Belleville;48.8723609602;2.37755945;4;2;1;1;False;False;True;True;False;0.9;1
+23;2760689;Cosy studio - Place des Vosges/Marais;entire_home;Paris;Saint-Paul - Ile Saint-Louis;48.8527309869;2.3634852404;2;1;0;1;False;False;True;True;False;1;1
+24;23871255;Modern 1 Bedroom 1 Bath Near Arc de Triomphe;entire_home;Paris;Champs-Elysées;48.8743736481;2.3048240623;2;1;1;1;False;False;True;True;False;1;1
+25;170599;Sunny modern studio in Gambetta;entire_home;Paris;Père Lachaise - Ménilmontant;48.8675598464;2.4026462456;2;1;1;1;False;False;True;True;False;1;1
+26;24248060;Charmant studio calme dans un quartier très vivant;entire_home;Paris;Pigalle - Saint-Georges;48.8814809684;2.3427679207;2;1;0;1;False;False;True;True;False;0.83;1
+27;24488632;APPT CHARMANT ET MODERNE - RIVE GAUCHE;entire_home;Paris;Montparnasse;48.8480851299;2.3212067659;4;2;1;1;False;False;True;False;False;1;0.9
+28;164255;Perfect place in Le Marais - Paris;entire_home;Paris;3e arrondissement;48.8613976778;2.3642991029;4;2;1;1;False;False;True;False;False;1;1
+29;167998;Cosy Luxe, Louvre, Opera, St.Honoré;entire_home;Paris;Madeleine - Vendôme;48.8660561973;2.3304002326;4;3;2;1;False;False;True;False;False;1;1
+30;25702020;Appartement de charme dans le Marais;entire_home;Paris;Saint-Paul - Ile Saint-Louis;48.8546408229;2.3580454106;6;3;3;1;False;False;True;True;False;1;1
+31;25766867;Light and cozy apartment at Trocadero;entire_home;Paris;Passy;48.8649507282;2.2829650623;2;2;1;1;False;False;True;True;False;1;1
+32;26556587;Paris-Montmartre Charming & Cosy Appartment;entire_home;Paris;Pigalle - Saint-Georges;48.8816604595;2.3336617167;2;1;1;1;False;False;True;True;False;1;1
+33;27154367;Twin room between Gare du Nord and Gare de l'Est;private_room;Paris;Gare du Nord - Gare de I'Est;48.8800169097;2.3519375038;2;1;1;1;False;False;True;False;False;1;1
+34;183599;Champs Elysees Chic- Charming ;entire_home;Paris;Monceau;48.874600695;2.3132841401;3;1;1;1;False;False;True;False;False;1;1
+35;28030890;Romantique studio Paris centre. Au pied du metro;entire_home;Paris;Châtelet - Les Halles - Beaubourg;48.8598228417;2.3455318332;2;1;1;1;False;True;True;False;False;0.76;0.62
+36;1139385;Studio Paris 9 proche Sacré-Coeur;entire_home;Paris;;48.882326989;2.3453969983;2;1;0;1;False;False;True;False;False;0.9;0.75
+37;222707;romantique apt au pied  Montmartre;entire_home;Paris;Pigalle - Saint-Georges;48.8822451117;2.3327336333;2;1;1;1;False;False;True;True;False;0.9;0.7
+38;262557;Joli studio 2 pièces Rue de Lancry - Bonsergent;entire_home;Paris;République;48.8706749255;2.3619549498;2;1;1;1;False;False;True;False;False;1;0.61
+39;277555;Luxueuse chambre près du Marais;private_room;Paris;République;48.8628666668;2.3741111596;3;1;1;1;False;False;True;True;False;0.95;0.75
+40;287037;A room for the night an the rest...;private_room;Paris;Buttes-Chaumont - Belleville;48.8732577382;2.3860859567;1;1;1;1;False;False;True;False;False;1;0.57
+41;287932;Apt 10 min de Montmartre et d'Opéra;entire_home;Paris;Pigalle - Saint-Georges;48.8757745776;2.3419752719;4;1;1;1;False;False;True;True;False;0.9;1
+42;289572;Appartement - Quartier Tour Eiffel;entire_home;Paris;Invalides - Ecole Militaire;48.8533655467;2.3098814583;4;2;1;1;False;False;True;True;False;1;1
+43;334292;Charming 2br haussmannian 50 sqm on garden;entire_home;Paris;Père Lachaise - Ménilmontant;48.8686002404;2.3952256048;2;2;2;1;False;False;True;False;False;0.97;0.93
+44;344390;Sous le soleil Parisien - Opéra;entire_home;Paris;Gare du Nord - Gare de I'Est;48.8793282086;2.347267396;2;1;1;1;False;False;True;True;False;1;1
+45;370340;The real  Paris : Le Haut Marais;entire_home;Paris;3e arrondissement;48.8653893792;2.360764483;2;2;2;1;False;False;True;False;False;0.86;0.58
+46;404530;Charme+Soleil Paris Opéra 80 m2;entire_home;Paris;Opéra - Grands Boulevards;48.8726738616;2.3400156505;3;2;2;1;False;False;True;False;False;0.9;0.8
+47;406852;Maison de Charme Atypique à Paris;entire_home;Paris;Père Lachaise - Ménilmontant;48.8618117496;2.4028498217;8;5;3;3;False;False;True;True;False;1;0.55
+48;422409;UNIQUE APT DS MAISON/TRIPLEX MARAIS;entire_home;Paris;Châtelet - Les Halles - Beaubourg;48.8630003506;2.353802713;4;1;1;1;False;False;True;True;False;1;1
+49;447208;Le plus charmant apt Paris Louvre;entire_home;Paris;Palais Royal;48.8669125462;2.3437854034;3;2;1;1;False;False;True;True;False;1;0.9
+50;451629;3 pièces terrasse près de Bastille ;entire_home;Paris;11e arrondissement;48.8521627253;2.3866688738;3;2;2;1;False;False;True;True;False;1;0.84
+51;452822;2 rooms, 50m² - Canal Saint Martin;entire_home;Paris;Canal Saint-Martin;48.8737973023;2.3641809234;4;2;1;1;False;False;True;True;False;0.9;0.85
+52;459950;CALME et SPACIEUX LOFT, 11e, BASTILLE/NATION;entire_home;Paris;11e arrondissement;48.8509872111;2.3877196549;3;2;2;2;False;False;True;True;False;1;0.8
+53;463726;L'appartement aux 1000 secrets;entire_home;Paris;Saint-Paul - Ile Saint-Louis;48.8524357025;2.3614444045;4;2;2;2;False;False;True;True;False;0.95;1
+54;470446;INDEPENDANT1 STUDIO PARIS CENTER;private_room;Paris;Le Marais;48.8590461985;2.3563482812;2;2;1;1;False;False;True;True;False;0.97;0.6
+55;474612;Spacious, quiet loft, rue Oberkampf;entire_home;Paris;11e arrondissement;48.8665123733;2.3827166926;7;7;4;2;False;False;True;True;False;0.9;0.8
+56;559493;Le Marais very cosy & elegant 2BR;entire_home;Paris;3e arrondissement;48.8645364803;2.3638886129;3;2;2;1;False;False;True;True;False;0.85;0.6
+57;579343;Cosy 60 m² 2 real rooms with patio;entire_home;Paris;Buttes-Chaumont - Belleville;48.8725350846;2.3894394893;4;2;2;1;False;False;True;True;False;0.9;0.76
+58;593465;"Typical parisian ""pied a terre""";entire_home;Paris;Ternes;48.8825480926;2.2926876266;4;1;1;1;False;False;True;True;False;1;1
+59;595610;charme et calme au coeur de Paris;entire_home;Paris;Panthéon;48.845554713;2.3552876226;5;4;1;1;False;False;True;True;False;0.86;0.75
+60;603267;Luxury cosy flat on CHAMPS ELYSEES;entire_home;Paris;Champs-Elysées;48.8724606615;2.3028261477;4;2;1;1;False;False;True;False;False;0.95;1
+61;611897;Studio Paris Centre Chatelet/Halles;entire_home;Paris;Châtelet - Les Halles - Beaubourg;48.8644705589;2.3464273362;2;1;1;1;False;False;True;False;False;1;1
+62;688223;Appartement tendance coeur de Paris;entire_home;Paris;Madeleine - Vendôme;48.8709586389;2.3237762632;4;1;1;1;False;False;True;False;False;1;1
+63;728396;Élégance, Confort & Charme Parisien;entire_home;Paris;République;48.8681864976;2.3688861107;2;1;1;1;False;False;True;True;False;1;0.75
+64;745338;Saint Germain des Prés - Notre Dame;entire_home;Paris;Saint Germain des Prés - Odéon;48.8562196355;2.3383114381;2;1;1;1;False;False;True;False;False;0.85;0.6
+65;757733;Superbe appartement Paris centre;entire_home;Paris;Saint Germain des Prés - Odéon;48.8538549846;2.3433937199;2;1;1;1;False;False;True;True;False;1;1
+66;761399;top center front Beaubourg MuseummodernArtMarais;entire_home;Paris;Châtelet - Les Halles - Beaubourg;48.8584683615;2.3505639362;5;3;2;1.5;False;False;True;False;False;0.88;0.51
+67;762171;Loft - Paris 6/St Germain des Prés;entire_home;Paris;Saint Germain des Prés - Odéon;48.8541967038;2.3397747936;5;3;2;1.5;False;False;True;True;False;0.9;0.74
+68;768731;G04518 Superb studio Paris Marais;entire_home;Paris;Le Marais;48.8568774045;2.359187507;2;1;0;1;False;False;True;True;False;1;1
+69;782786;Typique 2P parisien à Ménilmontant;entire_home;Paris;11e arrondissement;48.867887572;2.3803973178;4;2;1;1;False;False;True;True;False;0.85;0.7
+70;793331;Superbe Studio Cosy - quartier branché Oberkampf;entire_home;Paris;République;48.8661028563;2.3755239328;2;1;1;1;False;False;True;True;False;1;0.9
+71;814262;Studette idéalement située Place des Ternes;entire_home;Paris;;48.8803030816;2.2996144477;2;1;1;1;False;False;True;False;False;0.94;0.62
+72;822948;New 43 m2 1 bdr on Canal St. Martin;entire_home;Paris;Canal Saint-Martin;48.8787224598;2.3672230054;3;2;1;1;False;False;True;False;False;0.98;1
+73;824785;Lovely Flat Near Montmartre - 40mn from Airport;entire_home;Paris;Gare du Nord - Gare de I'Est;48.8801424396;2.3488920549;6;5;3;1;False;False;True;True;False;0.98;0.61
+74;830268;Luxury Architect Duplex Tour Eiffel;entire_home;Paris;Tour Eiffel - Champ de Mars;48.8518098257;2.2942086917;6;3;2;2.5;False;False;True;True;False;1;1
+75;846592;L'Oasis de Sévigné - Saint Paul;entire_home;Paris;;48.8566650924;2.3633572214;2;1;1;1;False;False;True;True;False;0.82;0.52
+76;862407;Flat front of Eiffel Tower;entire_home;Paris;Tour Eiffel - Champ de Mars;48.8594684158;2.2962716269;2;1;1;1;False;False;True;True;False;1;1
+77;862705;Le Marais flat near Pl. des Vosges;entire_home;Paris;Le Marais;48.8575367413;2.3647365504;3;2;2;1;False;False;True;True;False;1;0.7
+78;863566;Champs Elysées! Mini appart ! 8 m²;entire_home;Paris;Champs-Elysées;48.8751606965;2.2877452987;2;1;0;0.5;False;False;True;False;False;1;1
+79;865472;Apartment Paris Nation;entire_home;Paris;11e arrondissement;48.851738;2.391103;5;4;3;2;False;False;True;False;False;0.98;0.8
+80;869842;Loft au pied de la Tour Eiffel;entire_home;Paris;;48.8589676383;2.2881815693;4;1;1;1;False;False;True;True;False;0.9;0.85
+81;892158;Bel appt au coeur de Paris Marais;entire_home;Paris;Le Marais;48.8598844627;2.353976163;6;3;2;1;False;False;True;False;False;1;0.82
+82;907739;Canal Saint Martin - 64m2 - Balcon;entire_home;Paris;République;48.8716682929;2.3629459014;4;1;1;1;False;False;True;True;False;1;0.85
+83;916839;studio center of Paris - 2 people;entire_home;Paris;Palais Royal;48.8669004439;2.3361055788;2;1;1;1;False;False;True;False;False;0.92;0.9
+84;932668;Ile-Saint-Louis...The best of Paris;entire_home;Paris;Saint-Paul - Ile Saint-Louis;48.8519493659;2.3576971999;2;1;1;1.5;False;False;True;True;False;1;1
+85;985898;Sunny Bright Big and Safe near Bastille/Marias!;private_room;Paris;Saint-Paul - Ile Saint-Louis;48.8525536114;2.364782018;2;2;1;1.5;False;False;True;False;False;1;1
+86;993592;Eiffel Quai de Seine;entire_home;Paris;Commerce - Dupleix;48.8463052773;2.2795234299;6;4;2;2;False;True;True;True;False;1;1
+87;994435;MARAIS 15th-Century 4-bed, 4.5 bath;entire_home;Paris;Le Marais;48.8588839168;2.3544419592;8;4;4;4.5;False;False;True;True;False;0.9;0.7
+88;28751412;Malesherbes Monceau Monsen;entire_home;Paris;Monceau;48.8809227893;2.3145684852;2;1;0;1;False;True;True;False;False;1;1
+89;1008724;Joli appartement  Paris-Bastille-Aligre;entire_home;Paris;Bastille;48.852936603;2.379713937;4;2;2;1;False;False;True;True;False;1;0.75
+90;1031007;Sorbonne Notre Dame idéal avec enfants;entire_home;Paris;;48.848486854;2.3500554149;5;5;2;1.5;False;False;True;False;False;1;1
+91;1038815;VUE PANORAMIQUE SUR  PARIS;entire_home;Paris;Bastille;48.8606572168;2.3730796082;4;2;2;2;False;False;True;True;False;1;0.75
+92;1048793;Appartement 2 pièces Paris 20ième;entire_home;Paris;Buttes-Chaumont - Belleville;48.8734626432;2.3967284041;2;1;1;1;False;False;True;True;False;0.971014;0.82764
+93;1055073;Charmant et confortable 2-pièces;entire_home;Paris;Buttes-Chaumont - Belleville;48.8797817563;2.3904455414;4;1;1;1;False;False;True;False;False;0.97;0.81
+94;1070274;Studio with Panoramic view of Paris;entire_home;Paris;Buttes-Chaumont - Belleville;48.8736075951;2.3959702191;3;1;1;1;False;False;True;True;False;0.9;0.85
+95;1083545;Charmant -Marais - Hotel de Ville ;entire_home;Paris;;48.86145056;2.3537641107;5;3;2;1;False;False;True;True;False;1;0.82
+96;1085564;ARC DE TRIOMPHE-PTE MAILLOT 110m2;entire_home;Paris;Ternes;48.8804741046;2.2930928628;4;3;2;1.5;False;False;True;True;False;0.95;1
+97;1102053;Au calme en plein coeur de Paris !;entire_home;Paris;;48.8787814758;2.3460696783;5;3;3;2;False;False;True;False;False;0.95;0.75
+98;1110935;REX HOUSE - Central, lumineux, cosy;entire_home;Paris;Opéra - Grands Boulevards;48.8720337807;2.3491257059;6;3;2;1;False;False;True;False;False;1;1
+99;1117899;★ App'Art de Charme ★;entire_home;Paris;Saint-Lazare;48.8781740743;2.3280924981;3;1;1;1;False;False;True;True;False;1;1
+100;1126419;11è, Duplex 90m2, 5 chambres. 8 pers. 9 maximum;entire_home;Paris;République;48.8664406859;2.3654213038;9;6;5;2;False;False;True;False;False;0.8;0.6
+101;1126705;Grand appartement Parc de Passy;entire_home;Paris;Passy;48.8543075003;2.2828144168;5;5;3;2;False;False;True;False;False;1;1
+102;1128202;MAGNIFIQUE APPARTEMENT PARIS CENTRE;entire_home;Paris;Invalides - Ecole Militaire;48.8494057831;2.3108491943;5;4;3;2;False;False;True;True;False;0.71;0.58
+103;1176558;Beau  appartement Parisien de 90m2;entire_home;Paris;3e arrondissement;48.8638549148;2.3646556351;2;2;2;1;False;False;True;False;False;1;0.69
+104;1185329;Charmant 2 pièces Marché St Honoré;entire_home;Paris;;48.8650433406;2.3324857555;3;1;1;1;False;False;True;False;False;0.87;0.72
+105;1204369;Nice studio: heart of trendy Paris;entire_home;Paris;2e arrondissement;48.8672890052;2.3484621539;2;1;1;1;False;False;True;True;False;1;0.8
+106;1205915;COZY 108 m² QUARTIER MARAIS PARIS;entire_home;Paris;Le Marais;48.8607546823;2.3642356556;6;3;3;1.5;False;False;True;True;False;0.97;0.85
+107;1222997;Appartement famillial centre Paris;entire_home;Paris;Gare du Nord - Gare de I'Est;48.8771533953;2.3456002007;8;6;4;2;False;False;True;True;False;0.9;1
+108;22885596;Clear, spacious room with large private bathroom;private_room;Paris;Châtelet - Les Halles - Beaubourg;48.8666277074;2.3450028205;2;1;1;2;False;False;True;True;False;1;1
+109;1226049;Charming flat,Champs-Elysées,8th;entire_home;Paris;Champs-Elysées;48.8666282357;2.3034262126;4;2;1;1;False;False;True;False;False;0.84;1
+110;1234750;Duplex loft with amazing terrace!;entire_home;Paris;11e arrondissement;48.8604739031;2.3766688281;3;2;2;1;False;False;True;True;False;0.9;0.6
+111;1235441;Suffren, appartement standing 15è;entire_home;Paris;Tour Eiffel - Champ de Mars;48.8502304308;2.2991586757;4;1;1;1;False;False;True;True;False;0.66;0.4
+112;1241014;Confortable atelier-loft familial;entire_home;Paris;Père Lachaise - Ménilmontant;48.8648816622;2.3888830313;6;4;3;2;False;False;True;False;False;1;1
+113;1243020;Charming studio arts et métier;entire_home;Paris;Le Marais;48.863652233;2.3591928842;1;1;1;1;False;False;True;True;False;1;1
+114;1265134;Boulevard St Germain -Musée d'Orsay;entire_home;Paris;Louvre - Tuileries;48.8587024211;2.3277856647;3;2;1;1;False;False;True;True;False;0.87;0.67
+115;1274994;APPARTEMENT PRÈS DU CANAL ST MARTIN;entire_home;Paris;10e arrondissement;48.8719875318;2.369589368;6;3;3;1;False;False;True;False;False;0.82;0.52
+116;1277299;PENTHOUSE 5/6 PEOPLE  EIFFEL TOWER;entire_home;Paris;Tour Eiffel - Champ de Mars;48.860523;2.298684;6;3;3;1;False;False;True;False;False;0.95;1
+117;1285661;Triplex calme et lumineux Paris 10e;entire_home;Paris;Gare du Nord - Gare de I'Est;48.8750930311;2.3495555967;6;4;4;2;False;False;True;True;False;0.9;0.8
+118;1290999;Grand duplex, comme une maison.;entire_home;Paris;Bastille;48.860058;2.375424;7;4;3;2;False;False;True;True;False;1;1
+119;1309152;Studio Proche Pigalle / Montmartre;entire_home;Paris;Pigalle - Saint-Georges;48.8794889096;2.3401911363;2;1;1;1;False;False;True;True;False;0.88;0.8
+120;1311786;Calm & cozy apartment - Canal St Martin;entire_home;Paris;République;48.8698017667;2.3653839071;2;2;1;1;False;False;True;True;False;0.88;0.73
+121;1327106;Freshly renovated & fully equipped;entire_home;Paris;;48.8810880586;2.2945745726;2;2;1;1;False;False;True;False;False;0.85;0.47
+122;1351671;Grand loft en plein coeur du Marais.;entire_home;Paris;3e arrondissement;48.8637927298;2.3641442658;6;3;3;2;False;False;True;True;False;1;1
+123;1363473;SUNNY ROOM IN EXCEPTIONAL PENTHOUSE;private_room;Paris;République;48.8671806925;2.3747355835;2;1;1;1;False;False;True;True;False;0.78;0.54
+124;1367612;Charmant Studio aux Buttes Chaumont;entire_home;Paris;Buttes-Chaumont - Belleville;48.8804152312;2.3754625715;2;1;0;1;False;False;True;False;False;0.9;0.73
+125;1373705;Saint Germain beautiful bright flat;entire_home;Paris;Saint Germain des Prés - Odéon;48.8545044752;2.3398571655;4;3;1;1;False;False;True;True;False;1;0.4
+126;1390849;COSY AND CALM APT / EIFFEL TOWER;entire_home;Paris;Commerce - Dupleix;48.854247311;2.2887926936;2;2;1;1.5;False;False;True;True;False;1;0.9
+127;1398893;Charming old parisian atelier;entire_home;Paris;Buttes-Chaumont - Belleville;48.8733079913;2.3803887902;2;1;1;1;False;False;True;False;False;1;1
+128;1399821;APPARTEMENT SAINT GERMAIN DES PRES;entire_home;Paris;Invalides - Ecole Militaire;48.8595287136;2.3177012764;4;2;1;1;False;False;True;False;False;1;1
+129;1409596;Appartement Zen Oberkampf;entire_home;Paris;République;48.8684310699;2.3779920923;2;1;1;1;False;False;True;False;False;0.9;0.75
+130;1409619;Grand APT de CHARME / Oberkampf;entire_home;Paris;République;48.8622249054;2.3730224335;5;3;3;1;False;False;True;True;False;0.95;0.85
+131;1410564;Beautiful Studio with Garden Views, full of light;entire_home;Paris;Invalides - Ecole Militaire;48.8567310702;2.3213853992;1;1;1;1;False;False;True;True;False;0.92;0.75
+132;1413841;Séjournez près de la Tour Eiffel;entire_home;Paris;Tour Eiffel - Champ de Mars;48.8510970369;2.3001990461;8;4;3;2;False;False;True;True;False;0.9;0.8
+133;28422035;Collection room near Eiffel Tower;private_room;Paris;Auteuil;48.8501147353;2.2754923278;2;1;1;1;False;True;True;True;False;1;1
+134;1430881;Fleur de Rosiers, 1Ch/1Sdb, 3 pers.;entire_home;Paris;Le Marais;48.8575328403;2.3586555547;3;1;1;1;False;False;True;True;False;0.86;0.52
+135;1609286;HAUSSMANN OPERA MADELEINE A;entire_home;Paris;Saint-Lazare;48.8751123892;2.3226536203;4;2;1;1;False;True;True;True;False;0.82;0.58
+136;1543524;G05493 Familly apart 2BR Notre Dame;entire_home;Paris;Panthéon;48.8466732774;2.3541125616;4;3;2;1;False;False;True;True;False;1;1
+137;1638909;Surf a coach in beautiful district;shared_room;Paris;Canal Saint-Martin;48.8785943431;2.3649746088;1;1;1;1;False;False;True;False;False;0.84;1
+138;1644892;Parisian chic appartment Paris IX;entire_home;Paris;Gare du Nord - Gare de I'Est;48.8802859276;2.3488914116;3;2;1;1;False;False;True;True;False;0.9;0.9
+139;1649031;Petit Veneur, 1BR/1BA for 4 people;entire_home;Paris;Le Marais;48.859955884;2.3666787532;4;1;1;1.5;False;False;True;True;False;0.85;0.49
+140;1670308;Tour Eiffel | Village Saint Charles;entire_home;Paris;Commerce - Dupleix;48.8454194361;2.281729054;6;4;2;1;False;False;True;False;False;0.9;0.65
+141;1711246;Beaubourg-Marais nice 2 room apt with AC;entire_home;Paris;Le Marais;48.8579221807;2.3519052091;4;2;1;1;False;False;True;True;False;0.9;0.7
+142;1726821;Cosy 3 rooms in Montparnasse;entire_home;Paris;Montparnasse;48.8457115346;2.3214637442;4;2;2;1;False;False;True;True;False;0.88;0.75
+143;1730252;G11180 lovely duplex near Bastille;entire_home;Paris;Bastille;48.8511395083;2.373499125;4;2;2;1;False;False;True;True;False;1;1
+144;1732026;Bel appartement avec terasse au coeur du Marais;entire_home;Paris;;48.8614405456;2.3557222703;4;2;1;1;False;False;True;True;False;0.96;0.92
+145;1765734;  Sous les toits de l'île Saint-Louis;entire_home;Paris;;48.8513715066;2.3560341221;5;3;2;1.5;False;False;True;False;False;1;0.62
+146;1758586;Superbe studio au cœur du Marais;entire_home;Paris;Le Marais;48.8574740157;2.3545622588;2;1;0;1;False;False;True;False;False;0.79;0.57
+147;1803915;DUPLEX AVEC TERRASSE BIEN SITUE ;entire_home;Paris;Bastille;48.8602436362;2.3736237003;2;1;1;2;False;False;True;True;False;1;1
+148;1957441;SUPERBE APPARTEMENT DE 110m2 SPACIEUX ET LUMINEUX;entire_home;Neuilly-sur-Seine;17e arrondissement;48.8815542698;2.2786927975;6;4;3;2;False;False;True;False;False;1;0.9
+149;1967791;Beautiful 60 m2 apartment,courtyard;entire_home;Paris;Buttes-Chaumont - Belleville;48.8769616635;2.3916098482;4;4;2;1;False;False;True;False;False;0.85;0.66
+150;28422062;Design Silver room with Private Rooftop & Jacuzzi;private_room;Paris;Auteuil;48.8495896627;2.2734438029;2;1;1;1;False;True;True;True;False;1;1
+151;2013516;Petit studio confortable , calme,a;entire_home;Paris;Pigalle - Saint-Georges;48.8776258984;2.3347280487;2;1;1;1;False;False;True;False;False;0.84;1
+152;2040791;Beautiful rooftop flat Louvre, the heart of Paris;entire_home;Paris;Châtelet - Les Halles - Beaubourg;48.8625328589;2.3485071524;4;2;1;1;False;False;True;True;False;0.92;1
+153;2063886;Luxury 2 bedroom apartment ;entire_home;Paris;Tour Eiffel - Champ de Mars;48.8513204731;2.2942148501;4;2;2;2;False;False;True;True;False;0.8;1
+154;2158345;Beau 3 pièces 65m2 Bastille/Nation;entire_home;Paris;11e arrondissement;48.8512769797;2.3872881404;5;2;2;1.5;False;False;True;True;False;0.85;0.7
+155;2158913;Studio Arc de triomphe;entire_home;Paris;Ternes;48.8791547543;2.291277123;2;1;0;1;False;False;True;False;False;0.98;1
+156;2162251;THE PLACE TO BE    Elysees Matignon;entire_home;Paris;Madeleine - Vendôme;48.872556557;2.3154077659;4;2;1;1;False;False;True;True;False;0.95;0.8
+157;2163046;2 bed Rms R Bretagne Paris 3 Marais;entire_home;Paris;Le Marais;48.8624381977;2.3621256468;4;2;2;1;False;False;True;False;False;1;0.7
+158;2167122;St-Germain-des-Près/Odeon + terrace;entire_home;Paris;Saint Germain des Prés - Odéon;48.8541134008;2.3388832564;2;1;0;1;False;False;True;True;False;0.85;0.7
+159;28774896;5 min to invalides and 10 min to eiffel tower;entire_home;Paris;Invalides - Ecole Militaire;48.8529147809;2.314519009;2;1;1;1;False;True;True;False;False;1;1
+160;2293583;LOVELY NEST MARAIS AREA;entire_home;Paris;Le Marais;48.8600252096;2.3657287544;2;1;0;1;False;False;True;True;False;1;1
+161;2259473;Adorable chambre près du Louvre;entire_home;Paris;Châtelet - Les Halles - Beaubourg;48.860893;2.342219;3;2;1;1;False;False;True;True;False;0.8;0.5
+162;2404406;UN BIJOU FACE A NOTRE DAME;entire_home;Paris;Saint-Michel;48.851974;2.346607;2;1;0;1;False;False;True;True;False;0.95;0.9
+163;2351015;studette;entire_home;Paris;Invalides - Ecole Militaire;48.8475308859;2.3072949026;1;1;0;0.5;False;False;True;False;False;0.86;0.7
+164;2359875;2 pièces 30 m2 Canal St Martin;entire_home;Paris;10e arrondissement;48.8769102448;2.3709139875;2;1;1;1;False;False;True;False;False;0.85;0.65
+165;2364662;Le nid d'un Décorateur;entire_home;Paris;Montmartre;48.8825458062;2.3370343187;4;2;1;1;False;False;True;True;False;1;1
+166;2389340;Rouge Baiser, 1Ch/1Sdb, 4 personnes;entire_home;Paris;Châtelet - Les Halles - Beaubourg;48.8648307412;2.3473417828;4;1;1;1.5;False;False;True;True;False;0.83;0.51
+167;3088369;Shared room in Saint-Germain-des-Prés;shared_room;Paris;;48.852844;2.334886;1;1;1;1;False;False;True;True;False;1;1
+168;2461466;Loft/Duplex-Fashion Week-Louvre-Opéra-Vendôme;entire_home;Paris;Madeleine - Vendôme;48.8666981224;2.3325278029;2;1;1;1.5;False;False;True;True;False;1;1
+169;2467750;CHARMING DUPLEX PENTHOUSE WITH SPECTACULAR VIEW;entire_home;Paris;Invalides - Ecole Militaire;48.8575427435;2.3166917395;2;1;1;1;False;False;True;True;False;0.9;0.7
+170;2485119;Super studio Trocadero Tour Eiffel;entire_home;Paris;Passy;48.8602019057;2.2853280717;4;2;0;1;False;False;True;False;False;0.87;0.63
+171;2498301;Beautiful loft style apt (Drouot);entire_home;Paris;Opéra - Grands Boulevards;48.8708224846;2.3403889006;2;1;1;1;False;False;True;True;False;0.8;0.7
+172;2501795;Haussmanien familial / 4 ch (130m2) + balcon;entire_home;Paris;Gare du Nord - Gare de I'Est;48.882586242;2.3496735285;6;4;4;1.5;False;False;True;True;False;0.75;0.7
+173;2511095;G15594 One bedroom in the 15th area;entire_home;Paris;Vaugirard;48.8457939592;2.3053800392;3;2;1;1;False;False;True;True;False;0.72;0.47
+174;2530770;Dernier étage avec vues incroyables;entire_home;Paris;Père Lachaise - Ménilmontant;48.8593097354;2.3911200647;4;3;2;1;False;False;True;True;False;1;1
+175;2576959;Nice & quiet flat at Père Lachaise;entire_home;Paris;11e arrondissement;48.8574845043;2.3883984913;4;4;2;1;False;False;True;False;False;1;1
+176;2581464;PARIS village - B&B avec jardin privatif;private_room;Paris;Buttes-Chaumont - Belleville;48.8747199935;2.3797269325;2;1;1;1;False;False;True;False;False;0.82;0.61
+177;2588319;Bel appartement quartier Marais;entire_home;Paris;3e arrondissement;48.8679915469;2.3597980809;5;3;3;1.5;False;False;True;False;False;1;1
+178;2612592;Elegance and modernity in Paris;entire_home;Paris;Tour Eiffel - Champ de Mars;48.8578150187;2.2980623233;4;2;2;2;False;False;True;True;False;1;0.75
+179;2615923;Luxury Apartment on Monceau Park;entire_home;Paris;Monceau;48.876382224;2.3102715222;6;6;2;1;False;False;True;True;False;1;1
+180;2719440;Paris, here I am!;entire_home;Paris;Invalides - Ecole Militaire;48.848023423;2.3183817981;2;1;1;1;False;False;True;False;False;0.93;0.8
+181;2728429;Flat -  Baby equipped - Etoile;entire_home;Paris;Ternes;48.8775511808;2.2914450725;2;2;2;1;False;False;True;False;False;0.93;0.72
+182;2750782;Appart avec veranda sur jardin;entire_home;Paris;Passy;48.8573117004;2.2808869598;6;2;2;1;False;False;True;False;False;0.7;0.6
+183;2751876;Chambre privée Paris 11ème;private_room;Paris;11e arrondissement;48.8579189726;2.3815874205;2;2;1;1;False;False;True;True;False;1;1
+184;2804962;Cosy flat / calm / Aligre&Bastille;entire_home;Paris;Bastille;48.8468997944;2.3779426251;2;1;1;1;False;False;True;True;False;0.97;0.96
+185;2823976;Lovely room, authentic neighborhood;private_room;Paris;Père Lachaise - Ménilmontant;48.8610913797;2.4010683501;2;2;1;1;False;False;True;True;False;0.88;1
+186;2840718;Movie star large flat;entire_home;Paris;Gare du Nord - Gare de I'Est;48.8760184785;2.3514031416;8;5;4;3;False;False;True;True;False;0.9;0.7
+187;2851021;BEAUTIFUL PARIS just next Gare Lyon;entire_home;Paris;Bastille;48.8484008989;2.3719550633;4;2;1;1;False;False;True;True;False;0.82;0.66
+188;2874271;(110m²) Luxury Classic Apartment;entire_home;Paris;Tour Eiffel - Champ de Mars;48.8590780155;2.29809013;6;5;3;2;False;False;True;True;False;0.89;0.88
+189;2891649;Beau 2 pièces - Prix spécialEté !;entire_home;Paris;11e arrondissement;48.85816358;2.389710628;2;1;1;1;False;False;True;True;False;1;0.94
+190;2961404;EXCEPTIONAL LOCATION: EIFFEL TOWER!;entire_home;Paris;Tour Eiffel - Champ de Mars;48.8666889207;2.2910231835;4;2;1;1;False;False;True;False;False;0.95;0.9
+191;2961618;Appartement Hotel de Ville.;entire_home;Paris;;48.8549381245;2.3572087374;4;2;1;1;False;False;True;True;False;0.85;1
+192;3023839;Appartement Île Saint Louis;entire_home;Paris;Saint-Paul - Ile Saint-Louis;48.8530079501;2.3550156707;4;2;1;1;False;False;True;True;False;1;1
+193;3063827;Amazing flat for 9 + garden+parking (charged);entire_home;Paris;Gare du Nord - Gare de I'Est;48.8748851023;2.3494175563;9;4;4;2;False;False;True;True;False;0.9;0.9
+194;3074332;3 pièces ensoleillé proche du Canal St Martin;entire_home;Paris;Canal Saint-Martin;48.8744166928;2.3667115147;4;3;2;1;False;False;True;False;False;1;0.8
+195;3118226;Le charme d' Oberkampf !;entire_home;Paris;République;48.8671714338;2.3785869394;2;1;0;1;False;False;True;False;False;1;1
+196;3127963;Nice private room in vivid neighborhood;private_room;Paris;Père Lachaise - Ménilmontant;48.8676569262;2.389490201;2;1;1;1;False;False;True;False;False;0.92;0.9
+197;3128994;Duplex -terrasse, Montorgueil coeur de Paris;entire_home;Paris;Châtelet - Les Halles - Beaubourg;48.8667577076;2.3483471701;4;2;2;1;False;False;True;True;False;0.95;0.7
+198;3191423;115m² apartment with panoramic view;entire_home;Paris;Gare du Nord - Gare de I'Est;48.8769182605;2.3520500348;6;3;3;2.5;False;False;True;True;False;0.85;1
+199;3149368;G04531 Impressive 3 bedrooms apart;entire_home;Paris;Saint-Paul - Ile Saint-Louis;48.8539558127;2.3597664438;6;4;3;2;False;False;True;True;False;0.77;0.48
+200;3178766;Petit Studio au coeur de Paris;entire_home;Paris;Montparnasse;48.8469307672;2.3201715974;1;1;0;1;False;False;True;False;False;1;0.88
+201;3202336;Charmant deux pièces Paris Bastille;entire_home;Paris;Bastille;48.8573424385;2.3802555839;4;2;2;1;False;False;True;True;False;1;1
+202;3254663;Near Champs Élysées;entire_home;Neuilly-sur-Seine;16e arrondissement;48.8804870747;2.2765609737;4;2;2;1;False;False;True;False;False;1;1
+203;3288701;Family apartment heart of paris;entire_home;Paris;Gare du Nord - Gare de I'Est;48.8730094171;2.3538321512;6;6;3;2;False;False;True;True;False;0.8;0.5
+204;3322709;Nice Parisian Appart 11eme/1130.2ft;entire_home;Paris;Bastille;48.8539818551;2.3756251157;4;2;2;1;False;False;True;False;False;0.93;1
+205;3352907;Canal St Martin RépubliqueApparteme;entire_home;Paris;République;48.8698605104;2.3661465349;3;2;2;1;False;False;True;False;False;0.87;0.67
+206;3356459;Appartement avec Terrasse, Marais;entire_home;Paris;Le Marais;48.862789035;2.3603318703;4;3;2;1;False;False;True;True;False;1;1
+207;3388237;BEL APPARTEMENT PARIS CENTRE 3ème;entire_home;Paris;Le Marais;48.8623982644;2.3551392668;5;3;1;1;False;False;True;False;False;0.86;0.59
+208;3430844;Grand Villa Bastille;entire_home;Paris;Bastille;48.8488583584;2.3682490164;12;10;6;5;False;False;True;True;False;0.96;0.65
+209;3452604;magic view , studio design Safety area  Gardian 24;entire_home;Paris;Commerce - Dupleix;48.8523593879;2.2863300896;2;1;0;1;False;False;True;True;False;0.95;0.8
+210;3470032;65m² de calme dans le Paris animé;entire_home;Paris;Bastille;48.8530414031;2.3814723281;7;3;2;1;False;False;True;False;False;0.9;1
+211;3559352;Studio propre & cosy PARIS 11ème;entire_home;Paris;République;48.8667928448;2.3745657535;1;1;0;1;False;False;True;False;False;0.95;0.9
+212;3562428;Paris centre République show room;private_room;Paris;3e arrondissement;48.8646510473;2.363824725;1;1;0;0;False;False;True;False;False;0.8;0.6
+213;3573467;Apartment near Tour Eiffel;entire_home;Paris;;48.8479735764;2.2936945946;5;5;3;1;False;False;True;False;False;0.85;1
+214;3698347;Lafayette Haussmann Central Paris;entire_home;Paris;Opéra - Grands Boulevards;48.8719966838;2.3404884574;4;1;1;1;False;False;True;True;False;1;0.56
+215;3728394;Studio Centre de Paris;entire_home;Paris;Gare du Nord - Gare de I'Est;48.8751241464;2.345928206;2;1;0;1;False;False;True;False;False;1;1
+216;3729388;Appartement 180 m2 dans le 8ème avec grand balcon;entire_home;Paris;Monceau;48.8810655448;2.3143569519;6;4;4;3;False;False;True;True;False;1;0.7
+217;3736614;[110m2] City View Apartment;entire_home;Paris;Tour Eiffel - Champ de Mars;48.8571706273;2.2939458009;6;4;3;2;False;False;True;True;False;1;1
+218;3995543;Lovely top floor flat near Montmartre Opera;entire_home;Paris;Pigalle - Saint-Georges;48.8807695384;2.3321075196;6;3;2;1;False;False;True;False;False;1;0.58
+219;4004660;Studio Charme Coeur Sopi Paris;entire_home;Paris;Pigalle - Saint-Georges;48.880917;2.337187;2;1;1;1;False;False;True;True;False;0.9;0.8
+220;4062828;2 PIECES AU PIED DES INVALIDES;entire_home;Paris;Tour Eiffel - Champ de Mars;48.858559;2.309266;3;1;1;1;False;False;True;True;False;1;0.55
+221;4065107;St. Germain luxury 2 bed 2 bath;entire_home;Paris;;48.8491399705;2.3398633454;4;2;2;2;False;False;True;True;False;1;1
+222;4103192;StudioLéo au coeur de Paris;entire_home;Paris;Châtelet - Les Halles - Beaubourg;48.8670883663;2.3460268403;2;1;0;1;False;False;True;True;False;0.95;0.78
+223;4148138;Charmant 2 pièces au coeur du 11e;entire_home;Paris;;48.8640584291;2.3740673825;2;1;1;1;False;False;True;False;False;1;1
+224;4178899;Appartement d'artistes - Marais;entire_home;Paris;République;48.8652258725;2.3652884982;4;4;2;1;False;False;True;True;False;0.9;0.64
+225;4189232;Studio en plein coeur de Paris!;entire_home;Paris;Invalides - Ecole Militaire;48.8553826071;2.3236027719;2;1;1;1;False;False;True;False;False;1;1
+226;4276215;Très beau studio vue degagée;entire_home;Paris;Père Lachaise - Ménilmontant;48.8657537857;2.4005288759;2;1;0;1;False;False;True;True;False;0.9;0.5
+227;4308679;2 PIECES 40 M2 CHAMPS DE MARS TOUR EIFFEL;entire_home;Paris;Tour Eiffel - Champ de Mars;48.8532222878;2.2959085304;4;1;1;1;False;False;True;True;False;1;0.69
+228;4357799;Coeur de Paris, Louvre, Beaubourg;entire_home;Paris;Châtelet - Les Halles - Beaubourg;48.8618421013;2.3450134851;4;2;1;1;False;False;True;False;False;1;0.87
+229;4369546;4 pièces familial lumineux & design;entire_home;Paris;Gare du Nord - Gare de I'Est;48.8763835242;2.3483020418;6;3;3;1;False;False;True;True;False;0.75;0.54
+230;4406315;Appartement haussmannien Bastille;entire_home;Paris;Bastille;48.8493016709;2.3755962033;4;3;2;1;False;False;True;True;False;0.9;1
+231;4421071;SUPERB 1BR IN ST GERMAIN - MABILLON - 60;entire_home;Paris;Saint Germain des Prés - Odéon;48.8510502381;2.3358951395;4;2;1;1.5;False;False;True;True;False;0.97;0.9
+232;4422043;New Studio Opéra Madeleine Paris;entire_home;Paris;Opéra - Grands Boulevards;48.8731714916;2.3281543724;2;1;1;1;False;False;True;True;False;0.88;0.7
+233;4432916;studio péniche  face tour eiffel;entire_home;Paris;Tour Eiffel - Champ de Mars;48.8579252252;2.2886835559;2;1;0;1;False;False;True;True;False;0.93;0.9
+234;4470737;Studio cœur Paris-Halles face CNAM;entire_home;Paris;Châtelet - Les Halles - Beaubourg;48.8652933836;2.353420109;2;2;1;1;False;False;True;False;False;0.8;1
+235;4472429;CITY STUDIO Paris 4- LE MARAIS;entire_home;Paris;Notre Dame - Ile de La Cité;48.8568157374;2.3526619058;2;1;1;1;False;False;True;False;False;0.91;0.86
+236;4543265;CHARMING PARIS 6° ST GERMAIN PRÈS RUE DE VERNEUIL;entire_home;Paris;;48.85743;2.331321;2;2;0;1;False;False;True;False;False;1;0.7
+237;4669004;Charming Studio Center of Paris 02;entire_home;Paris;Châtelet - Les Halles - Beaubourg;48.8641220297;2.3488278363;2;1;0;1;False;False;True;False;False;0.94;0.8
+238;4716092;Very Central in Le Marais;entire_home;Paris;Le Marais;48.8645657387;2.3588914183;10;5;3;2;False;False;True;False;False;1;1
+239;4723054;Charmant 2 pièces calme et lumineux;entire_home;Paris;Buttes-Chaumont - Belleville;48.881983559;2.3744275672;4;2;1;1;False;False;True;True;False;0.82;0.6
+240;4735236;Loft - 137m2 - Paris 11ème;entire_home;Paris;République;48.8698929376;2.3780644045;6;2;2;2;False;False;True;True;False;1;0.8
+241;4766765;CHEMIN VERT 4;entire_home;Paris;Bastille;48.8582088234;2.3770097019;12;9;4;2;False;False;True;True;False;1;1
+242;4770900;R) /Triumph Arc/OECD/Porte Maillot;entire_home;Paris;Ternes;48.882076;2.288313;6;1;1;1;False;False;True;True;False;1;0.6
+243;4798006;Vue Panoramique Paris, Tour Eiffel;entire_home;Paris;Commerce - Dupleix;48.8478928233;2.2850904276;4;2;2;2;False;False;True;True;False;1;1
+244;4882717;STUDIO 4 GARE DE NORD & MONTMATRE !;entire_home;Paris;Gare du Nord - Gare de I'Est;48.8778162842;2.3531864115;2;1;0;1;False;False;True;True;False;0.98;0.95
+245;4983973;Studio 4 personnes avec vue sur jardin & parking !;entire_home;Paris;Buttes-Chaumont - Belleville;48.873375733;2.3996531792;4;2;0;1;False;False;True;False;False;1;0.78
+246;5010129;Nid commode dans Paris romantique;entire_home;Paris;;48.8825877684;2.34108187;2;1;1;1;False;False;True;True;False;0.84;0.55
+247;5108396;Spacieux Apt près Canal St. Martin;entire_home;Paris;République;48.8706617363;2.360292417;4;2;2;2;False;False;True;True;False;0.95;0.85
+248;5234917;Relaxing nest & vibrant area!;entire_home;Paris;Gare du Nord - Gare de I'Est;48.8824066093;2.3491515188;2;1;1;1;False;False;True;True;False;0.92;0.66
+249;5238522;"Nid ""cosy"" sous les toits de Paris / Montorgueil";entire_home;Paris;2e arrondissement;48.8676890378;2.3512805425;4;1;1;1;False;False;True;True;False;1;0.85
+250;5282786;ODEON AVEC VUE SUR LA TOUR EIFFEL;entire_home;Paris;Saint Germain des Prés - Odéon;48.851723;2.34124;6;4;3;1;False;False;True;True;False;0.95;1
+251;5452049;SUPERBE ET GRAND 2P ST-GERMAIN-DES-PRES;entire_home;Paris;Saint Germain des Prés - Odéon;48.8524325452;2.3413483343;2;1;1;1;False;False;True;True;False;0.97;0.9
+252;5467108;Your Parisian Home 1 Bedroom - Sleeps 5 With A/C!;entire_home;Paris;Tour Eiffel - Champ de Mars;48.85375965;2.2997003702;5;2;1;1;False;False;True;True;False;1;1
+253;5497931;Residence Champs Elysée 2;entire_home;Paris;Champs-Elysées;48.8708524372;2.2934182348;6;4;2;2;False;False;True;True;False;1;1
+254;5541201;Tour Eiffel. 60m2 avec une vue imprenable;entire_home;Paris;;48.8582393258;2.2855819519;2;1;1;1;False;False;True;True;False;0.9;1
+255;5583693;Studio 1-4 personnes, cœur de Paris;entire_home;Paris;2e arrondissement;48.8684213721;2.3519830782;4;2;0;1;False;False;True;False;False;0.9;0.8
+256;5705203;A cosy and private bedroom;private_room;Paris;Père Lachaise - Ménilmontant;48.8674995855;2.3998997727;2;1;1;1;False;False;True;True;False;0.95;0.67
+257;5711804;2 BR in old Paris;entire_home;Paris;Opéra - Grands Boulevards;48.8723045605;2.3521983382;5;2;2;1;False;False;True;True;False;0.92;0.85
+258;5741322;Appartement Bastille Marais;entire_home;Paris;Bastille;48.8558194322;2.3705091901;4;2;2;1;False;False;True;True;False;1;1
+259;5857485;Trendy Marais with terrace;entire_home;Paris;République;48.8681686747;2.3692777553;6;4;3;3.5;False;False;True;False;False;0.88;0.63
+260;5985960;18th century luxury in the trendy Haut Marais;entire_home;Paris;3e arrondissement;48.8634599764;2.3644917604;4;3;2;1.5;False;False;True;True;False;0.9;0.75
+261;5998911;Chic, calme & volupté près du Bon Marché;entire_home;Paris;Saint Germain des Prés - Odéon;48.8473210144;2.3243446029;6;5;3;1.5;False;False;True;True;False;0.85;0.45
+262;6010678;Vue sur toits - St Germain des Près;entire_home;Paris;Saint Germain des Prés - Odéon;48.8524276964;2.3393349812;4;1;1;1;False;False;True;False;False;0.75;1
+263;6069917;Grand logement lumineux avec balcon fleuri;entire_home;Paris;Père Lachaise - Ménilmontant;48.8600389045;2.3998607511;2;1;1;1;False;False;True;True;False;0.9;1
+264;6097562;Superbe 3 pièces - Arc Triomphe (2);entire_home;Paris;Champs-Elysées;48.8747481303;2.2948127202;6;3;2;1.5;False;False;True;False;False;1;1
+265;6150694;Charming Parisian Flat Montmartre;entire_home;Paris;Pigalle - Saint-Georges;48.8817817382;2.3452911443;4;2;1;1;False;False;True;True;False;0.85;0.75
+266;6210284;LE MARAIS BEAUTIFUL PLACE TO STAY;entire_home;Paris;Le Marais;48.8586069243;2.3649418994;2;1;0;1;False;False;True;True;False;1;1
+267;6238043;Idéal pour visiter Paris -5 pers;entire_home;Paris;Bastille;48.8541606206;2.3700899522;5;3;1;1;False;False;True;False;False;0.86;0.33
+268;6278981;Paris 8/Department stores/180 sqm2 /5 bedrooms;entire_home;Paris;Saint-Lazare;48.8785431061;2.3259716041;9;5;5;3;False;False;True;True;False;1;1
+269;6292406;luxe apart trocadero/champs elysées;entire_home;Paris;Champs-Elysées;48.8708697351;2.2932468376;5;6;1;1;False;False;True;True;False;0.9;0.8
+270;6332449;Studio dans un ancien atelier de costumes à SoPi;entire_home;Paris;Opéra - Grands Boulevards;48.872093;2.342469;2;1;0;1;False;False;False;True;False;1;1
+271;6351188;Family apt in center Marais Quin;entire_home;Paris;Châtelet - Les Halles - Beaubourg;48.8636767817;2.3513586911;5;5;3;2;False;False;True;True;False;0.84;1
+272;6456386;Chambre Paris Centre - République;private_room;Paris;République;48.870780974;2.3685691836;2;1;1;1;False;False;True;True;False;1;1
+273;6472251;Pauline, 1Ch/1Sdb, 3 personnes;entire_home;Paris;4e arrondissement;48.8546823144;2.3681891308;3;1;1;1;False;False;True;True;False;0.858108;1
+274;6495864;ID 24 Marais 1 bedroom 4 pax;entire_home;Paris;Le Marais;48.8569264146;2.3602123221;4;1;1;1;False;False;True;True;False;0.8;0.39
+275;6519685;Galerie Lafayette romantic flat;entire_home;Paris;Pigalle - Saint-Georges;48.8762049324;2.3398978268;3;2;1;1;False;False;True;False;False;1;1
+276;6521400;Grand Rex Lovely Flat;private_room;Paris;2e arrondissement;48.8686579543;2.3527977597;3;2;0;1;False;False;True;False;False;0.99;0.98
+277;6533946;Grand duplex 65m2 pour 4;entire_home;Paris;République;48.8678075009;2.3725382699;4;2;2;1;False;False;True;True;False;1;1
+278;6541176;Elegant appartment view on Eiffel Tower;entire_home;Paris;Tour Eiffel - Champ de Mars;48.8563277791;2.2947277765;4;1;1;1;False;False;True;True;False;0.86;0.8
+279;6622554;130m² Hausman flat, 5mn eiffe tower;entire_home;Paris;Invalides - Ecole Militaire;48.8462954085;2.3110411772;6;3;3;2.5;False;False;True;True;False;1;0.88
+280;6642130;Studio proche Bastille/Gare de Lyon;entire_home;Paris;Bastille;48.8518412395;2.3806326817;2;1;0;1;False;False;True;True;False;0.95;0.8
+281;6666647;Great view 75sqm  2bdr Eiffel Tower;entire_home;Paris;Tour Eiffel - Champ de Mars;48.8508996456;2.2963889168;5;4;2;1;False;False;True;False;False;0.8;0.8
+282;6667589;Appartement comme une maison;entire_home;Paris;;48.8667745732;2.3725701215;6;4;4;1;False;False;True;False;False;0.8;0.65
+283;6739175;TWO BDR LOFT  IN THE MARAIS;entire_home;Paris;Le Marais;48.8609107197;2.3657925238;4;3;2;2;False;False;True;True;False;1;1
+284;6803808;Bienvenue Welcome ようこそ;entire_home;Paris;;48.8742013969;2.3592648202;2;1;0;1;False;False;True;False;False;1;1
+285;6817168;Studio 17m2 métro alexandre DUMAS;entire_home;Paris;Nation;48.8560482224;2.3976096276;2;1;0;1;False;False;True;False;False;1;0.67
+286;6827808;Appartement grand et lumineux à Montmartre;entire_home;Paris;Montmartre;48.8822724051;2.3418202685;7;4;3;1;False;False;True;True;False;0.92;1
+287;6839715;Au pied de la Tour Eiffel...The Bedroom !;private_room;Paris;Tour Eiffel - Champ de Mars;48.8553745128;2.2934277515;2;1;1;1;False;False;True;False;False;0.8;1
+288;6874412;Appartement lumineux Champs Elysées;entire_home;Paris;Champs-Elysées;48.8724629159;2.30189024;4;2;1;1;False;False;True;True;False;0.9;0.8
+289;6929719;Amazing studio in Saint Germain;entire_home;Paris;Saint Germain des Prés - Odéon;48.8527784713;2.3422251512;2;1;0;1;False;False;True;False;False;0.92;0.87
+290;6978963;Studette indépendante Charles de Gaulle Etoile;private_room;Paris;Monceau;48.8798013176;2.3080697556;1;1;1;1;False;False;True;False;False;1;0.9
+291;7039564;Magnifique 3 pieces Boetie;entire_home;Paris;Saint-Lazare;48.8730401958;2.3175337573;6;3;2;1;False;False;True;True;False;0.92;0.85
+292;7208784;Chambre Paris Gare du Nord;private_room;Paris;;48.8823483845;2.3600224466;1;1;1;1;False;False;True;True;False;1;1
+293;7187730;Appartement cosy avec jardinet près Tour Eiffel;entire_home;Paris;Tour Eiffel - Champ de Mars;48.8514521609;2.2964958816;2;1;1;1;False;False;True;True;False;0.9;0.65
+294;7313826;Beautiful studio in CENTER;entire_home;Paris;Châtelet - Les Halles - Beaubourg;48.8602473343;2.3442905287;2;1;0;1;False;False;True;True;False;0.9;1
+295;7341208;Appartement franco-japonais à Paris;entire_home;Paris;10e arrondissement;48.8752553645;2.3725386004;3;2;1;1;False;False;True;False;False;0.83;0.66
+296;7354358;Loft - 285m2 - Art / Design;entire_home;Paris;Gare du Nord - Gare de I'Est;48.8748210176;2.3538013096;5;2;2;2;False;False;True;False;False;0.95;0.85
+297;7424001;Privet room in paris;private_room;Paris;Saint Germain des Prés - Odéon;48.8579834795;2.3327048281;2;1;1;1;False;False;True;False;False;0.88;0.8
+298;7432368;*AMAZING 1000sqf NEAR EIFFEL TOWER*;entire_home;Paris;Commerce - Dupleix;48.845768438;2.2953649713;6;3;2;2;False;False;True;True;False;1;1
+299;7489835;Lovely & panoramic flat - Invalides;entire_home;Paris;Invalides - Ecole Militaire;48.8606948271;2.3157628764;3;2;1;1.5;False;False;True;True;False;0.83;0.79
+300;7571648;St Germain Cosy Suite;entire_home;Paris;Saint Germain des Prés - Odéon;48.849125;2.328996;4;2;1;1;False;False;True;True;False;0.9;1
+301;7742395;House on 11th district Voltaire;entire_home;Paris;Bastille;48.8564841775;2.3820075845;4;2;2;2;False;False;True;True;False;0.87;1
+302;7785405;Charming apartment in Paris;entire_home;Paris;Saint Germain des Prés - Odéon;48.8520475693;2.3320750516;4;2;2;2;False;False;True;True;False;1;1
+303;7877690;Appartement spacieux Paris Nation;entire_home;Paris;Nation;48.8554204171;2.3966382546;5;3;2;1;False;False;True;True;False;0.93;0.85
+304;7892333;Appartement sous les toits;entire_home;Paris;Opéra - Grands Boulevards;48.8729228607;2.344117543;3;2;0;1;False;False;True;True;False;0.77;0.55
+305;7935169;Vue imprenable sur Paris dans le Marais!;entire_home;Paris;Le Marais;48.8592975422;2.3543503438;6;4;2;1;False;False;True;False;False;0.92;0.65
+306;7976700;Calm, Sunny 1 bedroom city center;entire_home;Paris;;48.8657500501;2.3483716887;2;1;1;1;False;False;True;True;False;0.9;0.8
+307;8056810;Beautiful Appartement Center Paris;entire_home;Paris;2e arrondissement;48.8675032385;2.3531631048;3;1;1;1;False;False;True;False;False;0.92;1
+308;8101025;Marais/Place des Vosges;entire_home;Paris;Le Marais;48.8569097209;2.3649127849;4;2;1;1.5;False;False;True;True;False;0.81;0.66
+309;8243908;studio à partager (Champs Elysées);shared_room;Paris;Champs-Elysées;48.8774123394;2.293671502;1;1;1;1;False;False;True;False;False;1;1
+310;8266475;Chambre calme, SDB et WC  séparés;private_room;Paris;Gare de Lyon;48.8455620625;2.3853377811;3;2;1;1;False;False;True;True;False;1;1
+311;8278130;Near Marais - 2 bedrooms - 88 sqm;entire_home;Paris;11e arrondissement;48.8627104232;2.3777460549;4;2;2;1;False;False;True;True;False;1;1
+312;8448023;Appartement CHAMPS ELYSEE 5 pers.;entire_home;Paris;Champs-Elysées;48.87051413;2.2903386336;5;3;1;2;False;False;True;True;False;0.98;0.8
+313;8480521;Studio, canal St-Martin, Paris;entire_home;Paris;République;48.8708414624;2.3632956283;2;1;1;1;False;False;True;True;False;0.95;0.7
+314;8525469;MARAIS Luxury 3 Bed , 2 bath Huge Garden View!;entire_home;Paris;Le Marais;48.8589107055;2.3584315743;8;3;3;2.5;False;False;True;True;False;0.9;0.68
+315;8639623;Mon loft au coeur de Paris;entire_home;Paris;Louvre - Tuileries;48.8632640281;2.3341048421;5;3;2;1.5;False;False;True;True;False;0.95;0.55
+316;8647159;belle maison de ville 85m2 Bastille;entire_home;Paris;Bastille;48.8553583909;2.3745628964;6;4;2;1;False;False;True;True;False;1;1
+317;8711738;Grand loft à République;entire_home;Paris;République;48.8670264827;2.3722859223;6;3;3;1;False;False;True;True;False;0.85;0.7
+318;8734243;Verdi - Central family abode;entire_home;Paris;Bastille;48.84769113;2.3751903616;4;3;2;1.5;False;False;True;False;False;0.9;0.6
+319;8974367;Superbe 3 pièces/ Paris 11 /Adapté aux familles;entire_home;Paris;République;48.8700802618;2.3731754562;6;3;2;1;False;False;True;True;False;1;1
+320;8981026;Louvre Opera Classic;entire_home;Paris;2e arrondissement;48.86993;2.341072;4;2;1;1;False;False;True;True;False;1;1
+321;9072020;Vue sur Tour Eiffel Sacré-coeur #1;entire_home;Paris;République;48.8653339022;2.3719359406;1;1;0;1;False;False;True;False;False;1;1
+322;9083149;Cinema Theme Modern 3BR *Saint-Germain *7 Guests;entire_home;Paris;Saint Germain des Prés - Odéon;48.85199531;2.3383005415;7;3;3;1;False;False;True;True;False;0.92;0.85
+323;9131204;5*Eiffel Tower Penthouse w Terrace;entire_home;Paris;Passy;48.8517150904;2.2788515687;4;2;2;2.5;False;False;True;True;False;1;0.8
+324;9144409;Charmant studio au coeur de Paris;entire_home;Paris;Saint Germain des Prés - Odéon;48.8505441658;2.3308590922;2;1;0;1;False;False;True;True;False;0.92;0.8
+325;9200401;Bright & Cosy room Bastille area;private_room;Paris;Bastille;48.8557434394;2.3752856598;2;1;1;1;False;False;True;True;False;0.88;0.6
+326;9228374;Chambre16;private_room;Paris;Passy;48.8614375133;2.277083644;1;1;1;0.5;False;False;True;False;False;0.88;0.69
+327;9238481;ELYSEE LOFT;entire_home;Paris;Champs-Elysées;48.8705649993;2.305469869;4;2;1;1;False;False;True;False;False;0.6;0.39
+328;9367678;Big house with garden, very central;entire_home;Paris;Saint-Lazare;48.8810206716;2.319642644;13;8;6;2;False;False;True;False;False;0.8;0.8
+329;9934524;2 bedroom /copernic2;entire_home;Paris;Passy;48.8694270603;2.2860195229;6;3;2;1;False;False;True;False;False;0.9;0.8
+330;9500785;Show Room, 2Ch/2Sdb, 6 personnes;entire_home;Paris;Le Marais;48.8592989468;2.3540981339;6;3;2;2;False;False;True;True;False;0.87;1
+331;9558677;a DIAMOND Saint Germain des Prés;entire_home;Paris;Saint Germain des Prés - Odéon;48.855140257;2.3372082157;2;1;1;1.5;False;False;True;True;False;1;1
+332;9605195;Au cœur de paris;entire_home;Paris;République;48.8685708312;2.367115701;4;2;1;1;False;False;True;True;False;0.95;1
+333;9645696;Face à l'Art, 2Ch/2Sdb, 6 personnes;entire_home;Paris;Le Marais;48.8604641844;2.3558357707;6;3;2;2;False;False;True;True;False;0.86;0.44
+334;9675109;Clair de Lune, 2Ch/1Sdb, 6 pers.;entire_home;Paris;Le Marais;48.8585799751;2.3589163553;6;3;2;1.5;False;False;True;True;False;0.87;0.44
+335;9723864;Cozy Studio near Champs Elysées - central location;entire_home;Paris;Champs-Elysées;48.8713072049;2.3112962659;2;1;0;1;False;False;True;False;False;1;1
+336;9933650;Le Marais - Centre Georges Pompidou;entire_home;Paris;Le Marais;48.8631968005;2.3549482666;3;2;1;1;False;False;True;True;False;1;1
+337;9867585;Chic Parisian Saint Germain 85 Sq.;entire_home;Paris;Saint Germain des Prés - Odéon;48.8519761308;2.3403019048;2;1;1;1.5;False;False;True;True;False;0.9;1
+338;9879160;Très bel appart lumineux familial 2 ch 100m2;entire_home;Paris;11e arrondissement;48.8648878884;2.3792431904;3;2;2;1;False;False;True;False;False;1;1
+339;9936603;NEW ! 55 m2  BRIGHT & CONFORT  LONG TERM RENT ALSO;entire_home;Paris;2e arrondissement;48.8682618897;2.3532400344;2;1;1;1;False;False;True;True;False;0.82;0.55
+340;10010861;2 chambres près du Louvre;entire_home;Paris;Châtelet - Les Halles - Beaubourg;48.863491;2.342114;4;4;2;1;False;False;True;True;False;1;1
+341;10110180;Nectar, 3Ch/3Sdb, 7 personnes;entire_home;Paris;3e arrondissement;48.8643304425;2.3625042889;7;4;3;3;False;False;True;True;False;0.86;1
+342;10160529;Studio Rénové 25m2 , cours privée;entire_home;Paris;11e arrondissement;48.8506160354;2.3880906726;2;1;0;1.5;False;False;True;False;False;0.97;0.95
+343;10201441;Comfortable Studio at Montorgueuil;entire_home;Paris;2e arrondissement;48.8682548617;2.3484010362;2;2;0;1;False;False;True;False;False;0.86;0.77
+344;10099626;Chambre;private_room;Paris;Pigalle - Saint-Georges;48.8785674935;2.3391629315;1;1;1;1;False;False;True;True;False;1;1
+345;10246204;Marais Delight;entire_home;Paris;3e arrondissement;48.8669336436;2.3581754405;2;1;1;1;False;False;True;True;False;0.97;0.67
+346;10348364;CENTER OF PARIS - Marais 3BD- 7 persons;entire_home;Paris;Saint-Paul - Ile Saint-Louis;48.8524002222;2.3633345419;7;6;3;2;False;False;True;True;False;1;1
+347;10514296;New loft canal St Martin Paris, 6p;entire_home;Paris;;48.8778747487;2.3639817808;6;3;0;1;False;False;True;True;False;1;0.51
+348;10401897;STUDIO CENTRAL partagé;shared_room;Paris;;48.8577720983;2.3680943016;1;3;1;1;False;False;True;True;False;0.92;0.67
+349;10402505;Beautiful studio Paris 16th Victor Hugo;entire_home;Paris;Passy;48.8701510799;2.2807129258;2;1;0;1;False;False;True;True;False;0.71;0.4
+350;10475056;Chambre double appartement familial;private_room;Paris;Gare du Nord - Gare de I'Est;48.8733698041;2.3556511635;2;1;1;1;False;False;True;True;False;0.9;0.73
+351;10508140;Ile Saint-Louis, Notre-Dame view;entire_home;Paris;Saint-Paul - Ile Saint-Louis;48.852150645;2.3541002094;2;1;1;1;False;False;True;True;False;1;1
+352;10744247;(six bed room )I;shared_room;Paris;2e arrondissement;48.8686726934;2.3520751285;6;6;1;2;False;False;True;False;False;0.95;0.9
+353;10700852;[150m2]Mega Condominium EiffelTower;entire_home;Paris;Tour Eiffel - Champ de Mars;48.8582217267;2.2972929818;9;6;4;3.5;False;False;True;True;False;1;1
+354;10762837;Brand new flat 10 min walk to Opera;entire_home;Paris;Saint-Lazare;48.8784111574;2.3280332571;2;1;2;1;False;False;True;True;False;0.85;1
+355;20686647;Beautiful apartment in the heart of Paris;entire_home;Paris;Saint-Lazare;48.8807736781;2.3232589897;3;3;1;1;False;False;True;False;False;1;1
+356;10795313;Charm on the roofs of Paris!;entire_home;Paris;Saint Germain des Prés - Odéon;48.8531092034;2.3433228855;4;3;1;1.5;False;False;True;True;False;1;0.7
+357;10798782;Cosy flat in Le Marais - 63m2;entire_home;Paris;Le Marais;48.8554896948;2.360411507;3;1;1;1;False;False;True;False;False;0.86;0.65
+358;10833783;Charmant 2 pièces Paris Centre;entire_home;Paris;Châtelet - Les Halles - Beaubourg;48.864815165;2.3433311318;3;1;1;1;False;False;True;True;False;0.85;0.54
+359;10884388;Duplex 160m2 next to Champs Elysées;entire_home;Paris;Passy;48.8709724455;2.2874012286;7;4;3;2;False;False;True;True;False;1;1
+360;10916393;PARIS CENTER LOFT/PRIVATE BATHROOM/WC;private_room;Paris;Le Marais;48.8632140537;2.3568461672;2;1;1;1;False;False;True;False;False;0.97;0.89
+361;10948582;Duplex de caractère - Calme & lumineux;entire_home;Paris;Le Marais;48.8629741726;2.3603322879;5;3;2;1;False;False;True;True;False;0.94;0.85
+362;11084923;Opéra, Luxury  2 bedrooms, balcony;entire_home;Paris;2e arrondissement;48.8698254012;2.3362755308;6;3;2;1;False;False;True;True;False;0.9;0.75
+363;11405806;Being a real parisian;entire_home;Paris;11e arrondissement;48.8559610213;2.3844903091;4;2;1;1;False;False;True;True;False;1;1
+364;11474242;Room in renovated apartment;private_room;Paris;Père Lachaise - Ménilmontant;48.8581431202;2.4004675606;2;1;1;1;False;False;True;True;False;0.95;0.95
+365;11568981;Luxury apartment I - Marais AREA;entire_home;Paris;;48.8581875501;2.3530646057;6;3;2;2;False;False;True;True;False;1;1
+366;11726520;Luxurious Marais-Flat Picassomuseum;entire_home;Paris;Le Marais;48.8602425074;2.3622018356;4;2;1;2;False;False;True;True;False;0.8;0.7
+367;11731576;ARC DE TRIOMPHE;entire_home;Paris;Ternes;48.8791795573;2.2961530818;4;2;1;1;False;False;True;False;False;0.8;0.65
+368;11768716;Beautiful room in Aligre / Bastille;private_room;Paris;;48.8487428571;2.3765654522;1;1;1;1;False;False;True;True;False;1;1
+369;11769445;Amazing flat in the heart of Paris;entire_home;Paris;Châtelet - Les Halles - Beaubourg;48.8676214531;2.3456244995;2;1;1;1;False;False;True;True;False;1;0.9
+370;11957644;2-Rooms Flat 35m2 Paris 11th;entire_home;Paris;République;48.8658974413;2.3720025729;4;2;1;1;False;False;True;False;False;0.88;0.85
+371;11960966;Last floor build. Marriott Champs-Elysées- Berri.;entire_home;Paris;Champs-Elysées;48.8737795533;2.3041922836;6;3;3;3.5;False;False;True;True;False;1;1
+372;11984821;Huge 140 m2  3Br center of Paris;entire_home;Paris;2e arrondissement;48.8689573657;2.352632034;8;3;3;2;False;False;True;True;False;1;1
+373;12002855;Dans véritable appartement Parisien trés lumineux;private_room;Paris;République;48.8645943384;2.3687913556;2;1;1;1;False;False;True;True;False;1;1
+374;12118573;Flaner rue de la Paix;entire_home;Paris;2e arrondissement;48.8694165507;2.332218577;7;5;3;1;False;False;True;True;False;0.92;0.85
+375;12171893;Studio avec terrasse South Colonel Fabien (Soco);entire_home;Paris;10e arrondissement;48.8730798448;2.3694985701;2;1;0;1;False;False;True;False;False;0.9;0.8
+376;12214909;★Appartement charmant - Notre-Dame;entire_home;Paris;Notre Dame - Ile de La Cité;48.8524899152;2.3497105672;3;2;1;1;False;False;True;True;False;1;1
+377;12219331;Appartement de 42 m2 tout équipé;entire_home;Paris;Commerce - Dupleix;48.8474512971;2.2906960691;4;1;1;1;False;False;True;True;False;0.94;0.8
+378;12241478;Center of Paris (11th);entire_home;Paris;République;48.8666200301;2.3745948394;2;1;0;1;False;False;True;False;False;1;0.75
+379;12392510;Les Plumes Hôtel**** Heart of Paris;private_room;Paris;Pigalle - Saint-Georges;48.875973624;2.3434887961;2;1;1;1;False;False;True;True;False;1;1
+380;12396126;Studio lumineux dans quartier calme;entire_home;Paris;Tour Eiffel - Champ de Mars;48.8520046857;2.3047140038;1;1;0;1;False;False;True;False;False;0.85;0.55
+381;12398064;Beau 2 pces proche Gambetta - Parking incl.;entire_home;Paris;Père Lachaise - Ménilmontant;48.8645405287;2.397706849;4;2;1;1;False;False;True;True;False;0.85;0.79
+382;12477131;23 - Luxury Parisian Flat Montorgueil;entire_home;Paris;2e arrondissement;48.8680279072;2.3518274837;10;6;3;1.5;False;False;False;False;False;1;1
+383;12485995;Studio en plein ciel, tout neuf.;entire_home;Paris;;48.8720937111;2.4000068259;2;1;1;1;False;False;True;False;False;0.92;0.85
+384;12575676;Charmant 2 pièces à Ménilmontant;entire_home;Paris;Père Lachaise - Ménilmontant;48.8677065922;2.3916352937;2;1;1;1;False;False;True;True;False;0.85;0.75
+385;12530928;Tour Eiffel Appartement 3 pièces;entire_home;Paris;Tour Eiffel - Champ de Mars;48.8579117122;2.2873467371;6;4;2;1;False;False;True;False;False;1;1
+386;12541479;Exclusive High Standing at Louvre;entire_home;Paris;Palais Royal;48.864472755;2.3418140278;6;3;2;2;False;False;True;True;False;0.9;1
+387;12550943;Studette cour silencieuse plantée;private_room;Paris;République;48.8618150937;2.3723829268;2;2;1;1;False;False;True;False;False;0.95;1
+388;12578697;MAISON FAMILIALE EN DUPLEX - OPERA;entire_home;Paris;2e arrondissement;48.8696590753;2.3374990492;4;3;2;1;False;False;True;True;False;1;0.9
+389;12580849;Duplex Atypique avec vue sur jardin;entire_home;Paris;Père Lachaise - Ménilmontant;48.8595416464;2.4012476519;2;1;1;1;False;False;True;True;False;1;0.8
+390;21960586;E4GD Pink Fashion;entire_home;Paris;Le Marais;48.86388;2.356727;2;1;1;1;False;False;True;True;False;1;1
+391;12642998;Chambre adorable au coeur de Paris;private_room;Paris;Châtelet - Les Halles - Beaubourg;48.8618045898;2.3487252561;2;1;1;1;False;False;True;False;False;0.95;0.9
+392;12651904;Apt 3p, vue panoramique sur Paris, Buttes-Chaumont;entire_home;Paris;Buttes-Chaumont - Belleville;48.8752890362;2.3780280054;6;3;2;1;False;False;True;True;False;0.9;0.7
+393;12666306;ID 293 - Louvre Palais Royale;entire_home;Paris;Châtelet - Les Halles - Beaubourg;48.8607521456;2.3432445301;4;2;1;1;False;False;True;True;False;0.78;0.37
+394;12725313;ID 288 + ID 289 Châtelet les Halles;entire_home;Paris;Châtelet - Les Halles - Beaubourg;48.8625232231;2.3478906427;7;4;2;2;False;False;True;True;False;0.84;0.47
+395;12727412;Sweet studio in Montorgueil;entire_home;Paris;2e arrondissement;48.8690947425;2.3530517062;2;1;1;1;False;False;True;True;False;1;1
+396;12741025;Marais Archives Nationales;entire_home;Paris;Le Marais;48.860859;2.356637;2;1;0;1;False;False;True;True;False;1;1
+397;12779552;Cozy Studio Belleville;entire_home;Paris;Buttes-Chaumont - Belleville;48.8759506561;2.4041807257;1;1;0;1;False;False;True;False;False;0.9;0.7
+398;12788813;Bright cosy flat,amazing view, NEW!;entire_home;Paris;;48.8729705537;2.3379445798;2;1;1;1;False;False;True;True;False;0.9;1
+399;12793662;Lovely calm flat in central Paris;entire_home;Paris;Gare du Nord - Gare de I'Est;48.8779595615;2.3575616815;4;2;1;1;False;False;True;False;False;0.77;0.77
+400;12816341;EIFFEL AT LAST!;entire_home;Paris;Tour Eiffel - Champ de Mars;48.8620469028;2.2934777198;3;2;1;1.5;False;False;True;False;False;1;1
+401;12843238;Charmant petit loft Paris 11°;entire_home;Paris;République;48.8688326377;2.3751010992;2;1;1;1;False;False;True;True;False;1;1
+402;12960358;Beautiful independant appartment, mews house style;entire_home;Paris;Saint Germain des Prés - Odéon;48.857318753;2.3291221374;3;2;2;1.5;False;False;True;True;False;1;0.85
+403;12961597;Bel appartement ensoleillé 3 chambres 95m2;entire_home;Paris;11e arrondissement;48.8512985741;2.3859711899;5;3;3;2;False;False;True;True;False;1;1
+404;12976143;Classic Parisian Style 3BR *Marais *7 Guests;entire_home;Paris;Saint-Paul - Ile Saint-Louis;48.8562552569;2.3536777515;7;4;3;2;False;False;True;True;False;0.92;0.85
+405;13074083;Joker, 1Ch/1SdB, 2 personnes;entire_home;Paris;3e arrondissement;48.8646096086;2.3571681611;2;1;1;1;False;False;True;True;False;0.88;0.68
+406;13111723;Cosy Studio in Neuilly !!!;entire_home;Neuilly-sur-Seine;16e arrondissement;48.8815160565;2.2712104235;2;1;0;1;False;False;True;True;False;1;1
+407;13093102;Petit Veneur, 1Ch/1Sdb, 4 personnes.;entire_home;Paris;Le Marais;48.8601113561;2.366514322;4;2;1;1;False;False;True;True;False;0.86;0.49
+408;13125866;Appartement haut marais;entire_home;Paris;République;48.8645331449;2.3653261381;3;2;1;1;False;False;True;True;False;0.9;0.8
+409;13134593;Lovely room in a flat at the heart of Paris:);private_room;Paris;République;48.8675041194;2.3729327224;2;1;1;1;False;False;True;True;False;0.95;0.85
+410;13168981;PARIS / Saint Germain des Près / 5 Persons;entire_home;Paris;Saint Germain des Prés - Odéon;48.849857;2.337238;5;3;1;2;False;False;True;False;False;0.95;0.9
+411;13233607;DANS PARC MONCEAU TERRASSE 130 M2 + 2 PIECES.;entire_home;Paris;Monceau;48.878649338;2.3121544424;3;2;2;1;False;False;True;False;False;0.95;0.8
+412;13267787;Renovated 2-room appartment (45m2);entire_home;Paris;Opéra - Grands Boulevards;48.8696491829;2.3517509306;4;2;1;1;False;False;True;True;False;0.9;0.73
+413;13274675;Appartement Luxe - Paris Centre;entire_home;Paris;Invalides - Ecole Militaire;48.8588172839;2.3238835646;6;3;3;2;False;False;True;False;False;1;0.9
+414;13420365;Hôtel Elysées Paris;private_room;Paris;;48.8750932755;2.296740925;4;4;2;1;False;False;True;False;False;1;1
+415;13489341;3 bedroom apartment near Opera P1063;entire_home;Paris;Opéra - Grands Boulevards;48.8716215959;2.3484862123;6;4;3;1.5;False;False;True;True;False;0.71;0.34
+416;13491097;Charming 90m2 Apt  Republique Belleville Oberkampf;entire_home;Paris;République;48.8695431593;2.3749778282;7;4;2;1.5;False;False;True;False;False;0.9;0.74
+417;13627688;Cool flat in lively neighbourhood :);entire_home;Paris;10e arrondissement;48.8730853204;2.3738158299;2;1;1;1;False;False;True;False;False;0.85;0.7
+418;13618029;Paris - Havre de paix à deux pas du Marais;entire_home;Paris;Bastille;48.8582158181;2.3681940763;3;2;1;1;False;False;True;True;False;1;0.9
+419;13797199;Lovely flat in between Eiffel Tower and Invalids;entire_home;Paris;Tour Eiffel - Champ de Mars;48.861008;2.305133;3;2;0;1;False;False;True;False;False;1;0.9
+420;13871219;Gallery, Studio/1SdB, 4 personnes;entire_home;Paris;Le Marais;48.8551932989;2.3638291749;4;2;0;1;False;False;True;True;False;0.86;1
+421;13904782;Beautiful 25 m2 studio close to Champs Elysées;entire_home;Paris;Champs-Elysées;48.8721049365;2.3102065834;4;2;0;1;False;False;True;True;False;1;0.8
+422;13906730;Fantastic Parisian apartment;entire_home;Paris;Saint-Michel;48.8505599945;2.3432599892;6;2;2;1;False;False;True;True;False;0.98;0.75
+423;13912256;Paris champs élysée9;entire_home;Paris;Champs-Elysées;48.8745737854;2.2953787251;2;1;1;1;False;False;True;True;False;0.9;0.8
+424;13949615;5ème ciel, Studio/SdB, 2 personnes;entire_home;Paris;Le Marais;48.8613457162;2.3624222363;2;1;0;1;False;False;True;True;False;0.91;0.54
+425;14178982;Appartement Champs-Elysées 90m2;entire_home;Paris;Madeleine - Vendôme;48.8713442501;2.3166607166;3;2;2;2;False;False;True;True;False;0.85;0.75
+426;14196180;"Charming studio ""Kenzo"" Marais";entire_home;Paris;Saint-Paul - Ile Saint-Louis;48.8530646251;2.3652874033;2;1;1;1;False;False;True;True;False;0.9;0.75
+427;14207437;Hôtel Elysées 8*** - Chambre Exécutive;private_room;Paris;Saint-Lazare;48.8740685333;2.3177653582;3;2;1;1;False;False;True;False;False;1;1
+428;14208656;Appartement proche Canal Saint Martin;entire_home;Paris;République;48.8719720302;2.3720842588;2;1;1;1;False;False;True;True;False;0.95;0.7
+429;14287488;Modern spacious central 2BR in Rue St Maur, 11eme;entire_home;Paris;République;48.8685727622;2.3742652107;6;3;2;1;False;False;True;False;False;0.85;0.75
+430;14298796;2 pièces refait à neuf proche Bastille pour 3 p;entire_home;Paris;Bastille;48.8567924113;2.3748137352;3;1;1;1;False;False;True;False;False;0.9;0.8
+431;14325227;Chambre double dans un grand appartement;private_room;Paris;République;48.8710131869;2.355822613;2;2;1;1;False;False;True;False;False;0.9;1
+432;14330975;Beau 3 pièces calme et lumineux près de Jourdain;entire_home;Paris;Buttes-Chaumont - Belleville;48.8720635575;2.3949816146;4;2;1;1;False;False;True;True;False;0.93;0.85
+433;14351504;Room(s) for 2, 65m2 flat, canal St martin.;private_room;Paris;Canal Saint-Martin;48.8771481917;2.3700023096;2;1;1;1;False;False;True;False;False;0.9;0.8
+434;14412992;Opéra Septembre !;entire_home;Paris;2e arrondissement;48.870723159;2.3348337973;6;3;2;1.5;False;False;True;True;False;0.95;0.93
+435;14433920;S03152 - Studio rue du temple;entire_home;Paris;3e arrondissement;48.8652971751;2.3622451039;4;2;0;1;False;False;True;True;False;1;1
+436;28557525;Champs Elysée Christmas House;entire_home;Paris;Champs-Elysées;48.8775807899;2.2975527899;6;3;3;2;False;True;True;False;False;1;1
+437;14486177;Paris 17e avec terrasse et vue sur Paris.;entire_home;Paris;Ternes;48.8808813127;2.2844772155;2;1;1;1;False;False;True;True;False;0.9;1
+438;14498129;LOFT MODERNE ET CHALEUREUX PROCHE CANAL ST MARTIN;entire_home;Paris;République;48.8699918373;2.3559861022;2;1;1;1;False;False;True;True;False;0.8;0.7
+439;14584402;Modern Art, 1Ch/1Sdb, 4 personnes;entire_home;Paris;Châtelet - Les Halles - Beaubourg;48.8607320896;2.3515185969;4;2;1;1;False;False;True;True;False;0.86;0.7
+440;14602664;JOLI APPARTEMENT À PARIS - BASTILLE;entire_home;Paris;Bastille;48.852478526;2.3700396564;3;2;0;1;False;False;True;False;False;1;1
+441;14702080;Chambre agréable et lumineuse à Paris;private_room;Paris;Nation;48.8459390255;2.4088732269;2;1;1;1;False;False;True;False;False;0.85;0.7
+442;14705624;Huge 140m² terrace for EVENTS on Parc MONCEAU;entire_home;Paris;;48.8774415309;2.3101289996;16;2;2;1;False;False;True;True;False;1;1
+443;14730797;Maison de ville au coeur de Paris;entire_home;Paris;République;48.8673512118;2.3705636421;2;1;1;1;False;False;True;True;False;0.84;0.8
+444;14752004;Cosy studette Paris - Le Marais.;entire_home;Paris;Le Marais;48.8560042247;2.3591410949;1;1;0;1;False;False;True;False;False;0.9;0.6
+445;14752077;Apt familial - Cosy & Design - St Georges;entire_home;Paris;Pigalle - Saint-Georges;48.8822478622;2.3337056259;6;4;3;2.5;False;False;True;True;False;1;1
+446;14769786;Charmant 2P. Canal St-Martin;entire_home;Paris;Canal Saint-Martin;48.8799184833;2.3642619193;4;2;1;1;False;False;True;False;False;0.86;0.75
+447;14788864;Charming 1bdr flat in private alley;entire_home;Paris;Bastille;48.8573067476;2.3733957773;4;1;1;1;False;False;True;True;False;1;0.85
+448;14819713;Chambre ensoleillée sur jardin / quartier typique;private_room;Paris;Buttes-Chaumont - Belleville;48.8706276148;2.3899982391;1;1;1;1;False;False;True;True;False;0.85;0.6
+449;14865203;Ayers Rock, 1Ch/1Sdb, 4 personnes;entire_home;Paris;3e arrondissement;48.8668475482;2.3588982933;4;2;1;1;False;False;True;True;False;0.86;0.55
+450;14884836;Peaceful and Family Appartment - downtown Paris;entire_home;Paris;Gare du Nord - Gare de I'Est;48.8787871996;2.3457239825;5;3;2;1;False;False;True;True;False;0.85;0.51
+451;14922653;COSY AND QUIET ONE BEDROOM FLAT IDEALLY LOCATED;entire_home;Paris;Commerce - Dupleix;48.8451569414;2.2939671749;4;3;1;1;False;False;True;True;False;1;0.95
+452;14929010;Quartier Latin 1 bedroom apartment G05477;entire_home;Paris;Saint-Michel;48.8522452242;2.3452345058;4;2;1;1;False;False;True;True;False;0.71;0.59
+453;14992207;chambre spacieuse dans grand loft;private_room;Paris;République;48.861700328;2.3707034705;2;1;1;1;False;False;True;True;False;0.84;0.7
+454;14941473;Luxury loft - Champs Elysées;entire_home;Paris;Champs-Elysées;48.8698567202;2.2961323524;4;3;2;1;False;False;True;False;False;0.85;0.7
+455;14949290;Sunny, peaceful loft next to the Canal St-Martin;entire_home;Paris;République;48.8696989709;2.3658644345;4;2;2;1;False;False;True;True;False;1;1
+456;14956561;Lovely & Charming Parisian Flat in Montorgueil !;entire_home;Paris;Châtelet - Les Halles - Beaubourg;48.864796;2.347249;5;1;1;1;False;False;True;True;False;1;1
+457;15012661;Fashion Designer Appartment, heart of Le Marais.;entire_home;Paris;Le Marais;48.8592827528;2.356827464;4;2;1;1;False;False;True;True;False;0.85;0.8
+458;15162820;Studio Design entre Auteuil et Passy;entire_home;Paris;Auteuil;48.8539250282;2.2711305482;2;1;0;0.5;False;False;True;True;False;1;0.72
+459;15225871;Bel appartement bohème avec cour privée dans Paris;entire_home;Paris;Gare du Nord - Gare de I'Est;48.8801931083;2.3516608068;2;1;1;1;False;False;True;True;False;0.9;0.71
+460;15256134;Duplex - 10 min walk Eiffel Tower / Long stay okay;entire_home;Paris;Invalides - Ecole Militaire;48.8596601696;2.3121743822;2;3;1;1;False;False;True;True;False;1;1
+461;15268282;Family duplex in the heart of Marais;entire_home;Paris;Le Marais;48.8585712836;2.3581704336;5;4;3;1;False;False;True;False;False;0.85;0.7
+462;15272520;Saint Honore Vendome;entire_home;Paris;Louvre - Tuileries;48.8652426288;2.3281986521;3;2;1;1;False;False;True;False;False;1;0.75
+463;15392759;Design and Modern Flat in Oberkampf;entire_home;Paris;11e arrondissement;48.8655739088;2.3800459004;4;2;1;1;False;False;True;False;False;0.85;0.75
+464;15447351;Bel appartement parisien , près de la Tour Eiffel;entire_home;Paris;Tour Eiffel - Champ de Mars;48.8494322716;2.2998423065;5;3;3;1;False;False;True;False;False;0.8;1
+465;15495194;Charming nest under roof Paris Aligre/Bastille;entire_home;Paris;Bastille;48.850842;2.379247;2;1;0;1;False;False;True;True;False;1;1
+466;15504591;Chambre dans colocation, quartier Gambetta;private_room;Paris;Père Lachaise - Ménilmontant;48.869811498;2.3947378641;2;1;1;1;False;False;True;False;False;0.9;0.7
+467;15548864;BRAND NEW 2BR APARTMENT HEART MARAIS MODERN DESIGN;entire_home;Paris;Le Marais;48.8558780727;2.3597746215;5;3;2;1;False;False;True;True;False;0.96;1
+468;15574312;Magnifique atelier d'artiste au centre de Paris;entire_home;Paris;Palais Royal;48.8660290363;2.3360446145;4;3;2;1;False;False;True;False;False;0.9;0.75
+469;15603494;2 pièces atypique 50 m2;entire_home;Paris;Père Lachaise - Ménilmontant;48.866951509;2.3998898498;3;1;1;1;False;False;True;False;False;1;1
+470;15631578;Charmant appartement dans le 11ieme;entire_home;Paris;11e arrondissement;48.8611358478;2.3848724865;2;1;1;1;False;False;True;False;False;1;1
+471;15644901;ONLY FOR EVENTS Appartement proche Louvre;entire_home;Paris;Palais Royal;48.8622073002;2.3402486732;16;3;3;2;False;False;True;False;False;1;1
+472;15645282;Spacious room & amazing view !;private_room;Paris;République;48.870669628;2.3735484356;1;1;1;1.5;False;False;True;True;False;0.9;1
+473;15655780;★ The Perfect Parisian Architect Studio;entire_home;Paris;République;48.8691113944;2.3795030226;2;1;0;1;False;False;True;False;False;1;1
+474;15701977;Luxury apartment in paris. THE LOUVRE, VENDÔME.;entire_home;Paris;Madeleine - Vendôme;48.8682525543;2.3320110818;6;2;2;1;False;False;True;True;False;1;1
+475;15826210;Les Showrooms du Marais - Commines (85 m2);entire_home;Paris;3e arrondissement;48.8625529074;2.3657732048;15;1;1;0;False;False;True;False;False;1;1
+476;15853260;Appartement design Paris Nation / Bastille;entire_home;Paris;;48.844372;2.390312;8;4;2;2;False;False;True;True;False;0.95;0.9
+477;15902750;Eiffel View Loft + 2 FREE RIVER CRUISE TICKETS;entire_home;Paris;Invalides - Ecole Militaire;48.8511167988;2.3230050397;3;2;0;1;False;False;True;True;False;0.85;0.75
+478;15954352;Central charming flat in the heart of Paris;entire_home;Paris;Opéra - Grands Boulevards;48.8732465812;2.3519247616;4;2;0;1;False;False;True;False;False;1;1
+479;15963836;Hôtel de Castiglione 4* -  Chambre Prestige;private_room;Paris;Madeleine - Vendôme;48.869175;2.320581;2;1;1;1;False;False;True;False;False;1;1
+480;15982715;Appartement cosy, plein coeur de Paris, Place Répu;entire_home;Paris;République;48.8696952018;2.3602068753;2;1;1;1;False;False;True;False;False;1;1
+481;15983788;Studio confortable et son Lit Futon;entire_home;Paris;Gare du Nord - Gare de I'Est;48.8749361527;2.3471788456;2;1;1;1;False;False;True;False;False;0.9;0.8
+482;16021853;STUDIO AU COEUR DE PARIS PROXIMITE MARAIS;entire_home;Paris;11e arrondissement;48.8636009876;2.3785545474;2;1;0;1;False;False;True;False;False;0.9;0.85
+483;28581819;Magnifique studio moderne et lumineux à Dupleix;entire_home;Paris;Commerce - Dupleix;48.8497128791;2.2945676604;1;1;0;1;False;True;True;False;False;0.95;0.85
+484;16049460;Chic & Trendy Loft in Le Marais!;entire_home;Paris;Le Marais;48.861816;2.36095;2;1;1;1;False;False;True;True;False;1;1
+485;16053210;Lovely Appartment near Opera;entire_home;Paris;Pigalle - Saint-Georges;48.8753671759;2.3395103731;4;2;2;1;False;False;True;True;False;1;1
+486;16112784;Appartement 32m carré;entire_home;Paris;10e arrondissement;48.8732026749;2.3718904245;2;1;1;1;False;False;True;False;False;0.9;1
+487;16128371;The heart of Le Marais! Bright&Calm 1BD flat, 41m2;entire_home;Paris;Le Marais;48.8644411025;2.3561831762;4;2;1;1;False;False;True;True;False;0.82;0.7
+488;16241256;High standing place near Marais;entire_home;Paris;4e arrondissement;48.8492823063;2.3636061325;3;2;2;2;False;False;True;True;False;1;1
+489;16297346;SoChic Suite 2 chambres Monceau Villiers;entire_home;Paris;Monceau;48.8802885658;2.3133221202;6;4;2;1;False;False;True;True;False;0.93;0.5
+490;16309255;One bedroom apartment Miromesnil area Paris 8;entire_home;Paris;Madeleine - Vendôme;48.8730785798;2.316459241;4;2;1;1.5;False;False;True;True;False;0.8;0.55
+491;16334459;Charming & Cosy Parisian Flat in Montorgueil !!!;entire_home;Paris;Châtelet - Les Halles - Beaubourg;48.866711;2.345677;4;2;1;1;False;False;True;True;False;1;1
+492;16370598;Grand loft rénové moderne et design - Plein centre;entire_home;Paris;Opéra - Grands Boulevards;48.87038074;2.3527945324;4;2;1;1;False;False;True;True;False;0.95;0.85
+493;16379809;Studio Confortable - Proche Tour Eiffel;entire_home;Paris;;48.846313025;2.2954347875;2;1;0;1;False;False;True;False;False;0.85;0.8
+494;16401270;Cosy Bedroom in Saint Germain des Prés;private_room;Paris;Saint Germain des Prés - Odéon;48.8539611168;2.3312387392;2;1;1;1;False;False;True;True;False;0.87;0.8
+495;16445821;★ Studio lumineux canal saint Martin république;entire_home;Paris;République;48.8690182459;2.3725786093;3;2;1;1;False;False;True;True;False;0.95;0.62
+496;16463871;Echec & Mat, 2Ch/1Sdb, 6 personnes;entire_home;Paris;Le Marais;48.8598179199;2.3545676549;6;3;2;1;False;False;True;True;False;0.86;0.46
+497;16484456;Chambre 1 ou 2 personnes sur Patio;private_room;Paris;Champs-Elysées;48.8755374248;2.2964949271;2;1;1;1;False;False;True;False;False;1;1
+498;16600568;Studio dans le coeur de Paris;entire_home;Paris;Le Marais;48.8626900923;2.3548338789;2;1;1;1;False;False;True;False;False;0.9;0.75
+499;16611790;Marie, 1Ch/1Sdb, 2 personnes;entire_home;Paris;11e arrondissement;48.8502756077;2.3888419249;2;1;1;1;False;False;True;True;False;1;1
+500;16613173;Eiffel Tower - Champs Elysees -  Lovely apartment;entire_home;Paris;Passy;48.8624788919;2.2811573774;3;1;1;1;False;False;True;False;False;0.9;0.8
+501;16644286;Magnifique 2 pièces avec vue sur le Sacré-Coeur;entire_home;Paris;Pigalle - Saint-Georges;48.8800540513;2.3443898613;2;1;1;1;False;False;True;True;False;1;1
+502;16682383;Studette on Eiffel Tower grounds;entire_home;Paris;Tour Eiffel - Champ de Mars;48.8519041239;2.2992369722;2;1;1;1;False;False;True;True;False;1;1
+503;16685084;Apt close to Eiffel Tower and fabulous shopping;entire_home;Paris;Commerce - Dupleix;48.8477059039;2.2980141244;2;1;1;1;False;False;True;False;False;1;1
+504;16744299;Apart Marais en rooftop, piscine privée, terrasse;private_room;Paris;3e arrondissement;48.8648134077;2.3653410657;4;1;2;2;False;False;True;False;False;0.85;0.75
+505;16852946;Le Marais - SPACIEUX 3CH/2SB - 130M2;entire_home;Paris;3e arrondissement;48.866974;2.3623;7;4;3;2;False;False;True;True;False;1;1
+506;16880432;Appartement cosy et chaleureux avec chat câlin;entire_home;Paris;Buttes-Chaumont - Belleville;48.8712538225;2.3979268818;2;1;1;1;False;False;True;False;False;0.91;1
+507;16888539;Joli appartement, très lumineux. Buttes Chaumont;entire_home;Paris;Buttes-Chaumont - Belleville;48.8744676153;2.3790838536;2;1;1;1;False;False;True;False;False;0.9;1
+508;16890826;Spacious loft in heart of historical Paris;entire_home;Paris;Saint-Michel;48.8510471614;2.346485127;6;3;3;1;False;False;True;True;False;0.68;0.65
+509;16923142;"Canopée 4 Star "" Spoil Yourself """;entire_home;Paris;Châtelet - Les Halles - Beaubourg;48.8611289707;2.3461992944;2;1;1;1;False;False;True;True;False;0.91;0.66
+510;17006209;Chambre double Paris centre/ Canal st Martin;private_room;Paris;République;48.8696870361;2.3696365795;2;1;1;1;False;False;True;False;False;0.9;1
+511;17010159;charmant studio Bastille-République;entire_home;Paris;République;48.8627617012;2.3683771921;3;1;1;1;False;False;True;False;False;0.95;0.85
+512;17035262;F2 cosy et cocon;entire_home;Paris;11e arrondissement;48.8630012136;2.3863508991;2;1;1;1;False;False;True;False;False;1;1
+513;17138818;The perfect Parisian apartment;entire_home;Paris;Passy;48.8681559905;2.2755200252;1;1;0;1;False;False;True;True;False;1;1
+514;17151408;OPERA BASTILLE - Superbe appartement 4-6 personnes;entire_home;Paris;Bastille;48.8534772426;2.3723235059;6;4;2;1;False;False;True;False;False;1;1
+515;17180482;13 - Luxury Flat Eiffel Design 2;entire_home;Paris;2e arrondissement;48.8680289938;2.3511938065;9;6;2;1.5;False;False;False;True;False;1;1
+516;17190320;Small Room Near Eiffel Tower;entire_home;Paris;Passy;48.8682133744;2.2844033396;1;1;1;0.5;False;False;True;False;False;0.9;1
+517;17222435;Espace, confort, lumière, calme près Bastille;entire_home;Paris;11e arrondissement;48.8598888577;2.3817562026;4;3;2;2.5;False;False;True;True;False;0.9;1
+518;17278354;LIGHT Snug Apt Center Paris France WIFI;entire_home;Paris;;48.8749318643;2.3603510306;2;1;1;1;False;False;True;False;False;0.92;0.85
+519;17278894;KIND Cosy Apt Center Paris France WIFI;entire_home;Paris;;48.8751895947;2.3610845354;2;1;1;1;False;False;True;False;False;0.92;0.85
+520;17279237;SUN Comfortable Apt Center Paris France WIFI;entire_home;Paris;;48.875354294;2.3615761831;2;1;1;1;False;False;True;False;False;0.92;0.85
+521;17287264;Un appartement 50 m2 dans le centre de Paris.;entire_home;Paris;2e arrondissement;48.8683111301;2.3480533682;4;2;1;1;False;False;True;True;False;0.9;0.8
+522;17299589;Chambre de bonne / Maid's room Paris Bastille;entire_home;Paris;Le Marais;48.8570680209;2.3669466817;2;1;1;1;False;False;True;True;False;0.89;0.7
+523;17313350;☆☆☆ Family flat @ Chic Paris 16;entire_home;Paris;Passy;48.8688278657;2.2807012392;5;4;2;1;False;False;True;True;False;1;1
+524;17323590;ID 130 Saint Germain des Près (Saints Pères);entire_home;Paris;Saint Germain des Prés - Odéon;48.8569315804;2.3324936701;4;2;1;1;False;False;True;True;False;0.7;0.42
+525;17325246;Luxury apt at Trocadéro->Special Price!;entire_home;Paris;Passy;48.8622405516;2.2841655433;4;2;1;1;False;False;True;True;False;0.85;0.75
+526;17394111;Castor, 1Ch/1Sdb, 3 personnes;entire_home;Paris;Le Marais;48.8593672945;2.3534473342;3;2;1;1;False;False;True;True;False;0.86;0.48
+527;17414272;Confort familial près du canal Saint Martin;entire_home;Paris;Canal Saint-Martin;48.8778470253;2.3632573221;8;4;3;2;False;False;True;True;False;0.95;1
+528;17432320;Large and Stylish 3 Bedroom Apartment in the 9th;entire_home;Paris;Gare du Nord - Gare de I'Est;48.8750225104;2.3442654647;6;3;3;2;False;False;True;True;False;1;0.75
+529;17455853;Charmant 3 pièces dans le 11ème;entire_home;Paris;Bastille;48.8589379561;2.3745952402;4;3;2;2;False;False;True;False;False;0.92;0.85
+530;17466943;BEL APPT 51M2 - À DEUX PAS DU JARDIN DU LUXEMBOURG;entire_home;Paris;Saint Germain des Prés - Odéon;48.8474231696;2.3396845599;4;2;1;1;False;False;True;False;False;1;0.9
+531;17477668;Charming flat in typical Jourdain neighborood;entire_home;Paris;Buttes-Chaumont - Belleville;48.8741282673;2.3912742127;2;1;1;1;False;False;True;True;False;1;1
+532;17522117;Chambre d'hotes, BnB room Chatelet Tour St Jacques;private_room;Paris;Notre Dame - Ile de La Cité;48.8576389006;2.3472032002;2;1;1;1;False;False;True;True;False;0.88;1
+533;17553179;Petit bateau...;entire_home;Paris;;48.8792909463;2.3889865529;1;1;0;1;False;False;True;False;False;0.79;0.7
+534;17588647;Christmas in Paris !;entire_home;Paris;Vaugirard;48.846928142;2.3042600856;4;2;2;1;False;False;True;False;False;0.9;0.8
+535;17600058;Joli deux pièces;entire_home;Paris;Buttes-Chaumont - Belleville;48.8821823227;2.3878971349;2;1;0;1;False;False;True;False;False;1;1
+536;17633726;Castor, studio, 3 personnes;entire_home;Paris;Le Marais;48.8595116452;2.3530456833;3;2;0;1;False;False;True;True;False;0.86;0.47
+537;17653251;Paris 11ème entre Bastille et Nation;entire_home;Paris;11e arrondissement;48.8494121244;2.3887145788;2;1;0;1;False;False;True;False;False;0.92;0.85
+538;17832115;Vaste chambre à côté du musée du Louvre;shared_room;Paris;Châtelet - Les Halles - Beaubourg;48.8609436285;2.3411400125;2;1;1;1;False;False;True;True;False;1;1
+539;17742713;SPACE! to breath & relax! Unique Loft by the Canal;entire_home;Paris;République;48.8699500316;2.3704604334;4;3;1;1;False;False;True;True;False;0.9;0.85
+540;17757345;En plein cœur de Belleville;private_room;Paris;République;48.8703154824;2.3743316347;2;1;1;1;False;False;True;False;False;1;1
+541;17861418;Paris Marais 2;entire_home;Paris;3e arrondissement;48.864368;2.365046;5;2;1;1;False;False;True;False;False;0.95;0.9
+542;17938025;Appartement 200 m2, Notre Dame 2 mn à pieds,5ch;entire_home;Paris;Saint-Michel;48.8507320167;2.3488381292;15;7;5;3;False;False;True;False;False;1;1
+543;17941609;Un nid calme et lumineux;entire_home;Paris;Buttes-Chaumont - Belleville;48.8770969715;2.3732478926;2;1;0;1;False;False;True;True;False;0.95;0.83
+544;17950288;Exceptional 2 bed 2 bath 2 floors 2 Terrasses;private_room;Paris;Châtelet - Les Halles - Beaubourg;48.8614187165;2.3430128361;6;2;2;2;False;False;True;True;False;1;1
+545;17963336;Cozy Studio in Hip Area Canal St Martin;entire_home;Paris;République;48.8653684952;2.3723145713;2;2;0;1;False;False;True;True;False;0.85;0.8
+546;17973038;Bright apartment with view to Eiffel Tower;entire_home;Paris;Tour Eiffel - Champ de Mars;48.8666570276;2.2911263222;4;0;1;1;False;False;True;True;False;1;1
+547;18028285;Cosy 9th, Calm & Luminous - 2 Bedrooms (55m²);entire_home;Paris;Pigalle - Saint-Georges;48.8800692337;2.3459536091;3;2;2;1;False;False;True;True;False;0.9;0.8
+548;18064959;APPARTEMENT MODERNE ET LUMINEUX - QUARTIER MARAIS;entire_home;Paris;Le Marais;48.8599090797;2.3639668283;4;2;2;1;False;False;True;True;False;1;0.9
+549;18136186;Sympathique studio à louer dans le 11ème arr.;entire_home;Paris;11e arrondissement;48.8646199599;2.3801078801;2;1;0;1;False;False;True;True;False;0.95;0.9
+550;18133601;SALE! Deluxe Penthouse w/Balcony Heart of Paris;entire_home;Paris;Notre Dame - Ile de La Cité;48.856701;2.341889;2;1;1;1.5;False;False;False;True;False;1;1
+551;18185372;Appartement Bellefond Paris 9;entire_home;Paris;Gare du Nord - Gare de I'Est;48.8783508919;2.3475021741;4;2;2;1;False;False;True;True;False;1;1
+552;18209114;Beautiful Duplex in the most luxurious area.;entire_home;Paris;Madeleine - Vendôme;48.8682306325;2.3295335217;3;2;1;1;False;False;True;True;False;1;1
+553;18209211;Contemporary apartment-St Germain 6th +Event;entire_home;Paris;Saint Germain des Prés - Odéon;48.857774134;2.3357148349;5;2;2;1;False;False;True;True;False;1;1
+554;18423732;Typical charming apartment (Madeleine);entire_home;Paris;Opéra - Grands Boulevards;48.871967985;2.3269405377;6;4;3;3;False;False;True;True;False;0.85;0.7
+555;18431311;ID 114 Champs Élysées Georges V cosy apartment;entire_home;Paris;Champs-Elysées;48.8708903332;2.2996581418;4;2;0;1;False;False;True;True;False;0.75;0.43
+556;18484044;★ Charmant studio de 38m2 - 16ème;entire_home;Paris;Auteuil;48.8515688975;2.2689924949;3;2;0;1;False;False;True;False;False;0.9;1
+557;18485360;Appartement deux pièces Belleville, Paris;entire_home;Paris;Buttes-Chaumont - Belleville;48.8721211079;2.3790023596;2;1;1;1;False;False;True;True;False;0.79;1
+558;18633461;Chic & Cosy Nord  Marais !;entire_home;Paris;République;48.861713;2.370881;2;1;0;1;False;False;True;True;False;1;1
+559;18691947;Shared Room 3;shared_room;Paris;11e arrondissement;48.8660760165;2.3823077109;1;16;1;1;False;False;True;True;False;0.9;1
+560;18644634;41 - Atelier Star Wars;entire_home;Paris;Châtelet - Les Halles - Beaubourg;48.866013;2.35084;13;7;3;1.5;False;False;False;False;False;1;1
+561;18652981;95m2, Marais, calme, espace, confort, tout équipé;entire_home;Paris;3e arrondissement;48.8623528897;2.365030693;6;4;3;1;False;False;True;True;False;0.9;0.85
+562;18679416;Charming parisian bedroom;private_room;Paris;Buttes-Chaumont - Belleville;48.8742165989;2.39370345;2;1;1;1;False;False;True;False;False;1;1
+563;18687715;Cosy studio in the heart of Marais;entire_home;Paris;;48.8553127034;2.3598397795;3;2;1;1;False;False;True;True;False;0.85;0.7
+564;18691419;Shared Room 1;shared_room;Paris;11e arrondissement;48.8671913301;2.3816852899;1;16;1;1;False;False;True;True;False;0.9;1
+565;18729378;110m² 4bedrs modern cosy & family with garden view;entire_home;Paris;Nation;48.8459561231;2.3949544863;6;6;4;2.5;False;False;True;False;False;0.9;0.75
+566;18743165;BEL APPARTEMENT 37m² - SAINT HONORÉ;entire_home;Paris;Palais Royal;48.8652402694;2.3336631303;2;1;1;1;False;False;True;False;False;1;0.9
+567;18745056;Appartement Tour Eiffel 240 M² Luxe Haussmannien;entire_home;Paris;Tour Eiffel - Champ de Mars;48.865233228;2.2957299687;6;3;3;2.5;False;False;True;True;False;0.9;0.6
+568;18762365;APPARTEMENT SPACIEUX & ÉLÉGANT 68M2 - 6E ARR.;entire_home;Paris;;48.8478021807;2.3195905871;6;3;2;2;False;False;True;False;False;1;0.9
+569;18779924;Studio 28 m2 Oberkampf;entire_home;Paris;;48.8640730766;2.3733184108;2;1;1;1;False;False;True;False;False;0.82;0.63
+570;18807254;Spacious Large Bright Chic Paris Apartment 350SQM;entire_home;Paris;Passy;48.8717347934;2.286565969;9;4;4;3.5;False;False;True;False;False;0.95;0.9
+571;18817417;LE MARAIS - Appartement spacieux avec vue;entire_home;Paris;Châtelet - Les Halles - Beaubourg;48.8591159549;2.3483082358;8;5;3;2.5;False;False;True;False;False;1;1
+572;18946061;Room for two in a Latin Quarter. Free Breakfast!;private_room;Paris;Saint-Michel;48.8491265809;2.3460766394;2;2;1;1;False;False;True;False;False;0.74;1
+573;18824088;SUPERBE APPARTEMENT ESPRIT LOFT TOUR EIFFEL;entire_home;Paris;Tour Eiffel - Champ de Mars;48.8502959505;2.2943663426;4;2;1;1;False;False;True;False;False;1;1
+574;18870266;Magnifique Appartement George V;entire_home;Paris;Champs-Elysées;48.8710608043;2.2986256867;4;2;2;2;False;False;True;True;False;0.9;0.85
+575;18885121;Wonderful apartment on the most beautiful quartier;entire_home;Paris;Champs-Elysées;48.8745739684;2.2891972562;5;3;2;1;False;False;True;False;False;0.95;1
+576;18889749;Quiet cozy studio near Belleville, Buttes Chaumont;entire_home;Paris;Buttes-Chaumont - Belleville;48.8765065945;2.3751365175;2;1;1;1;False;False;True;True;False;0.9;0.76
+577;18900954;Bel Appartement Paris 8ème pour 6 personnes;entire_home;Paris;Monceau;48.8777132637;2.3120553181;6;3;3;2;False;False;True;False;False;1;1
+578;18937483;Appart splendid R.MARTYRS au coeur de Paris 75009;entire_home;Paris;Pigalle - Saint-Georges;48.8778260474;2.3400972254;3;2;2;1;False;False;True;True;False;0.95;1
+579;18956979;Lumineux appartement proche de tous musées;entire_home;Paris;Invalides - Ecole Militaire;48.8587664012;2.3160470264;5;5;3;1;False;False;True;False;False;1;1
+580;19079934;2 pièces au coeur de Paris;entire_home;Paris;Opéra - Grands Boulevards;48.8721023464;2.3540322916;4;2;1;1;False;False;True;False;False;0.9;1
+581;18969773;Appartement Hotel de ville - Notre Dame - Rivoli;entire_home;Paris;Notre Dame - Ile de La Cité;48.8571090701;2.3521211804;3;1;1;1;False;False;True;True;False;0.9;0.75
+582;18971405;50 m2 Charming Loft Victor Hugo Area;entire_home;Paris;Passy;48.8683461381;2.2830391269;4;2;0;1;False;False;True;False;False;0.78;1
+583;19225449;Bright & sunny duplex in the heart of Paris;entire_home;Paris;Châtelet - Les Halles - Beaubourg;48.8640933338;2.3509606017;2;1;1;1;False;False;True;True;False;0.9;1
+584;19224034;L'ensoleillé;entire_home;Paris;Buttes-Chaumont - Belleville;48.8763539709;2.3933393015;2;1;0;1;False;False;True;False;False;0.9;0.71
+585;19224902;Invalides Eiffel Tower-Unique View-last minute sp;entire_home;Paris;Tour Eiffel - Champ de Mars;48.855973573;2.3088318148;3;2;2;1;False;False;True;True;False;0.9;0.75
+586;19255212;Maison d'Architecte avec Jardin,proche Tour Eiffel;entire_home;Paris;Commerce - Dupleix;48.8480643074;2.2925164373;8;4;3;2;False;False;True;False;False;0.95;1
+587;19266707;Cozy studio in Higher Marais - Residence Meslay;entire_home;Paris;3e arrondissement;48.8681143518;2.3580697427;2;1;0;1;False;False;True;True;False;1;1
+588;19282953;Beautiful 1-BDR Saint Germain / rue Babylone;entire_home;Paris;Invalides - Ecole Militaire;48.8512274577;2.3168789969;2;1;1;1;False;False;True;True;False;1;1
+589;19403332;Chambre Studette  16eme, a 2 mn de Trocadero;private_room;Paris;Tour Eiffel - Champ de Mars;48.8645212906;2.2897836836;2;0;1;1.5;False;False;True;False;False;0.97;0.72
+590;19373778;Amazing apartment in Champs-Elysées;entire_home;Paris;Champs-Elysées;48.8696725773;2.3105456511;5;3;2;1.5;False;False;True;False;False;1;0.95
+591;19376460;Appartement en rez de Jardin 2 Chambres le MARAIS;entire_home;Paris;Le Marais;48.8586666899;2.3628645078;5;4;2;1;False;False;True;False;False;0.9;0.85
+592;19377935;102198 - Appartement 1 chambre - Sentier;entire_home;Paris;Châtelet - Les Halles - Beaubourg;48.8677590011;2.3452694653;4;2;1;1;False;False;True;True;False;1;1
+593;19395544;Chambre d'hôte proche des buttes chaumont Et PLCHS;private_room;Paris;Buttes-Chaumont - Belleville;48.8740554792;2.3945517274;2;1;1;1;False;False;True;False;False;0.87;0.8
+594;19421822;Appartement très propre à Saint-Fargeau;entire_home;Paris;Buttes-Chaumont - Belleville;48.8740698102;2.3995804413;2;1;0;1;False;False;True;True;False;1;1
+595;19456001;Sunny appartement close to metro;entire_home;Paris;Nation;48.853413518;2.4097315625;2;1;1;1;False;False;True;False;False;0.96;0.65
+596;19530809;Chambre agréable super quartier;private_room;Paris;Buttes-Chaumont - Belleville;48.876835813;2.3861127719;1;1;1;1;False;False;True;False;False;0.95;0.8
+597;19560032;ST GERMAIN/MUSEE D'ORSAY,RUE DU BAC-CITY HEARTBEAT;private_room;Paris;Saint Germain des Prés - Odéon;48.8575398268;2.3281037823;6;4;3;2;False;False;False;False;False;1;0.7
+598;19580829;50 - Loft Flat Paris Marais 2G;entire_home;Paris;Le Marais;48.862221;2.360483;4;2;0;1.5;False;False;False;False;False;1;1
+599;19652272;Adorable studio à deux pas du Louvre !;entire_home;Paris;Palais Royal;48.8615702558;2.3405546294;4;2;1;1;False;False;True;False;False;0.95;0.9
+600;19657936;JULIETTE'S Palais des Congrès Porte Maillot Ternes;entire_home;Paris;Ternes;48.8817707662;2.2875393426;4;1;1;1;False;False;True;False;False;0.78;1
+601;19689918;Appartement cosy dans le 16ème;entire_home;Paris;Passy;48.862476;2.276666;5;3;2;1.5;False;False;True;True;False;0.95;0.9
+602;19741785;PENTHOUSE 65m2 MONTORGUEIL-MARAIS;entire_home;Paris;Châtelet - Les Halles - Beaubourg;48.8637847664;2.3486910079;4;2;1;1;False;False;True;True;False;0.95;0.9
+603;19748977;Appartement Moulin Rouge/ Montmartre;entire_home;Paris;Pigalle - Saint-Georges;48.8821173363;2.3323045323;2;1;0;1;False;False;True;True;False;0.79;1
+604;19756683;Appartement familial et cosy aux portes de Paris;entire_home;Le Pré-Saint-Gervais;19e arrondissement;48.8791989754;2.4112717189;5;3;3;1;False;False;True;False;False;0.9;1
+605;19776151;"Amazing loft ""Champs-Élysées""";entire_home;Paris;Champs-Elysées;48.8722664862;2.3059649992;4;2;0;1;False;False;True;False;False;0.97;0.95
+606;19796151;Magnifique Vue Tour Eiffel;entire_home;Paris;Tour Eiffel - Champ de Mars;48.854301;2.295719;2;1;1;1;False;False;True;True;False;1;1
+607;19796857;Five stars luxurious place in Bastille, Le Marais;entire_home;Paris;Bastille;48.8547893248;2.3713846227;2;1;1;1;False;False;True;True;False;0.88;0.45
+608;19854019;APPARTEMENT MODERNE AU COEUR DE PARIS - LOUVRE;entire_home;Paris;Madeleine - Vendôme;48.8669322177;2.3337445433;3;2;1;1;False;False;True;False;False;1;0.9
+609;19855401;Appartement calme dans le quartier Foch/Dauphine;entire_home;Paris;Passy;48.8725325874;2.2800857156;4;2;2;1;False;False;True;True;False;0.92;0.84
+610;19867903;Grand studio lumineux & calme dans quartier animé!;entire_home;Paris;;48.874561479;2.4010238215;2;1;1;1;False;False;True;False;False;0.85;0.7
+611;19868823;BETWEEN MADELEINE& CONCORDE-EXQUISITELY STYLED 2BR;entire_home;Paris;Madeleine - Vendôme;48.8696452456;2.3228033644;4;3;2;1;False;False;False;False;False;1;0.59
+612;19883408;Studio + jardin: Sentier (Rue Montorgeuil);entire_home;Paris;Châtelet - Les Halles - Beaubourg;48.8654673085;2.3475009618;2;1;0;1;False;False;True;False;False;1;1
+613;19997781;Vue de rêve sur Paris ... Paris from the top;entire_home;Paris;Commerce - Dupleix;48.8501915381;2.2881829087;6;3;2;2;False;False;True;True;False;0.9;1
+614;19977837;S03009 - Studio - Arts & Metiers;entire_home;Paris;;48.867298;2.359918;4;2;0;1;False;False;True;True;False;1;1
+615;19978121;Very spacious appartment in Champs Élysée;entire_home;Paris;Champs-Elysées;48.8689011384;2.3048179662;2;1;0;1;False;False;True;True;False;1;1
+616;20010730;Studio_Tout Neuf_Coeur de Paris_Impasse Privée;entire_home;Paris;Bastille;48.8602152046;2.3696535347;2;1;0;1;False;False;True;True;False;1;0.85
+617;20011166;Stylish and cosy apartment in Paris!;entire_home;Paris;Nation;48.8453453752;2.3910928293;2;1;1;1;False;False;True;True;False;1;1
+618;20011635;SALE! Awesome Location w/Delightful Eiffel Views;entire_home;Paris;Tour Eiffel - Champ de Mars;48.857594;2.306196;3;2;1;1;False;False;False;True;False;1;1
+619;20031427;Appartement familial dans le 20eme;entire_home;Paris;Père Lachaise - Ménilmontant;48.8566109047;2.4093502431;7;5;2;1;False;False;True;True;False;0.9;0.7
+620;20032571;Studio calme, proche Tour Eiffel;private_room;Paris;Tour Eiffel - Champ de Mars;48.858963266;2.2962514281;2;1;1;1;False;False;True;True;False;1;1
+621;20048292;Champs Elysées - Ponthieu 64 : appt. cosy pour 3;entire_home;Paris;Champs-Elysées;48.8713079681;2.3087936682;3;2;1;1;False;False;True;False;False;1;1
+622;20118716;Aguila, 1Ch/1Sdb, 4 personnes.;entire_home;Paris;Le Marais;48.8603885284;2.3553037684;4;2;1;1;False;False;True;True;False;0.86;0.6
+623;20135133;Legendary Rue du Temple, 4/5 bedrooms;entire_home;Paris;Le Marais;48.8606479239;2.3540986966;8;6;5;2;False;False;True;True;False;0.95;0.45
+624;20182255;2BR WITH PVT TERRACE~HÔTEL DE VILLE/BEAUBOURG;entire_home;Paris;Châtelet - Les Halles - Beaubourg;48.8582253384;2.3500917336;4;3;2;2;False;False;False;False;False;1;0.62
+625;20228739;林荫公寓;entire_home;Paris;10e arrondissement;48.8753569337;2.3722862489;2;1;0;1;False;False;True;True;False;0.85;1
+626;20245075;Calm, cozy, peaceful and awesome location!;entire_home;Paris;Gare de Lyon;48.845771103;2.3820089154;2;1;0;1;False;False;True;False;False;1;1
+627;20274966;ST DOMINIQUE - INVALIDES;entire_home;Paris;;48.8584850585;2.3046099581;4;2;2;1;False;False;True;False;False;0.85;0.7
+628;28636482;ID 309 -Saint Germain - Beaux Arts;entire_home;Paris;Saint Germain des Prés - Odéon;48.8575822282;2.3354933885;8;5;3;2;False;True;True;True;False;0.66;0.47
+629;20350536;Boréale, 2Ch/2Sdb, 6 personnes.;entire_home;Paris;Le Marais;48.8580953591;2.3528540778;6;3;2;1;False;False;True;False;False;1;1
+630;20350550;RUE ST HONORÉ - BY LOUVRE - SPACIOUS 2BR FLAT;entire_home;Paris;Palais Royal;48.8632682327;2.339819626;5;3;2;1;False;False;True;True;False;0.97;0.9
+631;20436805;Cosy appartement center Paris;entire_home;Paris;Louvre - Tuileries;48.8642072297;2.330982428;2;1;1;1;False;False;True;True;False;0.95;1
+632;20460034;SPLENDIDE APPT 30m2 - PLACE DU MARCHÉ SAINT HONORÉ;entire_home;Paris;Madeleine - Vendôme;48.8680633913;2.3322770005;4;2;1;1;False;False;True;False;False;1;0.9
+633;20745368;Logement neuf centre de Paris;entire_home;Paris;République;48.8704626249;2.371842576;6;2;2;1;False;False;True;True;False;0.9;0.85
+634;20550254;L'Ecoliere, 1Ch/1Sdb, 3 personnes.;entire_home;Paris;Le Marais;48.8608105462;2.3622486589;3;2;1;1;False;False;True;False;False;1;1
+635;20590153;Au Petit Marais;entire_home;Paris;Châtelet - Les Halles - Beaubourg;48.8640741237;2.3529171565;2;1;1;1;False;False;True;False;False;0.95;0.85
+636;20598162;Immense appartement de charme  9ème 180 M2 -8 LITS;entire_home;Paris;Pigalle - Saint-Georges;48.878818407;2.3408766794;8;6;5;4;False;False;True;False;False;0.9;1
+637;20605635;50 m2 Neuf & Cosy - 100 m Champs-Elysées;entire_home;Paris;Champs-Elysées;48.8697446297;2.3044950978;4;2;1;1;False;False;True;True;False;0.9;0.8
+638;20705631;Panorama, 2Ch/1Sdb, 5 personnes.;entire_home;Paris;3e arrondissement;48.8642364449;2.3606089859;5;3;2;1;False;False;True;False;False;1;1
+639;20721912;Sublime Duplex 145m² at Saint Germain des Prés;entire_home;Paris;Saint Germain des Prés - Odéon;48.8492455421;2.3270771824;6;3;3;4;False;False;True;True;False;0.85;0.8
+640;20741073;Nieve, 1Ch/1Sdb, 3 personnes;entire_home;Paris;;48.8639560728;2.3633694678;3;2;1;1;False;False;True;True;False;0.86;0.7
+641;20796276;New studio in great location.;entire_home;Paris;;48.8670494292;2.3863408881;2;1;0;1;False;False;True;True;False;1;0.7
+642;20808718;Comme à l'hôtel - Studio - Père Lachaise - Nation;entire_home;Paris;Père Lachaise - Ménilmontant;48.85726528;2.3927906086;3;2;0;1;False;False;True;True;False;1;0.8
+643;20827649;Superbe Appartement Design  Lumineux 1 Chambre;entire_home;Paris;République;48.8714658593;2.3688638327;2;1;1;1;False;False;True;True;False;1;0.7
+644;20852933;Large Studio Le Marais-Place des Vosges.;entire_home;Paris;4e arrondissement;48.8553005855;2.366669926;4;2;0;1;False;False;True;False;False;0.95;1
+645;20867794;Grand Appartement Haussmannien 16eme;entire_home;Paris;Passy;48.8550986988;2.2776072015;5;5;2;1;False;False;True;True;False;0.85;1
+646;20869871;Luxury Loft Apartment in le Marais****;entire_home;Paris;République;48.8652099048;2.3664139595;3;0;2;2.5;False;False;True;False;False;1;1
+647;20888095;Two-Bedroom Apartment Near Eiffel Tower;entire_home;Paris;Champs-Elysées;48.8698849245;2.3007666504;5;3;2;2;False;False;True;True;False;1;1
+648;20892078;Studio avec terrasse au coeur de Belleville;entire_home;Paris;Buttes-Chaumont - Belleville;48.8741524846;2.3801938862;2;1;0;1;False;False;True;True;False;0.79;0.51
+649;20926157;Grand studio proche des Galleries Lafayette;entire_home;Paris;Pigalle - Saint-Georges;48.8770977075;2.3332848222;2;1;1;1;False;False;True;True;False;1;1
+650;20929062;Apartment near Opéra and Galleries Lafayette;entire_home;Paris;Pigalle - Saint-Georges;48.8771088121;2.3327669385;4;2;1;1;False;False;True;True;False;1;1
+651;28683995;Beautiful bright studio in central Paris;entire_home;Paris;Passy;48.862177455;2.2826944757;4;2;0;1;False;True;True;False;False;0.85;0.8
+652;20951925;Beautiful 2 bedrooms flat - Belleville/Republique;entire_home;Paris;République;48.8680289923;2.3804757086;4;3;2;1;False;False;True;True;False;0.9;0.8
+653;20956903;Sunny and New Studio rue Saint Marc;entire_home;Paris;2e arrondissement;48.8699207014;2.340991035;2;1;0;1;False;False;True;False;False;1;0.84
+654;20991594;A1G Dreaming;entire_home;Paris;Le Marais;48.863983;2.356705;4;2;1;1.5;False;False;True;True;False;1;1
+655;28331057;"Chic and chilled in Paris next to ""Louvre Rivoli""";private_room;Paris;Châtelet - Les Halles - Beaubourg;48.8630960895;2.3502986586;2;1;1;1;False;True;True;False;False;1;1
+656;21003981;Luxueux Studio Notre Dame;entire_home;Paris;Saint Germain des Prés - Odéon;48.852116;2.342573;2;1;0;1;False;False;True;True;False;0.93;0.82
+657;21007846;Classique Single free WiFi Kleber Champs Elysees;private_room;Paris;Tour Eiffel - Champ de Mars;48.8682820236;2.2928400869;1;1;1;1;False;False;True;True;False;0.79;0.51
+658;21020472;Chambre Tour Eiffel,Passy,Trocadero, Breakfast+SdB;private_room;Paris;Tour Eiffel - Champ de Mars;48.8573428514;2.287890755;2;1;1;1;False;False;True;True;False;0.95;1
+659;21057318;Charming Parisian Apartment Near The Eiffel Tower;entire_home;Paris;Passy;48.8595506028;2.2742014594;3;1;1;1;False;False;True;True;False;1;1
+660;21085017;Place Vosges,Picasso,Carnavalet &Beaubourg Museums;private_room;Paris;Le Marais;48.8584889695;2.3676978754;4;2;1;1;False;False;False;False;False;1;1
+661;21132669;Palais des Congrès Champs Élysées très bien situé!;entire_home;Paris;Ternes;48.8821047143;2.2854216052;2;1;0;1;False;False;True;True;False;1;1
+662;28684174;Chambre familiale vue jardin avec petit-déjeuner offert (jusqu'à 5 pers.);private_room;Paris;Ternes;48.8792225433;2.2923821558;5;0;1;1;False;True;True;False;False;1;1
+663;21158039;Large one bedroom apartment close to Champs Élysée;entire_home;Paris;;48.8824751391;2.3051554491;2;1;1;1;False;False;True;False;False;0.85;0.7
+664;21195416;Appartement charmant au Trocadéro;entire_home;Paris;Tour Eiffel - Champ de Mars;48.8591413122;2.2857730576;1;1;0;1;False;False;True;False;False;0.95;0.85
+665;21209192;Superior St Germain des Pres 1BDR;entire_home;Paris;Saint Germain des Prés - Odéon;48.8542436685;2.3264704793;4;2;1;1;False;False;True;True;False;1;1
+666;21221190;Cozy apartment near Luxembourg garden;entire_home;Paris;Port-Royal;48.8452450131;2.3408926705;2;1;1;1;False;False;True;False;False;0.9;0.72
+667;21235720;Quiet and design in central 2nd arrondissement;entire_home;Paris;2e arrondissement;48.8670637621;2.3462057293;2;2;1;1;False;False;True;True;False;0.9;0.7
+668;21362432;Le Perchoir;entire_home;Paris;Le Marais;48.8582300738;2.3674829947;2;1;0;1;False;False;True;True;False;0.85;0.7
+669;21381007;Chambre privée sur le Canal Saint-Martin;private_room;Paris;Canal Saint-Martin;48.8779195828;2.3626234212;2;1;1;1;False;False;True;True;False;0.85;0.7
+670;21420977;Latin Quarter - Notre Dame - Central Paris flat;entire_home;Paris;Saint-Michel;48.8522913909;2.3439336562;4;2;1;1;False;False;True;False;False;1;1
+671;21427199;ACROSS EIFFEL TOWER - Remodeled 2 Bedrs  Apartment;entire_home;Paris;Tour Eiffel - Champ de Mars;48.8565127324;2.2956431206;4;4;2;1.5;False;False;True;True;False;0.9;0.75
+672;21435671;Parisian Loft with great volume, light & location;entire_home;Paris;Ternes;48.8826913739;2.2880404319;4;2;2;2;False;False;True;True;False;0.85;0.7
+673;21526288;Chambre Cosy pour 2 au cœur  de Paris;private_room;Paris;Châtelet - Les Halles - Beaubourg;48.8610123834;2.3459807983;2;1;1;1;False;False;True;True;False;1;1
+674;21465389;Left Bank Living near Notre Dame;entire_home;Paris;;48.849955453;2.3514173731;4;1;1;1;False;False;True;True;False;1;1
+675;21467505;Appartamento centralissimo nel 7eme arrondissement;entire_home;Paris;Invalides - Ecole Militaire;48.8491007327;2.312149709;5;4;3;1;False;False;True;True;False;0.69;1
+676;21496173;Studio 37m2 Alcove Paris–Gare de Lyon, Nation;entire_home;Paris;Gare de Lyon;48.846795426;2.3856989142;2;1;0;1;False;False;True;False;False;1;0.73
+677;21570429;83SQM 3 BEDROOM WITH EIFFEL VIEWS;private_room;Paris;Tour Eiffel - Champ de Mars;48.8600754509;2.3089505925;8;6;3;2;False;False;False;False;False;1;0.7
+678;21581129;A1DF Sunshine;entire_home;Paris;Le Marais;48.864029;2.356732;2;1;1;1.5;False;False;True;True;False;1;1
+679;21581130;A2DF Boogie-Woogie;entire_home;Paris;Le Marais;48.864021;2.356716;4;2;1;1.5;False;False;True;True;False;1;1
+680;21640370;AAA Eiffel Tower round the corner;entire_home;Paris;Tour Eiffel - Champ de Mars;48.8528108448;2.2940792884;2;1;1;1;False;False;True;True;False;0.95;0.8
+681;22957756;Magnifique appartement près de l'Arc de Triomphe;entire_home;Paris;Champs-Elysées;48.8776367121;2.2953665823;2;1;1;1;False;False;True;True;False;1;1
+682;21708890;Hotel WO - Chambre Classic;private_room;Paris;Saint-Lazare;48.8772799609;2.3229000694;2;1;1;1;False;False;True;False;False;1;1
+683;21725548;S05192 - Studio cosy, quartier Latin;entire_home;Paris;Saint-Michel;48.852402;2.34583;2;1;0;1;False;False;True;True;False;1;1
+684;21764650;Stunning 1 bed apt. - 10 min walk to Louvre!;entire_home;Paris;Saint Germain des Prés - Odéon;48.8540293885;2.3361347159;2;1;1;1;False;False;True;True;False;1;1
+685;21791121;CENTRAL au coeur du Paris historique : MONTORGUEIL;entire_home;Paris;;48.8670090726;2.3478554576;6;5;2;2;False;False;True;True;False;0.93;0.82
+686;21796962;Appartement de Charme dans le Marais;entire_home;Paris;Le Marais;48.8645698238;2.3586315763;2;1;1;1;False;False;True;False;False;0.85;0.65
+687;21808589;Incredible Deal Family apartment;entire_home;Paris;Buttes-Chaumont - Belleville;48.8744669403;2.3865946263;5;3;1;1;False;False;True;False;False;0.97;0.95
+688;21958827;Charmant Studio 17m² Chatelet, Paris;entire_home;Paris;Châtelet - Les Halles - Beaubourg;48.8603900344;2.3471585447;2;1;0;1;False;False;True;True;False;0.85;0.8
+689;21821176;Charming apartment Saint Germain;entire_home;Paris;Louvre - Tuileries;48.8594817467;2.3285509709;2;1;0;1;False;False;True;False;False;0.97;0.95
+690;21828796;BEAUTIFUL & COSY 5MIN FROM THE EIFFEL TOWER;entire_home;Paris;Tour Eiffel - Champ de Mars;48.8559956701;2.3060866777;4;2;1;1;False;False;True;True;False;0.95;0.9
+691;21834854;Studio cosy canal Saint Martin;entire_home;Paris;Canal Saint-Martin;48.8794695835;2.3660727815;2;1;1;1;False;False;True;False;False;0.86;0.72
+692;21855122;Joli appartement en plein cœur du 9eme arrond.;entire_home;Paris;Gare du Nord - Gare de I'Est;48.8760807763;2.3442703545;3;2;1;1;False;False;True;True;False;0.95;0.75
+693;21868898;Petit cocon douillet en plein cœur de Paris;entire_home;Paris;Palais Royal;48.8616951107;2.3399126424;2;1;1;1;False;False;True;True;False;0.9;1
+694;21881396;Sumptuous apartment, St Germain des Près-Invalides;entire_home;Paris;Saint Germain des Prés - Odéon;48.855393379;2.3323266407;5;3;3;2.5;False;False;True;False;False;1;1
+695;21888709;BETWEEN PLACE VENDOME &TUILERIES OF FRENCH CAPITAL;entire_home;Paris;Louvre - Tuileries;48.8646351692;2.3279974331;4;3;2;2;False;False;False;False;False;1;0.5
+696;21905043;Showroom space to share;private_room;Paris;Le Marais;48.8606650156;2.3669992862;10;1;0;1;False;False;True;False;False;1;1
+697;21907005;Studio sous les toits à quelques mètres du Louvre;entire_home;Paris;Palais Royal;48.8657184975;2.3368117803;2;1;0;1;False;False;True;True;False;1;1
+698;21918317;Place Sainte Catherine;entire_home;Paris;Le Marais;48.8563175318;2.362084243;5;4;2;1;False;False;True;True;False;0.94;0.65
+699;21960582;A5DG Gefilte Fish;entire_home;Paris;Le Marais;48.863953;2.356678;4;2;1;1.5;False;False;True;True;False;1;1
+700;21964296;Atelier Loft Paris Mouzaïa Buttes Chaumont;entire_home;Paris;Buttes-Chaumont - Belleville;48.8810470333;2.3889780687;7;4;4;3.5;False;False;True;True;False;1;0.8
+701;22008333;"Incredible deal ""Notre Dame""";entire_home;Paris;Saint-Michel;48.8526553306;2.345378638;5;3;1;1.5;False;False;True;False;False;0.97;0.95
+702;22022302;Appartement cosy près du Bois de Vincennes;entire_home;Paris;Nation;48.8466888643;2.4052697693;2;1;1;1.5;False;False;True;False;False;0.95;0.85
+703;22144445;105390 - Appartement 4 personnes à Paris;entire_home;Paris;;48.8504059613;2.3459048315;4;2;1;1.5;False;False;True;True;False;1;1
+704;22092957;Amazing location - Eiffel Tower - Trocadéro;entire_home;Paris;Passy;48.8589847909;2.2797765294;4;2;1;1;False;False;True;False;False;0.97;0.95
+705;22144452;117317 - Appartement 4 personnes à Paris;entire_home;Paris;;48.8805777656;2.2932484897;4;2;1;1.5;False;False;True;True;False;1;1
+706;22121806;Paris-Montorgueil appartement 5/6 pers;entire_home;Paris;Châtelet - Les Halles - Beaubourg;48.866138613;2.3509840195;5;3;3;1;False;False;True;False;False;0.83;1
+707;22122153;Champs Elysee Family Apt 80 private terrace/patio;entire_home;Paris;Monceau;48.879599751;2.3012113473;4;2;1;1;False;False;True;True;False;0.9;0.75
+708;22143540;S01060 - Studio 3 personnes Montorgueil;entire_home;Paris;Châtelet - Les Halles - Beaubourg;48.863632;2.34618;3;2;0;1.5;False;False;True;True;False;1;1
+709;22144466;S02092 - Studio 4 personnes Montorgueil;entire_home;Paris;Châtelet - Les Halles - Beaubourg;48.866001;2.34795;4;2;0;1.5;False;False;True;True;False;1;1
+710;22144513;116498 - Appartement 3 personnes Passy;entire_home;Paris;;48.8589497519;2.2865815488;2;2;1;1.5;False;False;True;True;False;1;1
+711;22150965;Cool spot next to Père Lachaise;private_room;Paris;Père Lachaise - Ménilmontant;48.8641827218;2.3902575075;2;1;1;1;False;False;True;True;False;1;1
+712;22153896;2 Appart in the same building LE MARAIS;entire_home;Paris;Bastille;48.8546507306;2.3755275688;8;4;2;2;False;False;True;True;False;1;1
+713;22187731;Cosy 55 sqm apartment in typical parisian district;entire_home;Paris;République;48.87169712;2.3731885378;4;2;1;1;False;False;True;True;False;0.76;0.55
+714;22218164;Charming, cosy flat nearby the canal;entire_home;Paris;10e arrondissement;48.8748207233;2.3704811551;2;1;1;1;False;False;True;True;False;0.86;0.68
+715;22272877;ATYPICAL DUPLEX WITH A REAL STAMP STREET CLER 4 P;entire_home;Paris;Tour Eiffel - Champ de Mars;48.8556017277;2.3050601135;4;2;1;1;False;False;True;True;False;0.95;0.9
+716;22314730;Wonderful studio 22 m² Chatelet, Paris;entire_home;Paris;Châtelet - Les Halles - Beaubourg;48.8597627917;2.3471867969;2;1;0;1;False;False;True;True;False;0.85;0.8
+717;22384425;1 Bedroom Appartment;entire_home;Paris;Saint Germain des Prés - Odéon;48.852429724;2.3364567574;4;2;1;1;False;False;True;False;False;1;1
+718;22429172;Eiffel Tower Fantastic Value;entire_home;Paris;Invalides - Ecole Militaire;48.8468358514;2.3097840909;3;2;1;1;False;False;True;False;False;0.97;0.95
+719;22426768;Liberté, 2 pièces charmant Paris 19è;entire_home;Paris;Buttes-Chaumont - Belleville;48.8816314415;2.3940711636;2;1;1;1;False;False;True;True;False;0.65;0.36
+720;22447783;Studio close to Rue St Honoré;entire_home;Paris;Madeleine - Vendôme;48.8704294176;2.3218724352;2;1;0;1;False;False;True;False;False;0.9;0.8
+721;22474060;Loft with fantastic view of Paris;entire_home;Paris;;48.8723934753;2.3659822393;2;1;0;1;False;False;True;True;False;0.97;0.95
+722;22541564;NEW center Le Marais free wifi;entire_home;Paris;Le Marais;48.8631625757;2.3580423066;4;2;1;1;False;False;True;True;False;0.9;0.8
+723;22510263;Opulent Parisian 3BR *Louvre *Palais-Royal;entire_home;Paris;Palais Royal;48.8689160113;2.3359386078;8;4;3;2;False;False;True;True;False;0.92;0.85
+724;22545602;Luxury 2 Bedroom 2 Bathroom Apartment - Louvre;entire_home;Paris;Châtelet - Les Halles - Beaubourg;48.8633499529;2.3434252799;10;6;2;2.5;False;False;True;True;False;0.97;0.95
+725;22585493;Atelier Loft quartier Ste Marthe/Canal St-Martin;entire_home;Paris;10e arrondissement;48.8720333231;2.3721382042;14;7;4;2;False;False;True;False;False;1;1
+726;22593735;Grand Appartement Haussmannien Madeleine /Concorde;private_room;Paris;;48.8694606109;2.3205413644;3;2;1;1.5;False;False;True;True;False;1;1
+727;22679418;207540 - Excellent Eiffel Tower 2 Chambres;entire_home;Paris;Tour Eiffel - Champ de Mars;48.8592445104;2.3070205111;6;3;2;2;False;False;True;True;False;1;1
+728;22696925;PERFECT APARTEMNT-100 SQM PALAIS ROYAL/LOUVRE;private_room;Paris;Louvre - Tuileries;48.8629578762;2.3335138858;4;2;2;1;False;False;False;False;False;1;0.65
+729;22697292;Bel appartement 6p, près des CHAMPS ELYSEES;entire_home;Paris;Champs-Elysées;48.873734435;2.3032256459;6;3;2;2;False;False;True;False;False;1;1
+730;22716121;Classy and Cosy Appartment in the heart of Paris;entire_home;Paris;Madeleine - Vendôme;48.8664156991;2.3318966521;2;1;1;1;False;False;True;False;False;0.85;1
+731;22808827;Duplex avec terrasse, charmant et chaleureux;entire_home;Paris;Buttes-Chaumont - Belleville;48.8758129443;2.3830598061;2;1;1;1;False;False;True;True;False;0.9;0.8
+732;22810595;Style loft  Louvre Museum;entire_home;Paris;Châtelet - Les Halles - Beaubourg;48.860256;2.343653;10;3;2;2;False;False;True;True;False;1;0.7
+733;22837880;Appartement charmant à Belleville!;entire_home;Paris;Buttes-Chaumont - Belleville;48.8724758531;2.381818715;2;1;1;1;False;False;True;True;False;0.9;0.85
+734;22994483;SoChic Suite Rue de Sèvres Bon Marché;entire_home;Paris;Montparnasse;48.8472375316;2.3214329343;4;2;1;1;False;False;True;True;False;0.97;0.52
+735;23013909;Trendy & Cosy Loft in Paris center!!!;entire_home;Paris;2e arrondissement;48.8695554196;2.3536604914;4;1;1;1;False;False;True;True;False;1;1
+736;28355893;Family room for 3 near Montparnasse (Twin beds);private_room;Paris;Montparnasse;48.845295;2.321352;3;3;1;1;False;True;True;False;False;1;1
+737;23112357;Nice Studio in Le Marais District;entire_home;Paris;Le Marais;48.8580296624;2.3597322851;2;3;0;1;False;False;True;False;False;1;0.41
+738;23126032;Cosy apartment heart of Marais;entire_home;Paris;3e arrondissement;48.8663169991;2.3628432199;4;2;1;1;False;False;True;False;False;1;1
+739;23168324;Loft in downtown Paris.;entire_home;Paris;Châtelet - Les Halles - Beaubourg;48.8609516253;2.3466617796;2;1;1;1.5;False;False;True;True;False;0.9;0.8
+740;23212675;Nouvel appartement 2 chambres proche Luxembourg;entire_home;Paris;Montparnasse;48.8455445048;2.3263353599;4;2;2;2;False;False;True;True;False;1;1
+741;23233753;Cute & Cozy Nord Marais !!!;entire_home;Paris;République;48.8709098458;2.3712393495;5;3;2;1;False;False;True;True;False;1;1
+742;23246080;OPERA/LOUVRE LUXURY 2BD/2BTH APT WITH ELEVATOR;entire_home;Paris;2e arrondissement;48.8705079564;2.3361939432;4;3;2;2.5;False;False;True;True;False;1;1
+743;23270762;appartement cosy en plein coeur de Paris;entire_home;Paris;Palais Royal;48.866004717;2.3421366712;2;1;1;1;False;False;True;False;False;1;1
+744;23282000;Professional Fashion #Showroom #Events;entire_home;Paris;Le Marais;48.8576404808;2.3631438724;16;1;2;1.5;False;False;True;True;False;1;1
+745;28709644;LORD BYRON-SPACE& STYLE IN 8TH EME;entire_home;Paris;Champs-Elysées;48.8722023977;2.298349331;4;2;1;1;False;True;True;False;False;1;1
+746;23348731;Lovely Saint Honoré;entire_home;Paris;Louvre - Tuileries;48.8668209089;2.3273212927;4;2;1;1;False;False;True;True;False;1;1
+747;23363047;Un village dans Paris;entire_home;Paris;Buttes-Chaumont - Belleville;48.8821734356;2.3960794932;10;9;4;2.5;False;False;True;True;False;1;1
+748;23385994;Bel appartement 1 chambre Saint-Placide;entire_home;Paris;Saint Germain des Prés - Odéon;48.8473919495;2.3261917595;2;1;1;1;False;False;True;False;False;1;1
+749;23432448;Apartment near Galeries Lafayette / Opera;entire_home;Paris;Pigalle - Saint-Georges;48.8768527923;2.3329965832;4;2;1;1;False;False;True;True;False;1;1
+750;23426978;Studio cosy près de la Sorbonne;entire_home;Paris;Saint Germain des Prés - Odéon;48.8509549836;2.3312543444;2;1;0;1;False;False;True;False;False;1;1
+751;23460961;Central and  well equipped Flat , safe area.;entire_home;Paris;Opéra - Grands Boulevards;48.87257117;2.3283005357;2;1;1;1;False;False;True;False;False;1;1
+752;23513591;Maillot studio near Congress center;entire_home;Paris;Ternes;48.8772734076;2.2859250449;2;1;1;1;False;False;True;True;False;1;1
+753;23517478;Hotel 4* Chambre Deluxe avec jacuzzi et petit déjeuner offert;private_room;Paris;Pigalle - Saint-Georges;48.8817118286;2.3359247082;2;1;1;1;False;False;True;True;False;1;1
+754;23532683;HAVEN OF OASIS -LUXURY ST GERMAIN 100SQM;private_room;Paris;Invalides - Ecole Militaire;48.8524512256;2.3222351554;6;5;3;2;False;False;False;False;False;1;0.8
+755;23532976;Elegant & romantic architect flat ideally located;entire_home;Paris;Saint-Lazare;48.8823235449;2.3263705262;2;1;1;1;False;False;True;False;False;1;1
+756;23545434;Studio Marais 25m°2 Paris 3;entire_home;Paris;Le Marais;48.8621656234;2.3574798166;2;2;0;1;False;False;True;True;False;1;1
+757;23558211;FORMIDABLE APPARTEMENT AU CENTRE DU MARAIS A PARIS;entire_home;Paris;Le Marais;48.8648349344;2.3577275228;6;3;2;1;False;False;True;False;False;1;1
+758;23559630;**** cosy studio 30 meters from Champs Elysees****;entire_home;Paris;;48.872147;2.301245;2;1;0;1;False;False;True;False;False;1;1
+759;23566040;Hotel 4* Suite deluxe avec jacuzzi et petit déjeuner offert;private_room;Paris;Pigalle - Saint-Georges;48.881415892;2.3359115375;2;1;1;1;False;False;True;True;False;1;1
+760;23582053;Great Parisian Apartment;entire_home;Paris;République;48.8704360559;2.3638710379;4;2;2;1.5;False;False;True;True;False;1;1
+761;23636918;Petite maison près de la Tour Eiffel;entire_home;Paris;Tour Eiffel - Champ de Mars;48.8574213005;2.3008075052;3;2;1;1;False;False;True;True;False;0.9;0.8
+762;23642858;Cosy studio dans le Marais;entire_home;Paris;;48.867634;2.358008;4;2;0;1;False;False;True;True;False;1;1
+763;23694101;Charming sunny 2 story apt in the heart of Paris;entire_home;Paris;Saint Germain des Prés - Odéon;48.8494414234;2.3347684416;6;4;3;2;False;False;True;True;False;1;1
+764;23700276;Charmant 2 Pièces à 200m des champs Elysées;entire_home;Paris;;48.877695776;2.2912589001;2;1;1;1;False;False;True;False;False;1;1
+765;23766064;Suite Cece, Designer Apt in PARIS near Sacre Cœur;entire_home;Paris;;48.880638;2.351806;10;5;3;2;False;False;True;False;False;0.97;0.95
+766;23779073;A charming apartment on a pedestrian street;entire_home;Paris;Bastille;48.8476962927;2.3716606346;2;1;1;1;False;False;True;True;False;1;1
+767;23799139;Luxury apartment facing the louvre museum;entire_home;Paris;Palais Royal;48.8627428521;2.3369313266;4;2;2;2;False;False;True;True;False;1;1
+768;23838301;Loft dans le Marais;entire_home;Paris;Le Marais;48.861247819;2.3570441229;4;2;0;1;False;False;True;True;False;1;0.96
+769;23849402;charming one double bed flat 5' from Eiffel Tower;entire_home;Paris;Tour Eiffel - Champ de Mars;48.8514186733;2.2939778901;2;1;1;1;False;False;True;False;False;0.95;0.8
+770;23873283;2 pièces type Loft très cosy au coeur du Marais !;entire_home;Paris;3e arrondissement;48.8638095288;2.3630301116;3;2;1;1;False;False;True;False;False;0.95;0.9
+771;23880093;Trendy & Cosy Flat in Le Marais !!!;entire_home;Paris;3e arrondissement;48.8648637483;2.3632697767;4;2;1;1;False;False;True;True;False;1;1
+772;23886501;Premium Apartment 4 Guests 403;entire_home;Paris;Ternes;48.878448;2.284603;4;2;1;1;False;False;True;True;False;1;1
+773;23897818;5min à pied TourEiffel - 5 min on foot EiffelTower;entire_home;Paris;Tour Eiffel - Champ de Mars;48.8585371323;2.301600108;2;1;1;0.5;False;False;True;False;False;1;1
+774;23942134;Luxury apartment Eiffel tower Area;entire_home;Paris;Passy;48.8614323926;2.2729751334;6;3;3;3;False;False;True;True;False;0.7;0.5
+775;24110117;Quiet and charming flat in LE MARAIS !;entire_home;Paris;Le Marais;48.8650254696;2.3567670889;2;1;1;1;False;False;True;True;False;1;1
+776;24113796;Appartement en plein cœur de Paris;entire_home;Paris;Buttes-Chaumont - Belleville;48.872700803;2.3774634637;9;7;4;2;False;False;True;False;False;0.85;0.75
+777;24168591;Two BD Duplex Louvre Tuileries Rivoli;entire_home;Paris;Louvre - Tuileries;48.8658203129;2.3291860795;6;4;2;1;False;False;True;True;False;1;1
+778;24239065;1 bed apartment in historic building;entire_home;Paris;Saint Germain des Prés - Odéon;48.8493635523;2.3365852315;2;1;1;1;False;False;True;True;False;1;1
+779;24246258;PRIVATE QUIET ROOM NEAR MOULIN ROUGE;private_room;Paris;Pigalle - Saint-Georges;48.8808983594;2.3338621597;1;1;1;1;False;False;True;False;False;1;0.84
+780;24262826;studette;entire_home;Paris;Gare du Nord - Gare de I'Est;48.8788521517;2.3462147694;2;1;1;1;False;False;True;False;False;0.89;1
+781;24369074;"lit simple mezzanine esprit ""train-couchette""";shared_room;Paris;Bastille;48.8500922341;2.3799223204;1;1;1;1;False;False;True;True;False;1;1
+782;24299842;Chambre privée en plein centre de Paris;private_room;Paris;République;48.8710331429;2.3704655377;2;1;1;1;False;False;True;False;False;0.9;0.6
+783;24306959;BIEN D'EXCEPTION AU COEUR DE PARIS-CANAL ST MARTIN;entire_home;Paris;10e arrondissement;48.872284;2.369834;2;1;1;1;False;False;True;False;False;1;0.9
+784;24322480;XXS, unbeatable price, heart of Paris;entire_home;Paris;Pigalle - Saint-Georges;48.8810247312;2.3430046193;1;1;0;1;False;False;True;False;False;1;1
+785;24361845;ROSIERS Family - AC - Wifi;entire_home;Paris;Le Marais;48.8577902505;2.3605345084;4;2;0;1;False;False;False;True;False;1;1
+786;24361861;St Germain des Prés Loft - Wifi - 4p;entire_home;Paris;Saint Germain des Prés - Odéon;48.8518718946;2.3370833929;4;2;1;1;False;False;False;True;False;1;1
+787;24390156;Paris Apartment, two rooms, 25 square metres;entire_home;Paris;11e arrondissement;48.8513178044;2.3918839753;2;1;1;1;False;False;True;False;False;0.8;0.6
+788;24425449;Comme une petite maison sur un jardin à Paris;entire_home;Paris;Pigalle - Saint-Georges;48.881944115;2.3451504883;6;3;2;1;False;False;True;True;False;1;1
+789;24442756;ENFANT ROUGE - Marais district;entire_home;Paris;Le Marais;48.862792638;2.3605425622;3;2;1;1;False;False;True;True;False;1;1
+790;24508705;Standing Appartement Paris;entire_home;Paris;;48.8500159988;2.3613722992;7;4;4;2;False;False;True;True;False;1;1
+791;24515032;Studio très lumineux juste à 100 mètres de paris;entire_home;Paris;20e arrondissement;48.8723681137;2.4126997632;2;2;0;1;False;False;True;False;False;0.95;0.9
+792;24530503;Magnificent 3BR Parisian Retreat *Champs-Élysées;entire_home;Paris;Champs-Elysées;48.8675166952;2.3052704751;6;3;3;2;False;False;True;True;False;0.92;0.85
+793;24558056;Bright and lovely room in a typical parisian flat;private_room;Paris;Père Lachaise - Ménilmontant;48.8647289132;2.3998542637;2;1;1;1;False;False;True;False;False;1;1
+794;24564156;Charming bedroom walking distance Trocadero;private_room;Paris;;48.8539173929;2.2744493758;2;2;1;1;False;False;True;False;False;1;1
+795;24586584;Paris Appartement Familial Panthéon Quartier Latin;entire_home;Paris;Port-Royal;48.8450609853;2.341688513;6;4;2;1.5;False;False;True;True;False;1;1
+796;24595821;Beautiful Triplex in the Center of Paris;entire_home;Paris;République;48.8718446467;2.3576252201;14;7;4;3.5;False;False;True;True;False;1;1
+797;24599457;Studio Montorgueil;entire_home;Paris;Palais Royal;48.8666310643;2.3429819821;2;1;0;1;False;False;True;False;False;1;1
+798;24617513;Magnifique studio lumineux à 10min du Louvre;entire_home;Paris;Châtelet - Les Halles - Beaubourg;48.8663251964;2.3490080274;2;1;0;1;False;False;True;False;False;1;1
+799;24647051;Luxurious apartment;entire_home;Paris;Passy;48.8607900616;2.2748587095;3;1;1;1;False;False;True;False;False;1;1
+800;24982252;Beautiful parisian loft style in Etienne Marcel;entire_home;Paris;Châtelet - Les Halles - Beaubourg;48.8647141787;2.3489227166;4;2;2;1;False;False;True;False;False;1;1
+801;24674724;LUXURY 2 Bedroom in Saint-Germain;entire_home;Paris;Saint Germain des Prés - Odéon;48.8470941349;2.3322986241;4;2;2;2.5;False;False;True;False;False;1;1
+802;24767194;Sublime 50sqm one-bedroom in Montorgueil;entire_home;Paris;2e arrondissement;48.8684542331;2.3496405369;2;1;1;1;False;False;True;False;False;1;1
+803;24721585;Charming and sunny apartment in the Latin District;entire_home;Paris;Saint Germain des Prés - Odéon;48.8552813066;2.3396139185;4;2;1;1;False;False;True;True;False;0.9;1
+804;28378125;Cosy and arty studio in the quartier latin;entire_home;Paris;Saint-Michel;48.8516289843;2.3476110153;2;1;0;1;False;True;True;False;False;1;1
+805;24743816;Chambre Designer à Saint Germain des Près;private_room;Paris;Saint Germain des Prés - Odéon;48.851494;2.337517;2;1;1;1;False;False;True;False;False;1;1
+806;24743818;Suite Designer à Saint Germain des Près;private_room;Paris;Saint Germain des Prés - Odéon;48.851494;2.337517;2;1;1;1;False;False;True;False;False;1;1
+807;24743821;Chambre Designer pour 3 personnes à Saint Germain;private_room;Paris;Saint Germain des Prés - Odéon;48.851494;2.337517;3;2;1;1;False;False;True;False;False;1;1
+808;24746261;Grand appart famillial (Phone number hidden by Airbnb);entire_home;Paris;Buttes-Chaumont - Belleville;48.8824235493;2.3886254332;10;8;5;2;False;False;True;True;False;0.85;0.7
+809;24747993;Studio Vue Tour Eiffel avec Balcon;entire_home;Paris;Passy;48.8611107716;2.2853105411;2;1;0;1;False;False;True;False;False;1;1
+810;24766158;Sensational luxury 300m²Montorgueil Duplex;private_room;Paris;Châtelet - Les Halles - Beaubourg;48.8658282956;2.348777507;9;4;4;3;False;False;True;False;False;1;1
+811;24769898;Appartement Saint Germain des près;entire_home;Paris;Saint Germain des Prés - Odéon;48.8490942582;2.3292792884;3;2;0;1;False;False;True;False;False;0.8;0.8
+812;24771427;Luxury 2 bedroom Apartment with AC near Louvre;entire_home;Paris;Châtelet - Les Halles - Beaubourg;48.8627908147;2.3418248612;10;6;2;2;False;False;True;False;False;1;1
+813;24806198;Central & Beautiful apartment Tour Eiffel;entire_home;Paris;Tour Eiffel - Champ de Mars;48.8598591113;2.3077415865;2;1;1;1;False;False;True;True;False;0.89;0.65
+814;24841125;Suite Deluxe;private_room;Paris;;48.8736482878;2.3822301395;4;0;1;1;False;False;True;True;False;1;1
+815;27421621;Daudin, studio vue Tour Eiffel;entire_home;Paris;Vaugirard;48.845166668;2.3076526551;2;1;0;1;False;True;True;True;False;0.74;0.4
+816;24867509;Charmant studio avec balcon;entire_home;Paris;Buttes-Chaumont - Belleville;48.8767425697;2.3902070453;2;1;0;1;False;False;True;False;False;1;1
+817;24883068;Appartement familiale haussmanien / Gare du Nord;entire_home;Paris;;48.8812415335;2.3621719071;7;3;3;1;False;False;True;False;False;1;1
+818;24959389;Lucius, 1Ch/1Sdb, 2 personnes;entire_home;Paris;Châtelet - Les Halles - Beaubourg;48.8647490819;2.3492454599;2;1;1;1;False;False;True;True;False;0.86;0.7
+819;24959985;WONDERLAND LOFT HOUSE ! 3 FLOORS ! HEART OF PARIS!;entire_home;Paris;Châtelet - Les Halles - Beaubourg;48.8647247133;2.3501346292;5;3;2;2;False;False;True;True;False;1;1
+820;25024350;Appartement 80m2souplex composé au rez-de-chaussée;entire_home;Paris;Gare du Nord - Gare de I'Est;48.8792802632;2.3573883743;8;3;3;3;False;False;True;True;False;1;1
+821;25053601;cosy & bright parisian studio with view;entire_home;Paris;Buttes-Chaumont - Belleville;48.8755363156;2.3806042631;2;1;1;1;False;False;True;False;False;1;1
+822;25068274;Can't beat the location and the charm!;entire_home;Paris;Châtelet - Les Halles - Beaubourg;48.8646606287;2.3488161269;4;1;0;1;False;False;True;False;False;1;1
+823;25117497;Big studio (29 sqm) in the heart of Paris;entire_home;Paris;Gare du Nord - Gare de I'Est;48.8825465659;2.3666655135;2;1;0;1;False;False;True;True;False;0.89;0.78
+824;25119860;Appartement au coeur de Paris (Le Marais);entire_home;Paris;Châtelet - Les Halles - Beaubourg;48.859002739;2.3503332473;6;4;2;1;False;False;True;True;False;0.8;0.8
+825;25120614;STUDIO FONCTIONNEL - SAINT GERMAIN DES PRÈS;entire_home;Paris;Saint Germain des Prés - Odéon;48.8551629087;2.3412040515;2;2;0;1;False;False;True;False;False;1;0.9
+826;25145168;STUDIO ON RUE DU TEMPLE~LE MARAIS;private_room;Paris;Le Marais;48.8621729489;2.3581925201;4;2;0;1;False;False;True;False;False;1;1
+827;25160029;TYPICAL PARISIAN FLAT IN ILE SAINT LOUIS;entire_home;Paris;Saint-Paul - Ile Saint-Louis;48.8516808787;2.3566933575;4;2;2;1;False;False;True;True;False;1;1
+828;25164387;Studio au cœur du Marais et au centre de Paris;private_room;Paris;Le Marais;48.8551887405;2.3654240744;2;1;1;1;False;False;True;False;False;0.9;0.8
+829;25242253;Grand 3 pièces,  tout confort, très calme;entire_home;Paris;Bastille;48.8514945821;2.3814728356;4;2;2;1.5;False;False;True;False;False;1;1
+830;25312407;Suite La Sublime;private_room;Paris;Notre Dame - Ile de La Cité;48.8540605966;2.3481584207;2;1;1;1;False;False;True;False;False;1;1
+831;25360554;DUPLEX ROMANTIQUE;entire_home;Paris;Pigalle - Saint-Georges;48.8815395509;2.3356598175;2;1;1;1;False;False;True;True;False;0.85;0.75
+832;25360611;Cosy studio NEUF Paris Canal St Martin-République;entire_home;Paris;République;48.8711812321;2.3705804819;2;1;0;1;False;False;True;False;False;1;1
+833;25419925;Chambre luxueuse au coeur de Paris;private_room;Paris;Opéra - Grands Boulevards;48.8732256673;2.3447033528;2;1;1;1;False;False;True;False;False;1;1
+834;25439259;HIGH-END DAILY USE EVENTS PHOTOSHOOTS ETC PARIS 8e;entire_home;Paris;Champs-Elysées;48.8646865606;2.3059095965;1;4;3;2.5;False;False;True;True;False;1;1
+835;501192;LOVELY LOFT IN THE MARAIS DISTRICT;entire_home;Paris;Le Marais;48.8571135128;2.3574723402;3;2;1;1;False;False;True;True;False;1;1
+836;25444080;Une Chambre Business à 2 pas du Marais;private_room;Paris;3e arrondissement;48.8660856862;2.3612054869;1;1;1;1;False;False;True;False;False;1;1
+837;25468746;ID 308 - Châtelet - Rivoli;entire_home;Paris;Châtelet - Les Halles - Beaubourg;48.8601345365;2.348311106;4;2;1;1;False;False;True;True;False;1;1
+838;25476694;APPARTEMENT MODERNE ET COSY - LE MARAIS;entire_home;Paris;Saint-Paul - Ile Saint-Louis;48.852099123;2.355051867;2;1;1;1;False;False;True;True;False;1;0.9
+839;25497365;Between Opera and Montmartre arty Parisian double room;private_room;Paris;Pigalle - Saint-Georges;48.87939012;2.3354247959;2;0;1;1;False;False;True;False;False;1;1
+840;25497375;Montmartre romantic suite under the Parisian roof;private_room;Paris;Pigalle - Saint-Georges;48.8792163236;2.3339389811;2;0;1;1;False;False;False;False;False;1;1
+841;25507799;Duo of atypical bedrooms;private_room;Paris;Bastille;48.853683;2.380579;4;2;2;1;False;False;True;True;False;1;1
+842;25559476;Parc Monceau 40 m* luxury balcon;entire_home;Paris;Monceau;48.8764463079;2.3064996841;2;1;0;1;False;False;True;False;False;1;0.85
+843;25531598;Modern, Bright and Quiet Invalides Residence;entire_home;Paris;Tour Eiffel - Champ de Mars;48.8540338388;2.3070063656;4;2;2;1;False;False;True;False;False;1;1
+844;25568047;Cosy apartment ideal for Families with children.;entire_home;Paris;Tour Eiffel - Champ de Mars;48.8569613872;2.3095171079;4;3;2;1.5;False;False;True;False;False;1;1
+845;25599829;Cozy Private Room - Grands Boulevards;private_room;Paris;Opéra - Grands Boulevards;48.871635133;2.3481503293;2;1;1;1;False;False;True;False;False;1;1
+846;25645060;Paris, je t'aime ! Adorable flat for lovers;entire_home;Paris;Saint-Lazare;48.8757941202;2.3310594156;3;1;1;1;False;False;True;False;False;0.84;1
+847;25718810;Calm and chic studio Montorgueuil!!!;entire_home;Paris;2e arrondissement;48.8699357649;2.3508431684;2;1;0;1;False;False;True;True;False;1;1
+848;25730155;Amazing apartment in Le Marais with balcony !!!;entire_home;Paris;Le Marais;48.8582602196;2.3569085253;4;2;1;1;False;False;True;True;False;1;1
+849;25789405;Studio (26sm2) in NOTRE-DAME-DE-PARIS;entire_home;Paris;Saint-Paul - Ile Saint-Louis;48.8526676029;2.3564073408;2;1;1;1;False;False;True;False;False;1;1
+850;25790947;Suite-Chambre familiale Wifi haut débit;private_room;Paris;Champs-Elysées;48.8708927671;2.3114128415;4;0;1;1;False;False;True;True;False;1;1
+851;27446980;Charmante studette cosi ideal touriste;entire_home;Paris;Gare du Nord - Gare de I'Est;48.87616289;2.3537065551;2;1;0;1;False;True;True;False;False;0.95;0.7
+852;25792643;Sublime et neuf appartement Grands Boulevards;entire_home;Paris;Opéra - Grands Boulevards;48.8732510497;2.3428623295;7;2;2;1;False;False;True;True;False;1;1
+853;25802009;Loft quatre personnes quartier Palais Royal;entire_home;Paris;Palais Royal;48.8661813123;2.335772029;4;2;1;1;False;False;True;False;False;0.95;0.9
+854;25876312;French Haussmannian suite for 6 people;private_room;Paris;Champs-Elysées;48.8690793444;2.3063815744;6;3;2;2;False;False;True;False;False;1;1
+855;25899803;APPARTEMENT MODERNE ET LUMINEUX - PARIS - QUARTIER MONTMARTRE;entire_home;Paris;Pigalle - Saint-Georges;48.8809462786;2.3395861313;2;1;1;1;False;False;True;False;False;1;0.9
+856;25957295;Logement confortable face Palais de l’Élysée;entire_home;Paris;Madeleine - Vendôme;48.8704597022;2.3188648795;2;1;1;1;False;False;True;False;False;1;1
+857;25993989;Private Room in Le Marais;private_room;Paris;Châtelet - Les Halles - Beaubourg;48.8618153206;2.351426088;1;1;1;1;False;False;True;True;False;1;1
+858;25986935;COSY ROOM;private_room;Paris;Madeleine - Vendôme;48.8682161522;2.3255880079;2;0;1;1;False;False;True;False;False;1;1
+859;26056836;Appartement Gare de Lyon;entire_home;Paris;Bastille;48.851592988;2.3736859219;3;2;1;1;False;False;True;False;False;0.79;0.45
+860;25996329;Marais Diamond !!!;entire_home;Paris;Le Marais;48.8619897092;2.361379351;2;1;0;1;False;False;True;True;False;1;1
+861;26006849;Appartement cosy proche République;entire_home;Paris;République;48.8638358938;2.3760474669;2;1;1;1;False;False;True;True;False;1;0.85
+862;26017092;Luxury designer Apartment 4 person -Le Marais;entire_home;Paris;3e arrondissement;48.8635638124;2.3648524128;4;2;1;1;False;False;True;False;False;0.8;0.6
+863;26019876;Paris Opera Sunny Studio;entire_home;Paris;Pigalle - Saint-Georges;48.8750581561;2.3325654273;2;1;0;1;False;False;True;True;False;0.9;0.61
+864;27129783;Studio rue de la pompe paris 16;entire_home;Paris;Passy;48.8613082033;2.2774150685;2;1;0;1;False;False;True;False;False;1;1
+865;26025623;Votre home parisien - Petit déjeuner offert;private_room;Paris;Pigalle - Saint-Georges;48.875931987;2.3356972435;2;1;1;1;False;False;True;True;False;1;1
+866;26049033;Appartement parisien à deux pas du Louvre;entire_home;Paris;Madeleine - Vendôme;48.868157327;2.3333076775;4;2;1;1;False;False;True;False;False;0.95;0.9
+867;26050143;Charmant Studio Paris centre;entire_home;Paris;Gare du Nord - Gare de I'Est;48.8821998823;2.3628278974;3;1;0;1;False;False;True;False;False;0.84;1
+868;26054239;Nouvel appartement Industriel au coeur du Marais;entire_home;Paris;Le Marais;48.8608710229;2.3568499811;6;3;1;1;False;False;True;True;False;1;1
+869;26073789;New Atelier Apartment in the heart of Le Marais;entire_home;Paris;3e arrondissement;48.8679181384;2.3603663603;8;4;3;1.5;False;False;True;True;False;1;1
+870;26115764;Suite;private_room;Paris;Buttes-Chaumont - Belleville;48.8741508898;2.3834268678;4;0;1;1;False;False;True;True;False;1;1
+871;27578260;Paris : Chambre lit double + cuisine + sdb;private_room;Paris;Père Lachaise - Ménilmontant;48.8563603207;2.4080151671;2;1;1;1;False;False;True;False;False;0.9;0.8
+872;26151927;Double room in hostel near Gare du Nord;private_room;Paris;Gare du Nord - Gare de I'Est;48.8800612252;2.3509912854;2;1;1;1;False;False;True;False;False;1;1
+873;26156718;Magnifique appartement luxe tout équipé ,Elysée;entire_home;Paris;Madeleine - Vendôme;48.8721143695;2.3160577519;2;1;1;1;False;False;True;False;False;1;1
+874;26163973;Studio dans paris à côté de bastille;entire_home;Paris;Gare de Lyon;48.846329147;2.3815752629;2;1;0;1;False;False;True;True;False;1;1
+875;26223533;Cute 1 bedroom apt 10min walk from Eiffel Tower;entire_home;Paris;Passy;48.8668472164;2.2766727917;2;1;1;1;False;False;True;True;False;1;0.7
+876;26267951;Saint Paul  & Le Marais  experience;entire_home;Paris;Saint-Paul - Ile Saint-Louis;48.8549895468;2.3569690162;2;1;1;1;False;False;True;True;False;0.9;0.88
+877;26271706;Appartement confortable au cœur de Paris;entire_home;Paris;Châtelet - Les Halles - Beaubourg;48.8626697749;2.3538873185;4;2;2;1;False;False;True;True;False;0.8;0.7
+878;26315397;LAVISH & UPSCALE 140SQM 3BR IN 16TH;private_room;Paris;Passy;48.8570971813;2.2829722656;6;3;3;2;False;False;True;False;False;1;0.76
+879;26320790;LUXUEUX APPARTEMENT/ARC DE TRIOMPHE/CHAMPS-ELYSÉES;entire_home;Paris;Passy;48.8741400358;2.2811242823;4;2;2;1;False;False;True;True;False;1;1
+880;26333152;charmant 2 pièces calme et lumineux dernier étage;entire_home;Paris;Père Lachaise - Ménilmontant;48.8609172323;2.401961616;3;2;1;1;False;False;True;True;False;1;0.8
+881;26373765;Refurbished 1 bedroom apartment close Eiffel Tour;entire_home;Paris;Tour Eiffel - Champ de Mars;48.8596810829;2.3081786095;2;1;1;1;False;False;True;True;False;1;1
+882;26383293;“AMAZING FAMILY HOUSE” Rooftop PARIS 6 bdrs/5 bths;entire_home;Paris;Buttes-Chaumont - Belleville;48.8735344035;2.3954390777;14;10;6;5;False;False;True;True;False;1;1
+883;26383844;Stunning View on the Eiffel Tower Flat;entire_home;Paris;Tour Eiffel - Champ de Mars;48.8576094796;2.3036054842;5;3;3;2;False;False;True;False;False;0.7;0.5
+884;26404680;SALE! Luxurious 2Bed w/Balcony and Wow Eiffel View;entire_home;Paris;Tour Eiffel - Champ de Mars;48.8577;2.300471;6;6;2;2.5;False;False;True;True;False;1;1
+885;26445590;SUPER CENTRAL!! next to le Lourve, 2mins to metro;private_room;Paris;Châtelet - Les Halles - Beaubourg;48.8668488058;2.3485023102;2;1;1;0.5;False;False;True;True;False;1;1
+886;26448127;2 Bedroom Apartment Arc de Triomphe;entire_home;Paris;Passy;48.8714428109;2.2865093061;4;2;2;1;False;False;True;False;False;1;1
+887;26493515;Charming Sunny Loft @ Saint germain des Pres;entire_home;Paris;Saint Germain des Prés - Odéon;48.8557830213;2.326637828;2;1;1;1;False;False;True;True;False;1;1
+888;26495903;Cosy Studio at Sentier;entire_home;Paris;2e arrondissement;48.8682495126;2.3473587008;2;2;0;1;False;False;True;False;False;1;1
+889;26498121;Appartement avec terrasse au cœur de la verdure;entire_home;Paris;Buttes-Chaumont - Belleville;48.8788259342;2.3837391823;7;5;4;2.5;False;False;True;False;False;0.85;1
+890;26508443;Chambre canal St Martin avec vue sur Paris;private_room;Paris;Canal Saint-Martin;48.8747609295;2.3685323824;1;1;1;1;False;False;True;False;False;1;0.8
+891;26527387;Petit nid douillet du 20eme;entire_home;Paris;Buttes-Chaumont - Belleville;48.875766907;2.402776716;2;1;1;1;False;False;True;False;False;1;1
+892;26555069;Cocon atypique au coeur du quartier latin;entire_home;Paris;Panthéon;48.8458197501;2.3562649342;3;2;1;1;False;False;True;False;False;1;1
+893;26556607;Studio Marais Cocooning;entire_home;Paris;4e arrondissement;48.8543946812;2.3671892292;2;1;0;1;False;False;True;False;False;1;1
+894;26583505;Quiet, spacious and bright flat - Musée Picasso;entire_home;Paris;Le Marais;48.8590872505;2.3618172761;4;2;2;1;False;False;True;False;False;1;1
+895;26612229;Beau studio spacieux dans un quartier dynamique;entire_home;Paris;11e arrondissement;48.8508780665;2.3887487465;4;2;0;1;False;False;True;False;False;1;1
+896;26623310;Appartement architecte 100M2 belleville Paris;entire_home;Paris;Buttes-Chaumont - Belleville;48.872513512;2.3795349512;10;5;4;2.5;False;False;True;False;False;1;1
+897;26702811;Authentic studio-Le Marais;entire_home;Paris;Le Marais;48.8576286436;2.358068423;2;1;0;1;False;False;True;True;False;0.9;1
+898;26626163;Chambre Triple;private_room;Paris;Saint Germain des Prés - Odéon;48.8477910562;2.3240847169;3;0;1;1;False;False;True;False;False;1;1
+899;26656283;MINUTES TO PALAIS ROYAL/LOUVRE& BANKS OF SEINE;entire_home;Paris;Palais Royal;48.8683071022;2.3355636876;4;2;2;1;False;False;True;False;False;1;1
+900;26690763;Luxury flat in the heart of paris - SF2;entire_home;Paris;2e arrondissement;48.8709229687;2.3459892367;6;2;2;2;False;False;True;True;False;1;1
+901;26703938;Maison-loft en plein Paris avec terrasse !;entire_home;Paris;Bastille;48.8559888146;2.3823420374;4;2;2;2;False;False;True;False;False;1;1
+902;26711467;Design & Cosy apartment Heart of Marais;entire_home;Paris;Le Marais;48.8592850659;2.3563279669;2;1;0;1;False;False;True;False;False;1;1
+903;26728638;Suite dans un hôtel 4 Etoiles;private_room;Paris;3e arrondissement;48.8643287805;2.3656110418;2;1;1;1;False;False;True;False;False;1;1
+904;26748627;Superbe 3 pièces neuf en plein marais.;entire_home;Paris;Le Marais;48.8569406477;2.355614355;4;2;2;1;False;False;True;True;False;1;1
+905;26757388;Appartement Caire - Châtelet;entire_home;Paris;2e arrondissement;48.8666348994;2.3504063097;4;2;1;1;False;False;True;False;False;1;1
+906;26760606;By Arc de Triomphe! Stunning home with garden;entire_home;Paris;Passy;48.8715441805;2.2883783989;7;4;3;3;False;False;True;True;False;1;1
+907;26760709;Pour 3, ambiance cosy !;private_room;Paris;Champs-Elysées;48.8775685836;2.2960244061;3;0;1;1;False;False;True;False;False;1;1
+908;26760757;Chambre en colocation;private_room;Paris;Monceau;48.8801063716;2.307308573;1;1;1;1;False;False;True;True;False;1;1
+909;26766239;L'ETOILE★GRAND 2 PIÈCES★LEYCAHOME;entire_home;Paris;Ternes;48.8780508855;2.2918549819;4;2;1;1.5;False;False;True;True;False;1;1
+910;26769990;Appartement pour 8 sur Les Grands Boulevards;entire_home;Paris;Opéra - Grands Boulevards;48.8712673603;2.34082723;8;6;2;2;False;False;True;True;False;0.98;0.95
+911;26773018;Appartement partagé à Paris;shared_room;Paris;Opéra - Grands Boulevards;48.8711265191;2.3482215708;2;2;1;1;False;False;True;False;False;1;1
+912;26782117;New Studio in great location;entire_home;Paris;Père Lachaise - Ménilmontant;48.8666615904;2.3857001651;2;1;0;1;False;False;True;True;False;1;1
+913;26795751;120SQM FAMILY MONTROGUEL DUPLEX OOZING LOCAL CHARM;entire_home;Paris;2e arrondissement;48.8691646253;2.3477234475;5;3;3;2;False;False;True;False;False;1;1
+914;26798869;02 - Best Montorgueil Flat 1;entire_home;Paris;Notre Dame - Ile de La Cité;48.8570620494;2.3512764911;11;6;2;1.5;False;False;False;False;False;1;1
+915;26803940;Canal St. Martin - Loft Debongout.;entire_home;Paris;Canal Saint-Martin;48.8743634606;2.3618249451;4;2;2;1;False;False;True;False;False;1;1
+916;26826330;Appartement chaleureux dans le Marais (pour 2);entire_home;Paris;Le Marais;48.859273358;2.3567051515;2;1;1;1;False;False;True;True;False;1;1
+917;26826435;Charming & authentic 1 BD/1BTH near rue de Buci;entire_home;Paris;Saint Germain des Prés - Odéon;48.8546624429;2.3376175278;2;1;1;1;False;False;True;True;False;1;1
+918;26870487;10' EIFFEL TOWER !;entire_home;Paris;Commerce - Dupleix;48.8461731272;2.2886276454;2;1;1;1;False;False;True;True;False;0.95;0.9
+919;26882246;"partage chambre 12m"" et grand lit à porte maillot";shared_room;Paris;Ternes;48.8820295276;2.2863266953;1;1;1;1;False;False;True;False;False;1;1
+920;26898118;Charming room in the Marais;private_room;Paris;Le Marais;48.8583032652;2.3666972928;2;1;1;1;False;False;True;True;False;1;1
+921;26970833;602 Magnifique Apartement  Marais-Grand Boulevard;entire_home;Paris;3e arrondissement;48.8673045827;2.3535105218;8;2;2;2;False;False;True;False;False;1;1
+922;27016784;Family Voltaire;entire_home;Paris;11e arrondissement;48.852161993;2.3922273508;6;3;3;2;False;True;False;True;False;1;1
+923;27030906;Paris: Appartement à 2mn à pied des Champs Elysées;entire_home;Paris;Champs-Elysées;48.8713771134;2.312204225;4;2;2;1.5;False;False;True;False;False;0.64;1
+924;27046394;Beau studio proche du Canal Saint Martin;entire_home;Paris;République;48.8703164623;2.3684163409;2;1;0;1;False;False;True;False;False;1;1
+925;27073982;Cosy 1BR - Bastille/Nation;entire_home;Paris;11e arrondissement;48.8546643161;2.3873280914;4;1;1;1;False;False;True;False;False;1;1
+926;27074583;Amazing apartment - 6P/2BR - Canal Saint Martin;entire_home;Paris;10e arrondissement;48.8740637861;2.3726542936;6;3;2;2;False;False;True;False;False;1;1
+927;27106213;Charmant studio de 15 m2 à Gare de Lyon;entire_home;Paris;Bastille;48.8469866853;2.3796589848;2;1;0;1;False;False;True;False;False;0.85;0.51
+928;27120157;Chambre Privée chez l'habitant;private_room;Paris;Père Lachaise - Ménilmontant;48.859965274;2.4026236947;2;1;1;1;False;False;True;False;False;1;1
+929;27122024;Cosy Studio Top floor Buttes Chaumont Park;entire_home;Paris;Buttes-Chaumont - Belleville;48.8790960564;2.3784103073;3;2;1;0;False;False;True;False;False;0.95;0.9
+930;27144751;Magnifique studio - Montorgueil;entire_home;Paris;2e arrondissement;48.8681074199;2.3482732013;4;2;0;1;False;False;True;True;False;1;1
+931;27147284;havre de paix pour deux personnes;private_room;Paris;Saint-Michel;48.8487572424;2.3432151168;2;1;1;1;False;False;True;False;False;1;1
+932;27154343;Agréable studio proche des jardins du luxembourg;entire_home;Paris;Saint Germain des Prés - Odéon;48.8464239293;2.3318696613;4;2;0;1;False;False;True;True;False;0.9;0.8
+933;27154828;Bed in a 4 bed Female Dormitory in the heart of 9th district of Paris;shared_room;Paris;Gare du Nord - Gare de I'Est;48.8809520383;2.3470354095;1;1;1;1;False;False;True;False;False;1;1
+934;27155448;Quadruple room in hotel near Gare du Nord;private_room;Paris;Gare du Nord - Gare de I'Est;48.881289647;2.3520017532;4;3;1;1;False;False;True;False;False;1;1
+935;27196320;Appartement standing proche de l'Arc de Triomphe;entire_home;Paris;Passy;48.8756880078;2.2854104966;2;1;1;1;False;False;True;False;False;1;1
+936;27218152;Studio spacieux et lumineux au cœur de Paris;entire_home;Paris;Nation;48.8545618793;2.4013541976;3;2;0;1;False;False;True;True;False;1;1
+937;27259692;Agréable Studio;entire_home;Paris;Nation;48.8469100656;2.4016386253;2;1;0;1;False;False;True;True;False;1;1
+938;27260643;Deux pièces avec balcon plein sud - Le Marais;entire_home;Paris;Châtelet - Les Halles - Beaubourg;48.8631144106;2.3529542234;4;1;1;1;False;False;True;False;False;0.75;1
+939;27282115;Chambre dans un charmant appartement Parisien.;private_room;Paris;République;48.8700543128;2.3549351978;2;1;1;1;False;False;True;False;False;1;1
+940;27359604;CHARMANT & LUMINEUX STUDIO - PROCHE REPUBLIQUE;entire_home;Paris;République;48.8663565901;2.3777547712;2;1;0;1;False;False;True;False;False;1;0.9
+941;27379559;Tour Eiffel - Champs-Elysées - 4 personnes;entire_home;Paris;Passy;48.8632377832;2.2845927464;4;1;0;1;False;False;True;True;False;0.8;0.8
+942;27424346;Père Lachaise Trendy;entire_home;Paris;Père Lachaise - Ménilmontant;48.8567211995;2.4049765476;2;1;1;1;False;True;True;True;False;0.94;0.6
+943;27447713;NEW - Cozy & central studio;entire_home;Paris;2e arrondissement;48.8694222717;2.3482294533;2;1;0;1;False;True;True;True;False;1;1
+944;27468965;LOVELY FLAT (6 person) Bastille -Marais;entire_home;Paris;11e arrondissement;48.8611481998;2.3789830823;6;3;1;1;False;False;True;True;False;1;1
+945;27479862;Bel appartement près du Parc Monceau;entire_home;Paris;Saint-Lazare;48.8808010835;2.3175457766;2;1;1;1;False;True;True;False;False;1;1
+946;27567736;House of Parisian History;entire_home;Paris;Saint-Michel;48.8509765194;2.3451507014;4;2;1;1;False;False;True;True;False;1;1
+947;27570227;APPARTEMENT CONTEMPORAIN - PROXIMITÉ GRANDS BOULEVARDS;entire_home;Paris;Gare du Nord - Gare de I'Est;48.8745371722;2.3529029814;4;2;2;1;False;True;True;False;False;1;0.9
+948;27593739;Magnifique appartement Place de la Bastille 4p;entire_home;Paris;Bastille;48.853602649;2.3700478922;4;2;1;1.5;False;False;True;True;False;0.9;0.8
+949;27595358;Magnifique Chambre au cœur de la capitale;private_room;Paris;Saint Germain des Prés - Odéon;48.8555841288;2.3331766462;2;1;1;1;False;True;True;False;False;1;1
+950;27596657;Appartement élégant, Vue 180° Tour Eiffel et Paris;entire_home;Paris;Passy;48.8688728177;2.2840787694;4;2;2;2;False;True;True;False;False;1;1
+951;27614534;Standing chef, perfect fashion;entire_home;Paris;Le Marais;48.8593252505;2.3549818445;2;2;2;2;False;True;True;False;False;1;1
+952;27624093;Studio sympathique.;entire_home;Paris;Buttes-Chaumont - Belleville;48.8741228359;2.390774739;2;1;0;1;False;False;True;True;False;1;1
+953;27710087;Saint Denis centre de Paris;entire_home;Paris;2e arrondissement;48.8684448155;2.3521781102;4;1;0;1;False;True;True;False;False;1;1
+954;27719620;Le Marais - Superbe 3 pièces;entire_home;Paris;Le Marais;48.862621;2.360926;4;2;2;1;False;True;True;True;False;1;1
+955;27720744;Amazing apartment 10P - Marais/République;entire_home;Paris;3e arrondissement;48.8669177438;2.3640754157;10;5;2;2;False;False;True;False;False;0.97;0.93
+956;27721111;Somptueux appartement près de la Tour Eiffel;entire_home;Paris;Passy;48.859890029;2.2780588848;3;2;2;1;False;False;True;False;False;1;1
+957;27740208;New Neat Nest ODEON *Instant Booking* Easy Airport;entire_home;Paris;Saint Germain des Prés - Odéon;48.8525704092;2.3381384498;2;1;0;1;False;True;True;False;False;1;1
+958;27742474;Magnifique appartement parisien, plein de charme !;entire_home;Paris;Père Lachaise - Ménilmontant;48.8620318093;2.3878739001;4;2;2;1;False;True;True;True;False;1;1
+959;27765516;BEAUTIFUL APARTMENT AT CHAMPS ELYSEE;entire_home;Paris;Champs-Elysées;48.8742805912;2.3004257808;2;2;1;1;False;True;True;False;False;1;1
+960;27793419;Studio entièrement équipé;entire_home;Paris;République;48.8621728263;2.3713816544;2;1;0;1;False;False;True;False;False;0.85;0.75
+961;27819145;Superbe appartement 6p avec vue sur le Pantheon;entire_home;Paris;Panthéon;48.8458145267;2.3438789978;6;1;3;1.5;False;True;True;False;False;0.9;0.8
+962;27822870;Studio Arc de Triomphe;private_room;Paris;Champs-Elysées;48.8761182085;2.2934342008;2;0;1;1;False;True;True;False;False;1;1
+963;27843624;Good apartment in paris 11;entire_home;Paris;11e arrondissement;48.8564225125;2.3859459626;2;1;1;1;False;False;True;False;False;0.8;0.6
+964;27915761;Joli 2 pièces atypique - coeur du centre de Paris;entire_home;Paris;Le Marais;48.8646474808;2.3565632631;5;3;2;1;False;True;True;True;False;0.95;0.9
+965;27918931;Beau duplex à deux pas du Trocadero;entire_home;Paris;Tour Eiffel - Champ de Mars;48.863833763;2.2885116622;2;1;1;1;False;True;True;False;False;1;0.9
+966;27923662;Louvre Terrasse;entire_home;Paris;Palais Royal;48.8614666899;2.3410220296;4;2;1;1;False;False;False;True;False;1;1
+967;27951174;Magnifique au centre de Paris. Duplex chaleureux.;entire_home;Paris;Châtelet - Les Halles - Beaubourg;48.8593910126;2.3459597975;4;2;1;2;False;True;True;True;False;1;1
+968;27953552;Deux pièces cosy au pied du métro Charonne (11ème);entire_home;Paris;11e arrondissement;48.8556952902;2.3859625067;2;1;1;1.5;False;True;True;False;False;0.79;0.51
+969;27975463;amazing studio in center Pompidou;entire_home;Paris;Châtelet - Les Halles - Beaubourg;48.8631404943;2.3521291926;2;1;0;1;False;False;True;True;False;1;1
+970;27978488;Quintessentially St.Germain~Parisian Allure;entire_home;Paris;Saint Germain des Prés - Odéon;48.854451061;2.3378445727;3;2;1;1;False;True;True;False;False;1;0.9
+971;27980852;Duplex charment et calme;entire_home;Paris;11e arrondissement;48.8495747996;2.3887331668;3;1;1;1;False;True;True;False;False;1;1
+972;27986775;Wonderful and cosy 2/3 rooms - Heart of Paris;entire_home;Paris;République;48.8686378049;2.3770196295;4;2;1;1;False;False;True;False;False;1;1
+973;27987350;Charming Parisian flat in Montorgeuil !!!;entire_home;Paris;Châtelet - Les Halles - Beaubourg;48.8650359548;2.3487667568;4;1;1;1;False;False;True;True;False;1;1
+974;13652841;Charmant petit studio à Paris 11;entire_home;Paris;11e arrondissement;48.863682;2.380281;2;1;0;1;False;False;True;False;False;0.95;1
+975;28045926;Live Like a French Artist in Bohemian Paris;entire_home;Paris;Buttes-Chaumont - Belleville;48.8711368242;2.3948344268;2;1;0;1;False;True;True;False;False;0.91;0.87
+976;28093743;Have Fun In Paris With Your Friends Or Family !;entire_home;Paris;Buttes-Chaumont - Belleville;48.8712682208;2.3884836811;7;1;4;1;False;True;True;True;False;0.91;0.87
+977;28115949;Comfortable accommodations for 5 next to St Lazare;private_room;Paris;Saint-Lazare;48.8766976118;2.326577569;5;4;2;2;False;True;True;True;False;1;1
+978;28202081;Room near La Fayette Galery;private_room;Paris;Pigalle - Saint-Georges;48.8783476652;2.3382785609;3;2;1;1;False;True;True;False;False;1;1
+979;28169942;Saint Germain Spacious luxury & family apart;entire_home;Paris;Saint-Michel;48.8504959545;2.3443022261;7;5;3;2;False;True;True;True;False;0.97;0.95
+980;28173671;"Come Scream ""Je T'Aime Paris"" In This Central Flat";entire_home;Paris;Palais Royal;48.8633304564;2.3410616198;2;1;0;1;False;True;True;False;False;0.91;0.87
+981;28179069;Chambre dans un petit appart. Tiny room/small flat;private_room;Paris;Nation;48.8470336293;2.3941255961;2;1;1;1;False;False;True;True;False;0.95;0.92
+982;28236618;Cosy rooms for 4;private_room;Paris;Palais Royal;48.864002;2.341418;4;2;2;2;False;True;True;False;False;1;1
+983;28244133;Parizienne Touch near Montparnasse;private_room;Paris;Montparnasse;48.845108;2.320944;2;1;1;1;False;True;True;False;False;1;1
+984;2647185;Elégant appartement Musée Rodin…...;entire_home;Paris;Invalides - Ecole Militaire;48.8552915947;2.3172444916;2;1;1;1;False;False;True;True;False;0.9;0.8
+985;23178617;Appartement familial au centre de Paris;entire_home;Paris;République;48.8712391942;2.37135117;5;2;2;1;False;False;True;False;False;1;1
+986;23856855;Studio pour 1 à 2 personnes;entire_home;Paris;Nation;48.8470707588;2.4112392382;2;1;0;1;False;False;True;True;False;1;1
+987;26026091;Grande chambre dans quartier vivant bien desservi;private_room;Paris;Buttes-Chaumont - Belleville;48.8721419019;2.3788413074;1;1;1;1;False;False;True;False;False;0.85;0.75
+988;28267576;Studio Rue des Canettes Saint - Germain des Pres;entire_home;Paris;Saint Germain des Prés - Odéon;48.8531782328;2.3329164987;2;1;0;1;False;True;True;False;False;1;0.48
+989;28605689;Chic room 2;entire_home;Paris;Saint Germain des Prés - Odéon;48.8517622685;2.3402925223;2;1;1;1;False;True;True;False;False;1;1
+990;28268297;Appartement dans Le Marais;entire_home;Paris;Le Marais;48.8596595986;2.3640450038;2;2;1;1.5;False;True;True;False;False;1;1
+991;28296506;Agréable appartement dans quartier Le Marais;entire_home;Paris;Châtelet - Les Halles - Beaubourg;48.8606083541;2.3489071259;4;2;1;1;False;False;True;False;False;0.95;0.9
+992;28302788;Au cœur du Marais un cocon, Paris 3;entire_home;Paris;3e arrondissement;48.8630664335;2.3647851048;2;2;0;1;False;True;True;False;False;0.96;0.95
+993;28333650;Charming room in the heart of Paris;private_room;Paris;Châtelet - Les Halles - Beaubourg;48.862175;2.348822;2;1;1;1;False;True;True;False;False;1;1
+994;28333678;"Handsome Junior Suite next to ""Louvre Rivoli""";private_room;Paris;Châtelet - Les Halles - Beaubourg;48.8617639208;2.3484642793;2;1;1;1;False;True;True;False;False;1;1
+995;28335197;Studio cosy Jardin du Luxembourg;entire_home;Paris;Saint Germain des Prés - Odéon;48.8486951105;2.3258568632;2;1;0;1;False;True;True;False;False;0.79;1
+996;28583013;Charmant  30m2 - Faubourg Saint Martin;entire_home;Paris;République;48.8716228157;2.3580062179;3;1;1;1;False;True;True;False;False;1;1
+997;28628316;Cosy flat in the marais - Best area;entire_home;Paris;2e arrondissement;48.8674340304;2.351771424;4;2;1;1;False;True;True;True;False;1;1
+998;28792796;Appartement 3 chambres madeleine.;entire_home;Paris;Madeleine - Vendôme;48.8701086669;2.3214749242;6;4;2;1.5;False;True;True;False;False;1;1
+999;28682896;Village Jourdain;private_room;Paris;Buttes-Chaumont - Belleville;48.8754249629;2.3952404126;2;1;1;1;False;True;True;False;False;1;1
