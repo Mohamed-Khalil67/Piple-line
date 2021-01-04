@@ -1,0 +1,10 @@
+fastapi
+gunicorn
+uvicorn
+joblib
+aiofiles
+jinja2
+python-multipart
+scikit-learn
+pandas
+stop_words
