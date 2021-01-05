@@ -5,6 +5,7 @@ import pandas as pd
 import sklearn as sk
 from sklearn.model_selection import train_test_split
 from sklearn.linear_model import LinearRegression
+import joblib
 
 class DataHandler:
     def __init__(self) :
@@ -13,8 +14,8 @@ class DataHandler:
         self.merge = None
     def get_data(self):
         print("_ _ Fetch Data From bucket _ _")
-        self.dataprice=pd.read_csv("https://storage.googleapis.com/h3-data/price_availability.csv",sep=';')  # What is csv : comma separateur virgule
-        self.datalisting=pd.read_csv("https://storage.googleapis.com/h3-data/listings_final.csv",sep=';')
+        self.dataprice=pd.read_csv("DataCSV/price_availability.csv",sep=';')  # What is csv : comma separateur virgule
+        self.datalisting=pd.read_csv("DataCSV/listings_final.csv",sep=';')
         return "_ _  data loaded _ _\nFiles : \n - listing {} \n - prices {} ".format(self.datalisting.shape,self.dataprice.shape)
     def group_data(self):
         print(" - - - Start Data Merging - - - ")
@@ -27,11 +28,13 @@ class DataHandler:
         self.group_data()
         print(self.merge)
         return self.merge
-        print("-- End of DataHandling --")
+        print("-- End of DataHandling --") 
+        print(" - - - Start Data Processing - - - ")
         self.get_data()
         self.group_data()
         print(self.merge)
-        print("_ _ data processed _ _")
+        return self.merge
+        print("-- End of DataHandling --")
 
 class FeatureRecipe:
 
@@ -104,7 +107,7 @@ class FeatureRecipe:
         def deal_nanp(data:pd.DataFrame, threshold: float):
             bf=[]
             for c in self.data.columns.to_list():
-                if self.data[c].isna().sum()/self.data.shape[0] > threshold:
+                if self.data[c].isna().sum()/self.data.shape[0] >= threshold:
                     bf.append(c)
             print("{} feature have more than {} NaN ".format(len(bf), threshold))
             print('\n\n - - - features - - -  \n {}'.format(bf))
@@ -125,9 +128,19 @@ class FeatureRecipe:
         self.separate_variable_types()
         self.deal_dtime()   
         print("-- End of FeatureRecipe --") 
+        print(" - - - Start Preparing Data - - - ")
+        self.drop_uselessf()
+        self.drop_duplicate()
+        self.drop_nanp(threshold)
+        self.separate_variable_types()
+        self.deal_dtime()   
+        print("-- End of FeatureRecipe --") 
 
 
 class FeatureExtractor:
+    """
+    Feature Extractor class
+    """    
     def __init__(self, data: pd.DataFrame, flist: list):
         """
             Input : pandas.DataFrame, feature list to drop
@@ -156,5 +169,59 @@ class FeatureExtractor:
     def get_process_data(self,size:float,rand:int,y:str):
         self.extract()
         self.split(size,rand,y)
+        return self.X_train, self.X_test, self.y_train, self.y_test
+        print("-- Done processing Feature Extractor --")
+        self.extract()
+        self.split(size,rand,y)
         print("-- Done processing Feature Extractor --")
         return self.X_train, self.X_test, self.y_train, self.y_test
+
+class ModelBuilder:
+    """
+        Class for train and print results of ml model 
+    """
+    def __init__(self, model_path: str = None, save: bool = False):
+        self.model_path = model_path
+        self.save = save
+        self.reg = LinearRegression()
+        #self.time = DT.datetime.now()
+
+    def __repr__(self): # class courier python , affichage par default isntancié , methode __str__ 
+        return f'Model Builder : model_path = {self.model_path} , save = {self.save}.'
+
+    def train(self,X,y):
+        print(" - - - Training Start - - - ")
+        self.reg.fit(X,y)
+        print(" - - - Finish training - - - ")
+
+    def predict_test(self, X) -> np.ndarray:  # certain ligne of X_test or y_test
+        print(" - - - Tesitng Certain Ligne - - - ")
+        self.reg.predict(X[0])        
+        print(" - - - Finish Certain Ligne - - - ")
+
+    def predict_from_dump(self, X) -> np.ndarray: #
+        print(" - - - Tesitng From Dump - - - ")
+        self.reg.predict(X)
+        print(" - - - Finished Testing From Dump - - - ")
+
+    def save_model(self): # joblib saving de predict_test of fit , et on faire le dump de joblib par la focntion de predict_from_dump
+        #with the format : 'model_{}_{}'.format(date)
+        print(" - - - Saving Model - - - ")
+        joblib.dump(self.reg,"{}/model.joblib".format(self.model_path))
+        print(" - - - Finished Saving Model - - - ")
+
+    def print_accuracy(self,X_test,y_test): # accuracy c'est le score 
+        print(" - - - Accuracy Printing - - - ")
+        self.reg.score(X_test,y_test)
+        print("Coeffecient Accuracy : {} %".format(self.reg.score(X_test,y_test)*100))
+        print(" - - - Finished Accuracy - - - ")
+
+    def load_model(self): # à partir de fichier joblib , je le mets en instance 
+        #self.model en plsu de model baf... si j'ai pas chargé alors pas de modéle,s'il y a alors charge
+        try:
+            #load model
+            return joblib.load("{}/model_base.joblib".format(self.model_path))
+            ldm = joblib.load("{}/model_base.joblib".format(self.model_path))
+            print("File Loaded Successfully")
+        except:
+            print("File doesn't exist.You must save the model first")
