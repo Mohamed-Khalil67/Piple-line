@@ -36,22 +36,22 @@ ml_template_api
 - ├── requirements.txt
 - ├── Dockerfile
 - └── ml
-  -- ├── __init__.py
-    │
-  -- ├── model.joblib
-    │
-  -- ├── EDA.ipynb
-    │
-  -- ├── algo_pipeline_demo.ipynb
-    │
-  -- └── model.py
-    │
-  -- └── utils
-    │
-  -- ├── __init__.py
-    │
-  -- └── utils.py
- 
+    - - ├── __init__.py
+      │
+    - - ├── model.joblib
+      │
+    - - ├── EDA.ipynb
+      │
+    - - ├── algo_pipeline_demo.ipynb
+      │
+    - - └── model.py
+      │
+    - -└── utils
+      │
+    - -├── __init__.py
+      │
+    - - └── utils.py
+  
  ###
       
 
