@@ -47,8 +47,8 @@ ml_template_api
     - └── model.py
       │
     - └── utils
-            - ├── __init__.py
-            - └── utils.py
+        - ├── __init__.py
+        - └── utils.py
   
  ###
       
