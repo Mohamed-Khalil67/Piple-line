@@ -30,27 +30,27 @@ Classification of the file utils.py
 
 ### API Architecture Tree :-
 
-   -  ml_template_api
-      | |
-      | ├── main.py
-      | ├── requirements.txt
-      | ├── Dockerfile
-      │ └── ml
-      |   ├── __init__.py
-      |   │
-      |   ├── model.joblib
-      |   │
-      |   ├── EDA.ipynb
-      |   │
-      |   ├── algo_pipeline_demo.ipynb
-      |   │
-      |   └── model.py
-      |   │
-      |   └── utils
-      |   │
-      |   ├── __init__.py
-      |   │
-      |   └── utils.py
+ml_template_api
+| |
+| ├── main.py
+| ├── requirements.txt
+| ├── Dockerfile
+│ └── ml
+|   ├── __init__.py
+|   │
+|   ├── model.joblib
+|   │
+|   ├── EDA.ipynb
+|   │
+|   ├── algo_pipeline_demo.ipynb
+|   │
+|   └── model.py
+|   │
+|   └── utils
+|   │
+|   ├── __init__.py
+|   │
+|   └── utils.py
  
  ###
       
