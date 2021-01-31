@@ -14,8 +14,8 @@ class DataHandler:
         self.merge = None
     def get_data(self):
         print("_ _ Fetch Data From bucket _ _")
-        self.dataprice=pd.read_csv("DataCSV/price_availability.csv",sep=';')  # What is csv : comma separateur virgule
-        self.datalisting=pd.read_csv("DataCSV/listings_final.csv",sep=';')
+        self.dataprice=pd.read_csv("https://storage.googleapis.com/h3-data/price_availability.csv",sep=';')  # What is csv : comma separateur virgule
+        self.datalisting=pd.read_csv("https://storage.googleapis.com/h3-data/listings_final.csv",sep=';')
         return "_ _  data loaded _ _\nFiles : \n - listing {} \n - prices {} ".format(self.datalisting.shape,self.dataprice.shape)
     def group_data(self):
         print(" - - - Start Data Merging - - - ")
@@ -26,15 +26,9 @@ class DataHandler:
         print(" - - - Start Data Processing - - - ")
         self.get_data()
         self.group_data()
-        print(self.merge)
         return self.merge
         print("-- End of DataHandling --") 
-        print(" - - - Start Data Processing - - - ")
-        self.get_data()
-        self.group_data()
-        print(self.merge)
-        return self.merge
-        print("-- End of DataHandling --")
+        
 
 class FeatureRecipe:
 
@@ -128,13 +122,6 @@ class FeatureRecipe:
         self.separate_variable_types()
         self.deal_dtime()   
         print("-- End of FeatureRecipe --") 
-        print(" - - - Start Preparing Data - - - ")
-        self.drop_uselessf()
-        self.drop_duplicate()
-        self.drop_nanp(threshold)
-        self.separate_variable_types()
-        self.deal_dtime()   
-        print("-- End of FeatureRecipe --") 
 
 
 class FeatureExtractor:
@@ -171,10 +158,7 @@ class FeatureExtractor:
         self.split(size,rand,y)
         return self.X_train, self.X_test, self.y_train, self.y_test
         print("-- Done processing Feature Extractor --")
-        self.extract()
-        self.split(size,rand,y)
-        print("-- Done processing Feature Extractor --")
-        return self.X_train, self.X_test, self.y_train, self.y_test
+
 
 class ModelBuilder:
     """
