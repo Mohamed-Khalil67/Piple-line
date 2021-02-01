@@ -432,10 +432,8 @@ services:
  ### API Streamlit Link :-
  
  - VM instance est crée avec une activation d'api streamlit de port 8000
-```
-Streamlit Link : http://104.199.46.74:8000/
-
-```
+ 
+    -- Streamlit Link : http://104.199.46.74:8000/
       
 
 
