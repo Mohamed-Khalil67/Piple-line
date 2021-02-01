@@ -434,6 +434,10 @@ services:
  - VM instance est crée avec une activation d'api streamlit de port 8000
  
     -- Streamlit Link : http://104.199.46.74:8000/
+    terminal commande : Streamlit run main.py --server.port=8000 
+ - VM instance jupyter port connexion à 8888 : 
+ 
+    -- 
       
 
 
