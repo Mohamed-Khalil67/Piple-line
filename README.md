@@ -437,7 +437,7 @@ services:
     terminal commande : Streamlit run main.py --server.port=8000 
  - VM instance jupyter port connexion à 8888 : 
  
-    -- 
+    -- Jupyter notebook --no-browser --port=8888 --ip=’0.0.0.0’
       
 
 
