@@ -15,8 +15,8 @@
 #EXPOSE 8000
 #CMD ["./scripts/entrypoint.sh"]
 
-
-FROM python:3.8-slim-buster
+# Version Python alpine est plus petit et pyhton 3.6 
+FROM python:3.8-slim 
 COPY . /app
 WORKDIR /app
 RUN python -m pip install --upgrade pip

@@ -6,7 +6,4 @@ sklearn
 joblib
 plotly
 matplotlib
-stop_words
 seaborn
-datetime
-plotly.express
